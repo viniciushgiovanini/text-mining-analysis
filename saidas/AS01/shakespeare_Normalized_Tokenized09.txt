@@ -1,0 +1,3298 @@
+Dictionary<9 unique tokens: ['claimd', 'contempt', 'faithful', 'or', 'poor']...>
+Dictionary<10 unique tokens: ['and', 'contrive', 'defeated', 'father', 'i']...>
+Dictionary<9 unique tokens: ['and', 'broke', 'expedition', 'flesh', 'her']...>
+Dictionary<9 unique tokens: ['and', 'ever', 'i', 'in', 'lament']...>
+Dictionary<8 unique tokens: ['and', 'butly', 'everything', 'fury', 'he']...>
+Dictionary<8 unique tokens: ['and', 'daily', 'ever', 'great', 'grew']...>
+Dictionary<6 unique tokens: ['bright', 'buds', 'mine', 'of', 'own']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['biondello']>
+Dictionary<8 unique tokens: ['it', 'marry', 'may', 'not', 'patience']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'lear']>
+Dictionary<9 unique tokens: ['as', 'be', 'common', 'instant', 'less']...>
+Dictionary<11 unique tokens: ['a', 'and', 'brave', 'finds', 'gentleman']...>
+Dictionary<9 unique tokens: ['and', 'at', 'fooder', 'full', 'of']...>
+Dictionary<9 unique tokens: ['bridals', 'grace', 'his', 'is', 'it']...>
+Dictionary<10 unique tokens: ['business', 'but', 'every', 'for', 'i']...>
+Dictionary<6 unique tokens: ['contends', 'hath', 'he', 'respected', 'that']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['biron']>
+Dictionary<11 unique tokens: ['and', 'blessed', 'die', 'ill', 'left']...>
+Dictionary<10 unique tokens: ['and', 'bosom', 'her', 'honour', 'in']...>
+Dictionary<8 unique tokens: ['a', 'and', 'as', 'bill', 'from']...>
+Dictionary<6 unique tokens: ['forestem', 'heart', 'in', 'richard', 'with']...>
+Dictionary<8 unique tokens: ['be', 'enough', 'i', 'nor', 'on']...>
+Dictionary<9 unique tokens: ['a', 'dpunishd', 'forth', 'hate', 'obsers']...>
+Dictionary<11 unique tokens: ['as', 'be', 'got', 'i', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['autolycus']>
+Dictionary<11 unique tokens: ['foul', 'hath', 'her', 'love', 'man']...>
+Dictionary<13 unique tokens: ['am', 'are', 'ever', 'from', 'i']...>
+Dictionary<11 unique tokens: ['a', 'am', 'as', 'exclaim', 'i']...>
+Dictionary<10 unique tokens: ['a', 'cease', 'dotage', 'fixed', 'like']...>
+Dictionary<9 unique tokens: ['and', 'conveyard', 'eyes', 'let', 'may']...>
+Dictionary<8 unique tokens: ['a', 'by', 'command', 'dustconfounded', 'land']...>
+Dictionary<11 unique tokens: ['a', 'and', 'be', 'dead', 'griefs']...>
+Dictionary<10 unique tokens: ['and', 'fail', 'good', 'he', 'his']...>
+Dictionary<11 unique tokens: ['a', 'for', 'hath', 'heard', 'me']...>
+Dictionary<9 unique tokens: ['and', 'daughter', 'from', 'got', 'loud']...>
+Dictionary<9 unique tokens: ['all', 'his', 'is', 'pent', 'single']...>
+Dictionary<13 unique tokens: ['as', 'brought', 'from', 'hath', 'he']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['guiderius']>
+Dictionary<3 unique tokens: ['lord', 'my', 'why']>
+Dictionary<9 unique tokens: ['but', 'hands', 'have', 'it', 'my']...>
+Dictionary<8 unique tokens: ['be', 'let', 'return', 'taken', 'that']...>
+Dictionary<12 unique tokens: ['a', 'be', 'dangerous', 'ere', 'good']...>
+Dictionary<11 unique tokens: ['bears', 'for', 'he', 'him', 'it']...>
+Dictionary<10 unique tokens: ['all', 'but', 'deny', 'his', 'islands']...>
+Dictionary<5 unique tokens: ['and', 'force', 'grant', 'i', 'it']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['abhorson']>
+Dictionary<9 unique tokens: ['a', 'art', 'earth', 'keeping', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['talbot']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'king', 'viii']>
+Dictionary<1 unique tokens: ['now']>
+Dictionary<5 unique tokens: ['for', 'have', 'lead', 'me', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['kent']>
+Dictionary<8 unique tokens: ['but', 'ease', 'in', 'numbers', 'the']...>
+Dictionary<13 unique tokens: ['at', 'be', 'death', 'he', 'hot']...>
+Dictionary<9 unique tokens: ['far', 'general', 'good', 'had', 'not']...>
+Dictionary<7 unique tokens: ['arrest', 'buried', 'make', 'them', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['timon']>
+Dictionary<6 unique tokens: ['and', 'dangerous', 'hath', 'sere', 'stay']...>
+Dictionary<10 unique tokens: ['a', 'breath', 'broke', 'deeds', 'grace']...>
+Dictionary<8 unique tokens: ['alack', 'and', 'do', 'husband', 'speak']...>
+Dictionary<9 unique tokens: ['abroad', 'and', 'at', 'doth', 'go']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassius']>
+Dictionary<3 unique tokens: ['and', 'desire', 'in']>
+Dictionary<5 unique tokens: ['and', 'ballant', 'calld', 'cassius', 'me']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bardolph']>
+Dictionary<8 unique tokens: ['in', 'it', 'madder', 'take', 'then']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duke', 'of', 'york']>
+Dictionary<10 unique tokens: ['a', 'advice', 'be', 'chaste', 'ready']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['neris', 'second']>
+Dictionary<9 unique tokens: ['and', 'blessed', 'can', 'france', 'know']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['antipholus', 'ephesus', 'of']>
+Dictionary<6 unique tokens: ['gentlemen', 'i', 'lady', 'not', 'outlive']...>
+Dictionary<10 unique tokens: ['despised', 'i', 'not', 'our', 'sit']...>
+Dictionary<5 unique tokens: ['duke', 'from', 'gloucesters', 'name', 'of']>
+Dictionary<7 unique tokens: ['and', 'but', 'look', 'my', 'noblemans']...>
+Dictionary<8 unique tokens: ['a', 'bandible', 'contemnd', 'embure', 'hath']...>
+Dictionary<8 unique tokens: ['and', 'bend', 'day', 'in', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ajax']>
+Dictionary<6 unique tokens: ['cut', 'cuttances', 'mattle', 'o', 'strict']...>
+Dictionary<10 unique tokens: ['down', 'fellow', 'for', 'had', 'i']...>
+Dictionary<5 unique tokens: ['found', 'have', 'hope', 'lordship', 'your']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<8 unique tokens: ['done', 'have', 'how', 'i', 'them']...>
+Dictionary<10 unique tokens: ['a', 'brook', 'ingrateful', 'is', 'minute']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['marcellus']>
+Dictionary<11 unique tokens: ['break', 'every', 'for', 'hear', 'i']...>
+Dictionary<11 unique tokens: ['bear', 'deny', 'him', 'i', 'ill']...>
+Dictionary<8 unique tokens: ['and', 'dangerous', 'fort', 'from', 'happy']...>
+Dictionary<10 unique tokens: ['and', 'death', 'his', 'not', 'qualities']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['demetrius']>
+Dictionary<11 unique tokens: ['aumerle', 'but', 'come', 'do', 'for']...>
+Dictionary<10 unique tokens: ['and', 'before', 'cause', 'fear', 'i']...>
+Dictionary<7 unique tokens: ['and', 'behold', 'bristing', 'friend', 'in']...>
+Dictionary<10 unique tokens: ['boy', 'but', 'deed', 'do', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['idar', 'king', 'willoughby']>
+Dictionary<7 unique tokens: ['me', 'o', 'speak', 'then', 'thou']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gower']>
+Dictionary<6 unique tokens: ['along', 'at', 'leave', 'poor', 'queen']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['capulet']>
+Dictionary<3 unique tokens: ['good', 'no', 'sir']>
+Dictionary<8 unique tokens: ['a', 'and', 'down', 'make', 'me']...>
+Dictionary<9 unique tokens: ['any', 'breast', 'here', 'it', 'of']...>
+Dictionary<9 unique tokens: ['a', 'begin', 'behind', 'looks', 'man']...>
+Dictionary<9 unique tokens: ['art', 'as', 'but', 'cases', 'city']...>
+Dictionary<6 unique tokens: ['go', 'have', 'held', 'i', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['valentine']>
+Dictionary<10 unique tokens: ['are', 'falln', 'in', 'me', 'never']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['caesar']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['murderer', 'second']>
+Dictionary<9 unique tokens: ['chamber', 'good', 'if', 'is', 'lord']...>
+Dictionary<2 unique tokens: ['shepherd', 'the']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['murderer', 'second']>
+Dictionary<7 unique tokens: ['go', 'he', 'her', 'is', 'let']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['norfolk']>
+Dictionary<6 unique tokens: ['brother', 'by', 'come', 'sweet', 'thy']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['helena']>
+Dictionary<8 unique tokens: ['be', 'did', 'entreatable', 'he', 'is']...>
+Dictionary<10 unique tokens: ['beauty', 'from', 'him', 'is', 'island']...>
+Dictionary<8 unique tokens: ['a', 'fixed', 'hearts', 'if', 'seagood']...>
+Dictionary<10 unique tokens: ['bull', 'had', 'here', 'himself', 'in']...>
+Dictionary<9 unique tokens: ['be', 'done', 'from', 'his', 'shall']...>
+Dictionary<5 unique tokens: ['conistering', 'faction', 'guards', 'on', 'their']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bassanio']>
+Dictionary<13 unique tokens: ['a', 'and', 'come', 'did', 'farewell']...>
+Dictionary<5 unique tokens: ['are', 'bloody', 'i', 'knew', 'we']>
+Dictionary<10 unique tokens: ['a', 'must', 'not', 'of', 'pluck']...>
+Dictionary<7 unique tokens: ['an', 'and', 'down', 'empty', 'love']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['gentleman', 'second']>
+Dictionary<8 unique tokens: ['and', 'for', 'france', 'kill', 'our']...>
+Dictionary<11 unique tokens: ['as', 'beseech', 'but', 'fear', 'i']...>
+Dictionary<8 unique tokens: ['can', 'hear', 'i', 'not', 'please']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['countess']>
+Dictionary<12 unique tokens: ['ancient', 'and', 'be', 'face', 'i']...>
+Dictionary<11 unique tokens: ['and', 'came', 'here', 'i', 'love']...>
+Dictionary<11 unique tokens: ['a', 'an', 'brookgast', 'eat', 'excellent']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['malvolio']>
+Dictionary<9 unique tokens: ['again', 'fair', 'good', 'i', 'john']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['emilia']>
+Dictionary<4 unique tokens: ['but', 'dead', 'here', 'is']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['malvolio']>
+Dictionary<10 unique tokens: ['bloody', 'difference', 'eer', 'good', 'if']...>
+Dictionary<11 unique tokens: ['and', 'be', 'fought', 'have', 'it']...>
+Dictionary<12 unique tokens: ['an', 'bearst', 'by', 'do', 'go']...>
+Dictionary<10 unique tokens: ['be', 'do', 'i', 'not', 'proud']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['glendower']>
+Dictionary<9 unique tokens: ['best', 'construct', 'eyes', 'ill', 'my']...>
+Dictionary<9 unique tokens: ['a', 'friend', 'have', 'i', 'my']...>
+Dictionary<10 unique tokens: ['about', 'and', 'heart', 'lord', 'my']...>
+Dictionary<9 unique tokens: ['bear', 'for', 'i', 'not', 'swiftness']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['john', 'king']>
+Dictionary<7 unique tokens: ['a', 'all', 'and', 'house', 'mother']...>
+Dictionary<12 unique tokens: ['amen', 'be', 'full', 'gold', 'i']...>
+Dictionary<3 unique tokens: ['from', 'husband', 'my']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['lucius']>
+Dictionary<9 unique tokens: ['a', 'but', 'demural', 'free', 'loyal']...>
+Dictionary<7 unique tokens: ['chain', 'is', 'it', 'slew', 'that']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<6 unique tokens: ['fight', 'hope', 'madam', 'o', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['falstaff']>
+Dictionary<8 unique tokens: ['but', 'dullars', 'fall', 'fault', 'no']...>
+Dictionary<9 unique tokens: ['ask', 'ford', 'from', 'guilty', 'let']...>
+Dictionary<14 unique tokens: ['chid', 'confess', 'deliberate', 'fame', 'i']...>
+Dictionary<7 unique tokens: ['all', 'is', 'it', 'men', 'more']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ajax']>
+Dictionary<4 unique tokens: ['i', 'know', 'not', 'what']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['host']>
+Dictionary<11 unique tokens: ['as', 'babble', 'be', 'bed', 'he']...>
+Dictionary<9 unique tokens: ['and', 'by', 'had', 'here', 'me']...>
+Dictionary<10 unique tokens: ['i', 'or', 'own', 'seems', 'should']...>
+Dictionary<6 unique tokens: ['england', 'for', 'in', 'paris', 'rest']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassio']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['celia']>
+Dictionary<10 unique tokens: ['an', 'effect', 'find', 'is', 'must']...>
+Dictionary<2 unique tokens: ['alike', 'master']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<9 unique tokens: ['again', 'are', 'back', 'for', 'heart']...>
+Dictionary<12 unique tokens: ['brutus', 'go', 'him', 'hope', 'is']...>
+Dictionary<11 unique tokens: ['a', 'and', 'count', 'day', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['coriolanus']>
+Dictionary<6 unique tokens: ['let', 'our', 'ripe', 'see', 'us']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<9 unique tokens: ['and', 'cousin', 'have', 'i', 'met']...>
+Dictionary<4 unique tokens: ['and', 'in', 'the', 'world']>
+Dictionary<9 unique tokens: ['bodies', 'discharge', 'it', 'parties', 'that']...>
+Dictionary<5 unique tokens: ['a', 'glumber', 'perfect', 'to', 'tower']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['caesar', 'octavius']>
+Dictionary<5 unique tokens: ['a', 'part', 'tame', 'the', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['balthasar']>
+Dictionary<12 unique tokens: ['all', 'as', 'gave', 'have', 'highness']...>
+Dictionary<10 unique tokens: ['business', 'hear', 'my', 'of', 'single']...>
+Dictionary<8 unique tokens: ['and', 'down', 'even', 'flives', 'on']...>
+Dictionary<7 unique tokens: ['and', 'conusteries', 'open', 'own', 'their']...>
+Dictionary<8 unique tokens: ['break', 'eyes', 'grave', 'humphreys', 'neer']...>
+Dictionary<9 unique tokens: ['am', 'chamber', 'dear', 'his', 'i']...>
+Dictionary<7 unique tokens: ['and', 'frozen', 'here', 'hospish', 'name']...>
+Dictionary<8 unique tokens: ['and', 'i', 'in', 'legely', 'light']...>
+Dictionary<11 unique tokens: ['an', 'argument', 'by', 'fears', 'glimmed']...>
+Dictionary<9 unique tokens: ['a', 'as', 'be', 'estimation', 'great']...>
+Dictionary<7 unique tokens: ['before', 'fit', 'for', 'talk', 'them']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'king', 'v']>
+Dictionary<11 unique tokens: ['and', 'but', 'gost', 'her', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['john', 'king']>
+Dictionary<5 unique tokens: ['by', 'fair', 'it', 'paris', 'was']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['duchess']>
+Dictionary<6 unique tokens: ['ever', 'his', 'honour', 'ill', 'nay']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['othello']>
+Dictionary<3 unique tokens: ['amen', 'good', 'morrow']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cressida']>
+Dictionary<12 unique tokens: ['follow', 'grace', 'great', 'i', 'not']...>
+Dictionary<10 unique tokens: ['a', 'and', 'art', 'him', 'scruple']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'lear']>
+Dictionary<11 unique tokens: ['i', 'love', 'loyal', 'my', 'of']...>
+Dictionary<8 unique tokens: ['and', 'henceforwards', 'my', 'submiss', 'the']...>
+Dictionary<8 unique tokens: ['as', 'lives', 'mockd', 'my', 'pardon']...>
+Dictionary<7 unique tokens: ['and', 'attore', 'lop', 'sack', 'shrum']...>
+Dictionary<8 unique tokens: ['again', 'be', 'brimfibed', 'but', 'preserved']...>
+Dictionary<8 unique tokens: ['early', 'enough', 'i', 'my', 'so']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['macbeth']>
+Dictionary<10 unique tokens: ['any', 'branch', 'debour', 'ere', 'him']...>
+Dictionary<10 unique tokens: ['a', 'be', 'but', 'day', 'merry']...>
+Dictionary<9 unique tokens: ['exploits', 'fools', 'look', 'of', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'lear']>
+Dictionary<11 unique tokens: ['all', 'and', 'at', 'bell', 'beseems']...>
+Dictionary<6 unique tokens: ['how', 'lend', 'me', 'part', 'see']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['banquo']>
+Dictionary<7 unique tokens: ['a', 'doth', 'maletration', 'mine', 'torch']...>
+Dictionary<7 unique tokens: ['as', 'bloody', 'condemnd', 'his', 'kingdom']...>
+Dictionary<11 unique tokens: ['bound', 'dares', 'have', 'it', 'let']...>
+Dictionary<9 unique tokens: ['a', 'buy', 'child', 'is', 'noble']...>
+Dictionary<7 unique tokens: ['hath', 'his', 'impudent', 'life', 'or']...>
+Dictionary<9 unique tokens: ['are', 'be', 'married', 'my', 'she']...>
+Dictionary<9 unique tokens: ['and', 'cases', 'he', 'in', 'keeps']...>
+Dictionary<11 unique tokens: ['and', 'bloody', 'break', 'heart', 'in']...>
+Dictionary<8 unique tokens: ['a', 'as', 'between', 'every', 'is']...>
+Dictionary<10 unique tokens: ['angerous', 'brother', 'o', 'present', 'should']...>
+Dictionary<7 unique tokens: ['by', 'continual', 'enemy', 'gates', 'justice']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['sicinius']>
+Dictionary<4 unique tokens: ['be', 'more', 'no', 'o']>
+Dictionary<10 unique tokens: ['all', 'be', 'bound', 'fair', 'french']...>
+Dictionary<12 unique tokens: ['a', 'and', 'branch', 'fair', 'gentleman']...>
+Dictionary<9 unique tokens: ['are', 'by', 'eye', 'other', 'praised']...>
+Dictionary<8 unique tokens: ['but', 'ground', 'i', 'know', 'likey']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['elizabeth', 'queen']>
+Dictionary<11 unique tokens: ['am', 'as', 'choked', 'each', 'i']...>
+Dictionary<11 unique tokens: ['a', 'are', 'between', 'fanny', 'fault']...>
+Dictionary<7 unique tokens: ['and', 'her', 'lightly', 'read', 'them']...>
+Dictionary<12 unique tokens: ['been', 'blind', 'bonds', 'damned', 'have']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['citizen', 'second']>
+Dictionary<1 unique tokens: ['no']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'lord']>
+Dictionary<7 unique tokens: ['can', 'host', 'i', 'no', 'not']...>
+Dictionary<10 unique tokens: ['amazedgo', 'be', 'but', 'hands', 'i']...>
+Dictionary<8 unique tokens: ['are', 'hand', 'haste', 'in', 'marshally']...>
+Dictionary<11 unique tokens: ['and', 'as', 'cassius', 'husband', 'naked']...>
+Dictionary<7 unique tokens: ['and', 'bone', 'in', 'offerd', 'silent']...>
+Dictionary<8 unique tokens: ['commanded', 'do', 'me', 'shall', 'should']...>
+Dictionary<10 unique tokens: ['but', 'for', 'his', 'in', 'knowst']...>
+Dictionary<9 unique tokens: ['all', 'bring', 'command', 'love', 'me']...>
+Dictionary<9 unique tokens: ['and', 'bed', 'conceits', 'had', 'hand']...>
+Dictionary<9 unique tokens: ['are', 'dangerous', 'doth', 'find', 'it']...>
+Dictionary<12 unique tokens: ['choked', 'daughter', 'diomed', 'had', 'he']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'second']>
+Dictionary<9 unique tokens: ['all', 'children', 'he', 'his', 'is']...>
+Dictionary<5 unique tokens: ['defendant', 'his', 'name', 'she', 'their']>
+Dictionary<8 unique tokens: ['day', 'eat', 'indeed', 'shouldst', 'speak']...>
+Dictionary<9 unique tokens: ['by', 'drunk', 'have', 'i', 'know']...>
+Dictionary<8 unique tokens: ['cousin', 'hubert', 'of', 'seemeth', 'table']...>
+Dictionary<5 unique tokens: ['claughterd', 'her', 'obedience', 'present', 'with']>
+Dictionary<7 unique tokens: ['of', 'safety', 'the', 'their', 'time']...>
+Dictionary<8 unique tokens: ['faces', 'hath', 'he', 'me', 'my']...>
+Dictionary<8 unique tokens: ['all', 'come', 'distracting', 'had', 'he']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['aeneas']>
+Dictionary<10 unique tokens: ['a', 'and', 'for', 'hatch', 'hectors']...>
+Dictionary<11 unique tokens: ['a', 'and', 'civil', 'fit', 'happy']...>
+Dictionary<11 unique tokens: ['and', 'dolour', 'et', 'here', 'liege']...>
+Dictionary<9 unique tokens: ['be', 'cold', 'content', 'high', 'princes']...>
+Dictionary<7 unique tokens: ['a', 'charge', 'glorious', 'manage', 'measure']...>
+Dictionary<3 unique tokens: ['asleep', 'ill', 'sir']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['mercutio']>
+Dictionary<9 unique tokens: ['but', 'i', 'not', 'regreet', 'suffoce']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['gentleman', 'third']>
+Dictionary<9 unique tokens: ['cousin', 'john', 'loves', 'me', 'northumberland']...>
+Dictionary<6 unique tokens: ['and', 'comes', 'inservant', 'it', 'most']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['emilia']>
+Dictionary<3 unique tokens: ['madam', 'me', 'pardon']>
+Dictionary<11 unique tokens: ['as', 'best', 'in', 'it', 'not']...>
+Dictionary<9 unique tokens: ['as', 'famished', 'he', 'nurse', 'says']...>
+Dictionary<10 unique tokens: ['beat', 'knights', 'make', 'of', 'passage']...>
+Dictionary<8 unique tokens: ['a', 'feebleness', 'his', 'huntred', 'not']...>
+Dictionary<9 unique tokens: ['from', 'hands', 'heart', 'ill', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'vincentio']>
+Dictionary<10 unique tokens: ['all', 'glad', 'hast', 'he', 'me']...>
+Dictionary<11 unique tokens: ['and', 'book', 'em', 'i', 'of']...>
+Dictionary<7 unique tokens: ['in', 'is', 'of', 'performd', 'pipe']...>
+Dictionary<7 unique tokens: ['bear', 'joind', 'must', 'noving', 'the']...>
+Dictionary<6 unique tokens: ['bringing', 'from', 'is', 'one', 'recreantly']...>
+Dictionary<6 unique tokens: ['a', 'field', 'in', 'make', 'peace']...>
+Dictionary<9 unique tokens: ['have', 'head', 'i', 'other', 'shall']...>
+Dictionary<8 unique tokens: ['are', 'death', 'give', 'me', 'of']...>
+Dictionary<5 unique tokens: ['else', 'ground', 'or', 'resolved', 'too']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['lieutenant']>
+Dictionary<8 unique tokens: ['command', 'do', 'fares', 'how', 'it']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pistol']>
+Dictionary<9 unique tokens: ['from', 'garland', 'lay', 'my', 'name']...>
+Dictionary<11 unique tokens: ['and', 'caesar', 'good', 'her', 'in']...>
+Dictionary<9 unique tokens: ['all', 'he', 'if', 'people', 'proud']...>
+Dictionary<10 unique tokens: ['and', 'be', 'flesh', 'for', 'honour']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ajax']>
+Dictionary<8 unique tokens: ['fair', 'further', 'ill', 'kind', 'never']...>
+Dictionary<9 unique tokens: ['and', 'but', 'by', 'only', 'prey']...>
+Dictionary<10 unique tokens: ['a', 'and', 'gold', 'got', 'more']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'philip']>
+Dictionary<7 unique tokens: ['had', 'laughmans', 'not', 'peace', 'subjects']...>
+Dictionary<11 unique tokens: ['am', 'be', 'crown', 'here', 'house']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'second']>
+Dictionary<8 unique tokens: ['a', 'him', 'make', 'showledge', 'that']...>
+Dictionary<10 unique tokens: ['a', 'again', 'are', 'better', 'causes']...>
+Dictionary<10 unique tokens: ['and', 'are', 'beached', 'courtier', 'every']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
+Dictionary<11 unique tokens: ['and', 'cail', 'face', 'he', 'her']...>
+Dictionary<10 unique tokens: ['about', 'any', 'charge', 'here', 'his']...>
+Dictionary<12 unique tokens: ['and', 'dispite', 'good', 'hands', 'mother']...>
+Dictionary<7 unique tokens: ['and', 'had', 'indifferents', 'now', 'of']...>
+Dictionary<11 unique tokens: ['dost', 'house', 'household', 'in', 'noble']...>
+Dictionary<7 unique tokens: ['bolderd', 'coveration', 'in', 'offence', 'peer']...>
+Dictionary<9 unique tokens: ['are', 'beseeming', 'in', 'more', 'packet']...>
+Dictionary<8 unique tokens: ['gives', 'greatness', 'lawyers', 'minds', 'o']...>
+Dictionary<9 unique tokens: ['and', 'flatterd', 'have', 'i', 'my']...>
+Dictionary<11 unique tokens: ['and', 'but', 'enemy', 'hope', 'mine']...>
+Dictionary<5 unique tokens: ['daggers', 'government', 'of', 'send', 'their']>
+Dictionary<9 unique tokens: ['doth', 'ever', 'feed', 'have', 'on']...>
+Dictionary<11 unique tokens: ['lets', 'lords', 'palms', 'quick', 'soldiers']...>
+Dictionary<9 unique tokens: ['and', 'another', 'cause', 'have', 'her']...>
+Dictionary<3 unique tokens: ['circumstance', 'taking', 'three']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['imogen']>
+Dictionary<7 unique tokens: ['by', 'i', 'romeo', 'state', 'strike']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['iago']>
+Dictionary<6 unique tokens: ['a', 'are', 'mirror', 'put', 'sir']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['caesar', 'octavius']>
+Dictionary<10 unique tokens: ['arms', 'before', 'call', 'come', 'fellow']...>
+Dictionary<10 unique tokens: ['judgment', 'may', 'nature', 'of', 'out']...>
+Dictionary<9 unique tokens: ['and', 'bohemia', 'come', 'do', 'ere']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['antonio']>
+Dictionary<3 unique tokens: ['capulet', 'comes', 'here']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassius']>
+Dictionary<11 unique tokens: ['can', 'days', 'earthly', 'i', 'lord']...>
+Dictionary<12 unique tokens: ['a', 'army', 'be', 'but', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['belch', 'sir', 'toby']>
+Dictionary<14 unique tokens: ['a', 'as', 'blame', 'can', 'do']...>
+Dictionary<7 unique tokens: ['adders', 'are', 'as', 'comes', 'hither']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duke', 'of', 'york']>
+Dictionary<8 unique tokens: ['dare', 'do', 'i', 'lord', 'most']...>
+Dictionary<6 unique tokens: ['again', 'by', 'leave', 'nor', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lady', 'macbeth']>
+Dictionary<6 unique tokens: ['be', 'is', 'it', 'not', 'so']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['rosalind']>
+Dictionary<8 unique tokens: ['a', 'gentle', 'he', 'judgment', 'seen']...>
+Dictionary<5 unique tokens: ['execute', 'is', 'patience', 'them', 'worthy']>
+Dictionary<9 unique tokens: ['and', 'by', 'came', 'command', 'gentlemen']...>
+Dictionary<12 unique tokens: ['but', 'fall', 'hath', 'heard', 'king']...>
+Dictionary<3 unique tokens: ['angry', 'by', 'vassals']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['crimon']>
+Dictionary<10 unique tokens: ['a', 'and', 'breath', 'four', 'good']...>
+Dictionary<9 unique tokens: ['a', 'as', 'father', 'his', 'language']...>
+Dictionary<8 unique tokens: ['and', 'believed', 'hath', 'noble', 'plucking']...>
+Dictionary<8 unique tokens: ['means', 'mind', 'the', 'thereof', 'thou']...>
+Dictionary<10 unique tokens: ['a', 'and', 'by', 'debtor', 'feed']...>
+Dictionary<8 unique tokens: ['be', 'from', 'frower', 'hunter', 'stroked']...>
+Dictionary<10 unique tokens: ['as', 'disclose', 'falsely', 'feast', 'in']...>
+Dictionary<10 unique tokens: ['as', 'bear', 'more', 'no', 'not']...>
+Dictionary<7 unique tokens: ['by', 'if', 'made', 'never', 'she']...>
+Dictionary<9 unique tokens: ['ensue', 'even', 'island', 'london', 'lusty']...>
+Dictionary<4 unique tokens: ['of', 'rax', 'rome', 'the']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['warwick']>
+Dictionary<8 unique tokens: ['expension', 'for', 'good', 'greatness', 'man']...>
+Dictionary<7 unique tokens: ['beguiled', 'he', 'is', 'right', 'that']...>
+Dictionary<10 unique tokens: ['before', 'contempt', 'devil', 'is', 'it']...>
+Dictionary<8 unique tokens: ['be', 'before', 'full', 'himself', 'i']...>
+Dictionary<9 unique tokens: ['a', 'be', 'fantasy', 'honour', 'moderate']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['tranio']>
+Dictionary<9 unique tokens: ['art', 'convenient', 'kingdom', 'mean', 'no']...>
+Dictionary<5 unique tokens: ['and', 'did', 'himself', 'now', 'said']>
+Dictionary<10 unique tokens: ['a', 'been', 'but', 'by', 'father']...>
+Dictionary<10 unique tokens: ['by', 'infant', 'kind', 'my', 'norfolk']...>
+Dictionary<8 unique tokens: ['and', 'firm', 'hath', 'pantion', 'physic']...>
+Dictionary<7 unique tokens: ['dug', 'each', 'earth', 'of', 'ranged']...>
+Dictionary<9 unique tokens: ['be', 'me', 'repent', 'state', 'subdue']...>
+Dictionary<8 unique tokens: ['again', 'and', 'heart', 'my', 'sister']...>
+Dictionary<9 unique tokens: ['abated', 'bear', 'for', 'now', 'thanks']...>
+Dictionary<10 unique tokens: ['and', 'by', 'guilty', 'it', 'malice']...>
+Dictionary<8 unique tokens: ['death', 'fates', 'grace', 'heavier', 'of']...>
+Dictionary<10 unique tokens: ['as', 'chid', 'field', 'hair', 'i']...>
+Dictionary<9 unique tokens: ['before', 'blow', 'letters', 'meat', 'out']...>
+Dictionary<9 unique tokens: ['and', 'are', 'dead', 'my', 'ourselves']...>
+Dictionary<7 unique tokens: ['and', 'contracted', 'in', 'legs', 'melted']...>
+Dictionary<9 unique tokens: ['aim', 'be', 'beer', 'blind', 'both']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['isabella']>
+Dictionary<5 unique tokens: ['a', 'of', 'sway', 'the', 'warrior']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['evans', 'hugh', 'sir']>
+Dictionary<12 unique tokens: ['all', 'and', 'as', 'calld', 'eating']...>
+Dictionary<6 unique tokens: ['for', 'life', 'oer', 'the', 'way']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['sicinius']>
+Dictionary<6 unique tokens: ['discredit', 'master', 'my', 'never', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<4 unique tokens: ['adriano', 'armado', 'de', 'don']>
+Dictionary<4 unique tokens: ['matter', 'now', 'the', 'whats']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['theseus']>
+Dictionary<5 unique tokens: ['her', 'may', 'theres', 'washed', 'we']>
+Dictionary<7 unique tokens: ['a', 'but', 'conduct', 'horns', 'most']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['hostess']>
+Dictionary<3 unique tokens: ['come', 'lord', 'my']>
+Dictionary<10 unique tokens: ['countrys', 'cure', 'does', 'how', 'of']...>
+Dictionary<12 unique tokens: ['a', 'again', 'beggars', 'by', 'fellow']...>
+Dictionary<7 unique tokens: ['besides', 'body', 'himself', 'in', 'kissed']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['tranio']>
+Dictionary<9 unique tokens: ['excellent', 'for', 'gainst', 'hear', 'i']...>
+Dictionary<7 unique tokens: ['bark', 'fair', 'fear', 'i', 'saturnine']...>
+Dictionary<10 unique tokens: ['a', 'am', 'he', 'i', 'me']...>
+Dictionary<4 unique tokens: ['is', 'not', 'this', 'titus']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['margaret', 'queen']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['coriolanus']>
+Dictionary<6 unique tokens: ['look', 'not', 'now', 'that', 'well']...>
+Dictionary<6 unique tokens: ['do', 'leave', 'none', 'rough', 'things']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['pirator', 'second']>
+Dictionary<12 unique tokens: ['a', 'above', 'are', 'most', 'picture']...>
+Dictionary<7 unique tokens: ['mood', 'or', 'please', 'policy', 'the']...>
+Dictionary<10 unique tokens: ['and', 'business', 'deadly', 'glad', 'hale']...>
+Dictionary<8 unique tokens: ['a', 'am', 'as', 'deliverd', 'i']...>
+Dictionary<9 unique tokens: ['before', 'i', 'lamented', 'moon', 'said']...>
+Dictionary<10 unique tokens: ['an', 'arm', 'fortune', 'him', 'let']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['messenger']>
+Dictionary<8 unique tokens: ['ay', 'of', 'same', 'seas', 'sir']...>
+Dictionary<10 unique tokens: ['a', 'and', 'base', 'circumstance', 'daughter']...>
+Dictionary<6 unique tokens: ['as', 'be', 'he', 'me', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['emilia']>
+Dictionary<7 unique tokens: ['eyes', 'guilty', 'his', 'is', 'loss']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'vincentio']>
+Dictionary<3 unique tokens: ['is', 'this', 'what']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['murderer', 'second']>
+Dictionary<8 unique tokens: ['calls', 'man', 'norfolk', 'of', 'realm']...>
+Dictionary<9 unique tokens: ['and', 'at', 'bear', 'lodging', 'nor']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['clown']>
+Dictionary<12 unique tokens: ['a', 'an', 'can', 'clock', 'have']...>
+Dictionary<7 unique tokens: ['hope', 'patch', 'to', 'unlove', 'will']...>
+Dictionary<7 unique tokens: ['and', 'brutish', 'our', 'schoolmaster', 'to']...>
+Dictionary<9 unique tokens: ['a', 'evers', 'hast', 'hear', 'hope']...>
+Dictionary<10 unique tokens: ['can', 'conceive', 'custom', 'go', 'have']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['andronicus', 'titus']>
+Dictionary<4 unique tokens: ['coriolanus', 'doth', 'she', 'to']>
+Dictionary<9 unique tokens: ['enough', 'fear', 'foot', 'french', 'gainst']...>
+Dictionary<9 unique tokens: ['antony', 'but', 'dip', 'from', 'in']...>
+Dictionary<9 unique tokens: ['buds', 'i', 'know', 'my', 'secret']...>
+Dictionary<3 unique tokens: ['murmured', 'over', 'same']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['valentine']>
+Dictionary<9 unique tokens: ['duke', 'fallings', 'on', 'put', 'she']...>
+Dictionary<9 unique tokens: ['and', 'canopy', 'discovery', 'faithful', 'friend']...>
+Dictionary<12 unique tokens: ['be', 'call', 'dear', 'didst', 'grief']...>
+Dictionary<9 unique tokens: ['earth', 'for', 'good', 'ill', 'morrow']...>
+Dictionary<1 unique tokens: ['remuneration']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['hamlet']>
+Dictionary<3 unique tokens: ['hes', 'man', 'the']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['caesar']>
+Dictionary<11 unique tokens: ['a', 'am', 'every', 'have', 'i']...>
+Dictionary<11 unique tokens: ['a', 'doth', 'face', 'followd', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['servant', 'third']>
+Dictionary<10 unique tokens: ['a', 'can', 'hence', 'him', 'hurt']...>
+Dictionary<12 unique tokens: ['a', 'any', 'bare', 'crimes', 'even']...>
+Dictionary<4 unique tokens: ['husband', 'special', 'were', 'who']>
+Dictionary<9 unique tokens: ['and', 'as', 'fresh', 'night', 'such']...>
+Dictionary<9 unique tokens: ['came', 'do', 'fableservice', 'i', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['aufidius']>
+Dictionary<10 unique tokens: ['best', 'but', 'hes', 'him', 'i']...>
+Dictionary<8 unique tokens: ['downlight', 'ever', 'great', 'i', 'lay']...>
+Dictionary<9 unique tokens: ['all', 'but', 'fellow', 'inct', 'mother']...>
+Dictionary<8 unique tokens: ['and', 'confused', 'help', 'peace', 'the']...>
+Dictionary<10 unique tokens: ['any', 'awhile', 'child', 'have', 'i']...>
+Dictionary<12 unique tokens: ['and', 'fled', 'heaven', 'is', 'let']...>
+Dictionary<11 unique tokens: ['again', 'and', 'as', 'be', 'but']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['athallot']>
+Dictionary<9 unique tokens: ['i', 'it', 'kept', 'tis', 'unwell']...>
+Dictionary<13 unique tokens: ['and', 'begin', 'better', 'captive', 'do']...>
+Dictionary<12 unique tokens: ['an', 'and', 'but', 'die', 'exhibition']...>
+Dictionary<11 unique tokens: ['a', 'am', 'and', 'are', 'christenders']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['baptista']>
+Dictionary<11 unique tokens: ['a', 'and', 'bond', 'broke', 'brought']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'philip']>
+Dictionary<7 unique tokens: ['and', 'he', 'if', 'it', 'know']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassius']>
+Dictionary<10 unique tokens: ['a', 'commoner', 'fellow', 'here', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['anne', 'page']>
+Dictionary<10 unique tokens: ['by', 'him', 'me', 'needst', 'no']...>
+Dictionary<11 unique tokens: ['for', 'fortune', 'from', 'loves', 'not']...>
+Dictionary<8 unique tokens: ['all', 'better', 'commission', 'into', 'queens']...>
+Dictionary<11 unique tokens: ['as', 'fought', 'good', 'king', 'my']...>
+Dictionary<8 unique tokens: ['bounties', 'her', 'let', 'may', 'my']...>
+Dictionary<8 unique tokens: ['are', 'as', 'come', 'fear', 'ferring']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['horatio']>
+Dictionary<9 unique tokens: ['as', 'est', 'fast', 'his', 'shippus']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['clown']>
+Dictionary<9 unique tokens: ['blood', 'father', 'for', 'fortune', 'my']...>
+Dictionary<8 unique tokens: ['an', 'and', 'but', 'death', 'excellent']...>
+Dictionary<8 unique tokens: ['a', 'all', 'and', 'blood', 'lose']...>
+Dictionary<5 unique tokens: ['and', 'blessing', 'cause', 'his', 'pretty']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
+Dictionary<6 unique tokens: ['do', 'it', 'not', 'nurse', 'take']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bedford']>
+Dictionary<9 unique tokens: ['do', 'good', 'grecian', 'ill', 'marry']...>
+Dictionary<9 unique tokens: ['daughter', 'from', 'must', 'my', 'outsage']...>
+Dictionary<5 unique tokens: ['goodly', 'interpretation', 'of', 'titanus', 'together']>
+Dictionary<3 unique tokens: ['behind', 'not', 'them']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['leonato']>
+Dictionary<11 unique tokens: ['are', 'comfort', 'control', 'even', 'for']...>
+Dictionary<7 unique tokens: ['an', 'audient', 'like', 'see', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cressida']>
+Dictionary<7 unique tokens: ['brutus', 'by', 'disordered', 'farewell', 'neither']...>
+Dictionary<8 unique tokens: ['bosom', 'his', 'of', 'purpose', 'senting']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
+Dictionary<12 unique tokens: ['and', 'by', 'care', 'even', 'goodly']...>
+Dictionary<9 unique tokens: ['and', 'eat', 'know', 'lists', 'masters']...>
+Dictionary<9 unique tokens: ['cost', 'glory', 'i', 'my', 'should']...>
+Dictionary<9 unique tokens: ['another', 'by', 'death', 'have', 'one']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['exeter']>
+Dictionary<7 unique tokens: ['a', 'highdangerous', 'macbeth', 'monster', 'most']...>
+Dictionary<8 unique tokens: ['be', 'i', 'might', 'scaped', 'should']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['celia']>
+Dictionary<10 unique tokens: ['be', 'i', 'if', 'may', 'mine']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['seepant']>
+Dictionary<5 unique tokens: ['care', 'i', 'know', 'our', 'worthy']>
+Dictionary<9 unique tokens: ['boys', 'hold', 'i', 'it', 'should']...>
+Dictionary<8 unique tokens: ['cry', 'for', 'from', 'john', 'sights']...>
+Dictionary<5 unique tokens: ['could', 'dare', 'her', 'renish', 'son']>
+Dictionary<9 unique tokens: ['a', 'and', 'hast', 'judgment', 'made']...>
+Dictionary<7 unique tokens: ['affairs', 'and', 'call', 'mothers', 'my']...>
+Dictionary<9 unique tokens: ['ill', 'in', 'lordship', 'my', 'some']...>
+Dictionary<7 unique tokens: ['and', 'be', 'but', 'cost', 'drive']...>
+Dictionary<11 unique tokens: ['by', 'eyeless', 'for', 'hes', 'his']...>
+Dictionary<11 unique tokens: ['as', 'between', 'himself', 'i', 'man']...>
+Dictionary<4 unique tokens: ['field', 'is', 'some', 'trup']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['talbot']>
+Dictionary<8 unique tokens: ['bring', 'heavens', 'his', 'out', 'patroclus']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['speed']>
+Dictionary<8 unique tokens: ['confidence', 'for', 'i', 'know', 'most']...>
+Dictionary<11 unique tokens: ['am', 'and', 'as', 'dignity', 'gaming']...>
+Dictionary<8 unique tokens: ['as', 'familiars', 'good', 'it', 'remembrance']...>
+Dictionary<9 unique tokens: ['ancestor', 'crept', 'hath', 'is', 'my']...>
+Dictionary<8 unique tokens: ['a', 'is', 'joy', 'now', 'perditas']...>
+Dictionary<10 unique tokens: ['a', 'and', 'as', 'break', 'fortune']...>
+Dictionary<4 unique tokens: ['armies', 'contemptuous', 'majestys', 'our']>
+Dictionary<2 unique tokens: ['news', 'what']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['valentine']>
+Dictionary<3 unique tokens: ['lord', 'my', 'yes']>
+Dictionary<10 unique tokens: ['altwinged', 'and', 'as', 'banquet', 'by']...>
+Dictionary<10 unique tokens: ['a', 'he', 'here', 'honour', 'it']...>
+Dictionary<8 unique tokens: ['and', 'clamorous', 'profession', 'tedious', 'tell']...>
+Dictionary<9 unique tokens: ['assumes', 'dissembling', 'horrible', 'many', 'not']...>
+Dictionary<3 unique tokens: ['do', 'golding', 'well']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['menenius']>
+Dictionary<5 unique tokens: ['a', 'man', 'mortal', 'threatening', 'very']>
+Dictionary<9 unique tokens: ['a', 'and', 'deserving', 'it', 'loyal']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['second', 'servant']>
+Dictionary<11 unique tokens: ['delicate', 'give', 'hector', 'life', 'make']...>
+Dictionary<6 unique tokens: ['here', 'men', 'motion', 'my', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['claudio']>
+Dictionary<9 unique tokens: ['boy', 'can', 'kind', 'madam', 'master']...>
+Dictionary<9 unique tokens: ['all', 'any', 'dinner', 'every', 'has']...>
+Dictionary<7 unique tokens: ['and', 'audit', 'expeditions', 'from', 'had']...>
+Dictionary<8 unique tokens: ['earth', 'i', 'relieve', 'the', 'torchers']...>
+Dictionary<10 unique tokens: ['a', 'gain', 'have', 'not', 'speed']...>
+Dictionary<8 unique tokens: ['bondmaid', 'i', 'maiden', 'mould', 'or']...>
+Dictionary<8 unique tokens: ['and', 'conspirable', 'fit', 'i', 'itself']...>
+Dictionary<4 unique tokens: ['a', 'coward', 'ope', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['caesar', 'octavius']>
+Dictionary<10 unique tokens: ['and', 'breathe', 'cast', 'if', 'me']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<8 unique tokens: ['benedick', 'comes', 'hast', 'signior', 'thou']...>
+Dictionary<10 unique tokens: ['are', 'carriage', 'coronation', 'of', 'or']...>
+Dictionary<10 unique tokens: ['and', 'be', 'modesty', 'not', 'proud']...>
+Dictionary<12 unique tokens: ['a', 'amazed', 'and', 'bosom', 'him']...>
+Dictionary<9 unique tokens: ['father', 'in', 'is', 'kingdom', 'noble']...>
+Dictionary<9 unique tokens: ['and', 'conjecture', 'gracious', 'her', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'lear']>
+Dictionary<8 unique tokens: ['befalln', 'evil', 'france', 'in', 'o']...>
+Dictionary<10 unique tokens: ['chid', 'for', 'her', 'honour', 'horsemen']...>
+Dictionary<9 unique tokens: ['in', 'opinion', 'portial', 'reverend', 'right']...>
+Dictionary<8 unique tokens: ['chimney', 'earl', 'had', 'her', 'love']...>
+Dictionary<10 unique tokens: ['ill', 'light', 'me', 'my', 'seat']...>
+Dictionary<13 unique tokens: ['but', 'charge', 'could', 'i', 'in']...>
+Dictionary<6 unique tokens: ['him', 'in', 'of', 'some', 'steeps']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['malvolio']>
+Dictionary<11 unique tokens: ['as', 'break', 'goodness', 'hands', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['bolingbroke', 'henry']>
+Dictionary<9 unique tokens: ['cause', 'goodman', 'how', 'i', 'is']...>
+Dictionary<8 unique tokens: ['distrust', 'estate', 'her', 'more', 'one']...>
+Dictionary<11 unique tokens: ['and', 'as', 'banishd', 'base', 'be']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['williams']>
+Dictionary<7 unique tokens: ['antonio', 'it', 'lord', 'motive', 'my']...>
+Dictionary<9 unique tokens: ['a', 'and', 'did', 'for', 'grave']...>
+Dictionary<11 unique tokens: ['children', 'justice', 'life', 'may', 'of']...>
+Dictionary<10 unique tokens: ['and', 'bully', 'chairs', 'i', 'put']...>
+Dictionary<6 unique tokens: ['and', 'melody', 'of', 'orb', 'practises']...>
+Dictionary<6 unique tokens: ['at', 'compound', 'gilting', 'me', 'things']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['gentleman', 'third']>
+Dictionary<8 unique tokens: ['desires', 'done', 'door', 'for', 'hath']...>
+Dictionary<4 unique tokens: ['not', 'o', 'to', 'tonight']>
+Dictionary<10 unique tokens: ['and', 'been', 'hangd', 'have', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ophelia']>
+Dictionary<2 unique tokens: ['mine', 'theres']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['timon']>
+Dictionary<11 unique tokens: ['bought', 'good', 'hath', 'mischief', 'my']...>
+Dictionary<10 unique tokens: ['and', 'desire', 'ground', 'in', 'sea']...>
+Dictionary<11 unique tokens: ['and', 'do', 'drunk', 'fair', 'for']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['angelo']>
+Dictionary<4 unique tokens: ['come', 'in', 'yet', 'youll']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'senator']>
+Dictionary<12 unique tokens: ['after', 'are', 'entertainment', 'fellow', 'i']...>
+Dictionary<9 unique tokens: ['be', 'bring', 'he', 'off', 'shall']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['troilus']>
+Dictionary<6 unique tokens: ['for', 'kings', 'peasantly', 'so', 'tent']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'vincentio']>
+Dictionary<9 unique tokens: ['better', 'he', 'hurry', 'is', 'my']...>
+Dictionary<8 unique tokens: ['a', 'as', 'may', 'napkin', 'ruudership']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['oberon']>
+Dictionary<7 unique tokens: ['john', 'know', 'loves', 'not', 'sir']...>
+Dictionary<6 unique tokens: ['and', 'head', 'his', 'richards', 'shake']...>
+Dictionary<9 unique tokens: ['a', 'and', 'drop', 'give', 'importunite']...>
+Dictionary<10 unique tokens: ['a', 'angry', 'blushd', 'but', 'is']...>
+Dictionary<10 unique tokens: ['daughter', 'et', 'fair', 'for', 'hear']...>
+Dictionary<11 unique tokens: ['and', 'drop', 'extempority', 'fement', 'have']...>
+Dictionary<13 unique tokens: ['and', 'ground', 'he', 'in', 'live']...>
+Dictionary<10 unique tokens: ['be', 'brief', 'fire', 'in', 'my']...>
+Dictionary<7 unique tokens: ['a', 'due', 'mercy', 'particular', 'remain']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['gaunt', 'john', 'of']>
+Dictionary<11 unique tokens: ['be', 'haild', 'he', 'if', 'not']...>
+Dictionary<12 unique tokens: ['before', 'dispose', 'hast', 'make', 'me']...>
+Dictionary<8 unique tokens: ['as', 'city', 'compexaration', 'he', 'the']...>
+Dictionary<11 unique tokens: ['and', 'do', 'ferminence', 'fly', 'i']...>
+Dictionary<7 unique tokens: ['and', 'chain', 'higher', 'honourable', 'lies']...>
+Dictionary<9 unique tokens: ['and', 'charge', 'king', 'me', 'request']...>
+Dictionary<7 unique tokens: ['appear', 'daughters', 'do', 'goodly', 'under']...>
+Dictionary<8 unique tokens: ['anne', 'leave', 'or', 'page', 'shylock']...>
+Dictionary<8 unique tokens: ['and', 'bisk', 'drink', 'purposes', 'rome']...>
+Dictionary<8 unique tokens: ['being', 'dimmd', 'fancy', 'in', 'kings']...>
+Dictionary<6 unique tokens: ['as', 'in', 'king', 'maidens', 'phoetician']...>
+Dictionary<7 unique tokens: ['all', 'ambassadors', 'and', 'in', 'many']...>
+Dictionary<10 unique tokens: ['a', 'as', 'break', 'france', 'if']...>
+Dictionary<11 unique tokens: ['fire', 'is', 'life', 'of', 'sigh']...>
+Dictionary<9 unique tokens: ['darest', 'earnest', 'end', 'granted', 'have']...>
+Dictionary<9 unique tokens: ['aid', 'and', 'are', 'as', 'being']...>
+Dictionary<7 unique tokens: ['as', 'duty', 'in', 'kingdom', 'propose']...>
+Dictionary<6 unique tokens: ['discourse', 'milkings', 'strength', 'their', 'to']...>
+Dictionary<8 unique tokens: ['bear', 'ever', 'fie', 'hand', 'i']...>
+Dictionary<7 unique tokens: ['a', 'air', 'for', 'goodly', 'master']...>
+Dictionary<7 unique tokens: ['a', 'am', 'bianca', 'but', 'i']...>
+Dictionary<8 unique tokens: ['be', 'great', 'him', 'in', 'opinion']...>
+Dictionary<7 unique tokens: ['birth', 'embolling', 'found', 'wars', 'we']...>
+Dictionary<10 unique tokens: ['according', 'advantage', 'and', 'blinds', 'hand']...>
+Dictionary<9 unique tokens: ['and', 'drame', 'every', 'guns', 'hoist']...>
+Dictionary<7 unique tokens: ['and', 'drift', 'hath', 'his', 'husband']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['sebastian']>
+Dictionary<2 unique tokens: ['days', 'with']>
+Dictionary<8 unique tokens: ['be', 'care', 'it', 'most', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['menenius']>
+Dictionary<6 unique tokens: ['indeed', 'o', 'say', 'so', 'well']...>
+Dictionary<10 unique tokens: ['a', 'gave', 'he', 'mine', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['murderer', 'varros']>
+Dictionary<10 unique tokens: ['didst', 'eat', 'i', 'must', 'say']...>
+Dictionary<10 unique tokens: ['as', 'came', 'come', 'even', 'if']...>
+Dictionary<11 unique tokens: ['against', 'as', 'bear', 'chaft', 'could']...>
+Dictionary<9 unique tokens: ['beseech', 'do', 'grounds', 'hang', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['provost']>
+Dictionary<8 unique tokens: ['a', 'could', 'pitch', 'point', 'prefer']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duke', 'of', 'york']>
+Dictionary<10 unique tokens: ['fled', 'for', 'heaven', 'i', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['surveyor']>
+Dictionary<9 unique tokens: ['bear', 'before', 'deed', 'face', 'my']...>
+Dictionary<6 unique tokens: ['but', 'himself', 'is', 'long', 'outscorn']...>
+Dictionary<8 unique tokens: ['fashions', 'her', 'icfortune', 'of', 'the']...>
+Dictionary<7 unique tokens: ['adversaryday', 'consume', 'did', 'me', 'the']...>
+Dictionary<10 unique tokens: ['and', 'be', 'but', 'can', 'change']...>
+Dictionary<10 unique tokens: ['and', 'bag', 'boy', 'oaks', 'of']...>
+Dictionary<10 unique tokens: ['a', 'behind', 'but', 'he', 'her']...>
+Dictionary<9 unique tokens: ['am', 'because', 'fraught', 'i', 'most']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['beatrice']>
+Dictionary<9 unique tokens: ['by', 'ground', 'guilty', 'my', 'now']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['caius', 'dostard']>
+Dictionary<2 unique tokens: ['man', 'o']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['anne', 'page']>
+Dictionary<12 unique tokens: ['arm', 'cure', 'friends', 'give', 'great']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['norfolk']>
+Dictionary<7 unique tokens: ['and', 'good', 'her', 'me', 'provide']...>
+Dictionary<10 unique tokens: ['bring', 'ere', 'go', 'i', 'me']...>
+Dictionary<4 unique tokens: ['go', 'there', 'this', 'with']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['boatswain']>
+Dictionary<6 unique tokens: ['a', 'extreme', 'hip', 'madam', 'penalty']...>
+Dictionary<8 unique tokens: ['a', 'awoment', 'coloured', 'england', 'ingenious']...>
+Dictionary<8 unique tokens: ['but', 'ceases', 'horses', 'knowing', 'riding']...>
+Dictionary<11 unique tokens: ['and', 'fearful', 'give', 'lady', 'my']...>
+Dictionary<8 unique tokens: ['as', 'do', 'gageous', 'in', 'of']...>
+Dictionary<5 unique tokens: ['gentle', 'hastings', 'lord', 'strength', 'your']>
+Dictionary<3 unique tokens: ['it', 'seethe', 'shall']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['talbot']>
+Dictionary<3 unique tokens: ['alas', 'him', 'with']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['malvolio']>
+Dictionary<8 unique tokens: ['all', 'back', 'not', 'of', 'practise']...>
+Dictionary<7 unique tokens: ['city', 'horrible', 'hungs', 'in', 'shrift']...>
+Dictionary<10 unique tokens: ['could', 'court', 'in', 'restore', 'romeo']...>
+Dictionary<11 unique tokens: ['anon', 'any', 'come', 'from', 'mans']...>
+Dictionary<7 unique tokens: ['a', 'dependance', 'futures', 'of', 'own']...>
+Dictionary<7 unique tokens: ['between', 'i', 'in', 'ireland', 'prove']...>
+Dictionary<9 unique tokens: ['for', 'hath', 'innocent', 'it', 'on']...>
+Dictionary<9 unique tokens: ['cretes', 'of', 'sisters', 'soul', 'that']...>
+Dictionary<8 unique tokens: ['again', 'and', 'it', 'makes', 'say']...>
+Dictionary<7 unique tokens: ['brother', 'fall', 'good', 'into', 'sea']...>
+Dictionary<6 unique tokens: ['and', 'deliver', 'ears', 'mine', 'such']...>
+Dictionary<10 unique tokens: ['brought', 'his', 'in', 'lives', 'master']...>
+Dictionary<8 unique tokens: ['arms', 'crown', 'for', 'horse', 'on']...>
+Dictionary<9 unique tokens: ['are', 'best', 'holy', 'in', 'queen']...>
+Dictionary<9 unique tokens: ['gentlemen', 'good', 'have', 'let', 'margaret']...>
+Dictionary<3 unique tokens: ['english', 'to', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<3 unique tokens: ['by', 'lordship', 'your']>
+Dictionary<7 unique tokens: ['and', 'beauty', 'descripted', 'hath', 'him']...>
+Dictionary<9 unique tokens: ['day', 'english', 'feeble', 'hath', 'he']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['page']>
+Dictionary<7 unique tokens: ['and', 'his', 'indeed', 'profit', 'shes']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['desdemona']>
+Dictionary<7 unique tokens: ['draw', 'god', 'i', 'long', 'never']...>
+Dictionary<11 unique tokens: ['book', 'every', 'his', 'love', 'made']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'king', 'viii']>
+Dictionary<3 unique tokens: ['can', 'not', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['macbeth']>
+Dictionary<11 unique tokens: ['be', 'france', 'hath', 'last', 'love']...>
+Dictionary<10 unique tokens: ['as', 'boy', 'have', 'is', 'me']...>
+Dictionary<4 unique tokens: ['and', 'fear', 'thus', 'to']>
+Dictionary<8 unique tokens: ['ay', 'every', 'in', 'is', 'permit']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['chamberlain']>
+Dictionary<3 unique tokens: ['dare', 'never', 'what']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bastard']>
+Dictionary<9 unique tokens: ['beyond', 'face', 'foot', 'my', 'of']...>
+Dictionary<9 unique tokens: ['are', 'her', 'mother', 'of', 'pursues']...>
+Dictionary<9 unique tokens: ['am', 'birmd', 'confers', 'i', 'in']...>
+Dictionary<7 unique tokens: ['going', 'new', 'not', 'soeth', 'together']...>
+Dictionary<9 unique tokens: ['a', 'again', 'at', 'he', 'last']...>
+Dictionary<7 unique tokens: ['and', 'friend', 'greatness', 'steal', 'thee']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['petruchio']>
+Dictionary<10 unique tokens: ['and', 'come', 'discretion', 'have', 'i']...>
+Dictionary<4 unique tokens: ['go', 'me', 'with', 'yet']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['iago']>
+Dictionary<7 unique tokens: ['but', 'i', 'make', 'marriage', 'sir']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['boyet']>
+Dictionary<11 unique tokens: ['and', 'as', 'ay', 'field', 'john']...>
+Dictionary<8 unique tokens: ['as', 'be', 'days', 'do', 'gone']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['troilus']>
+Dictionary<7 unique tokens: ['at', 'can', 'hand', 'i', 'longer']...>
+Dictionary<9 unique tokens: ['a', 'beard', 'emity', 'help', 'of']...>
+Dictionary<5 unique tokens: ['all', 'are', 'jollofid', 'than', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pistol']>
+Dictionary<9 unique tokens: ['brother', 'how', 'let', 'make', 'me']...>
+Dictionary<9 unique tokens: ['by', 'gloucester', 'men', 'name', 'of']...>
+Dictionary<7 unique tokens: ['confined', 'flint', 'honour', 'i', 'spake']...>
+Dictionary<9 unique tokens: ['and', 'become', 'for', 'let', 'strains']...>
+Dictionary<7 unique tokens: ['before', 'cold', 'do', 'knees', 'not']...>
+Dictionary<10 unique tokens: ['a', 'and', 'answer', 'be', 'find']...>
+Dictionary<10 unique tokens: ['and', 'best', 'bold', 'hath', 'it']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['second', 'servingman']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['horatio']>
+Dictionary<3 unique tokens: ['glad', 'thats', 'yet']>
+Dictionary<6 unique tokens: ['back', 'but', 'hang', 'never', 'play']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['edgar']>
+Dictionary<4 unique tokens: ['absence', 'lichard', 'part', 'sound']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['nurse']>
+Dictionary<7 unique tokens: ['and', 'ay', 'do', 'if', 'remain']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cinna']>
+Dictionary<10 unique tokens: ['do', 'i', 'knew', 'lord', 'my']...>
+Dictionary<11 unique tokens: ['friend', 'gait', 'is', 'my', 'people']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duke', 'of', 'york']>
+Dictionary<3 unique tokens: ['cleft', 'tis', 'together']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duchess', 'of', 'york']>
+Dictionary<9 unique tokens: ['and', 'any', 'fair', 'keep', 'longest']...>
+Dictionary<3 unique tokens: ['art', 'thou', 'true']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['john', 'king']>
+Dictionary<10 unique tokens: ['arms', 'frond', 'i', 'of', 'saw']...>
+Dictionary<10 unique tokens: ['and', 'crimson', 'for', 'from', 'pillows']...>
+Dictionary<3 unique tokens: ['for', 'it', 'love']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['beatrice']>
+Dictionary<8 unique tokens: ['affright', 'fool', 'ill', 'reasons', 'see']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lady', 'macbeth']>
+Dictionary<3 unique tokens: ['have', 'resolved', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ainel']>
+Dictionary<10 unique tokens: ['did', 'entertainment', 'find', 'i', 'if']...>
+Dictionary<8 unique tokens: ['as', 'her', 'let', 'number', 'suffer']...>
+Dictionary<7 unique tokens: ['again', 'doublet', 'if', 'our', 'proceed']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['dauphin']>
+Dictionary<5 unique tokens: ['away', 'i', 'o', 'pray', 'true']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['nurse']>
+Dictionary<4 unique tokens: ['do', 'pray', 'will', 'you']>
+Dictionary<5 unique tokens: ['done', 'have', 'henceforth', 'high', 'sweeter']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['douglas', 'earl', 'of']>
+Dictionary<8 unique tokens: ['by', 'exhibition', 'feed', 'honour', 'me']...>
+Dictionary<8 unique tokens: ['for', 'i', 'saw', 'so', 'strength']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['mistress', 'quickly']>
+Dictionary<6 unique tokens: ['army', 'conquering', 'of', 'parliament', 'the']...>
+Dictionary<11 unique tokens: ['and', 'be', 'come', 'coming', 'know']...>
+Dictionary<12 unique tokens: ['brains', 'but', 'day', 'her', 'his']...>
+Dictionary<9 unique tokens: ['as', 'by', 'cause', 'eyes', 'fair']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['clifford']>
+Dictionary<4 unique tokens: ['happiness', 'if', 'tedious', 'these']>
+Dictionary<10 unique tokens: ['being', 'come', 'drunk', 'foot', 'her']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['page']>
+Dictionary<9 unique tokens: ['a', 'all', 'i', 'it', 'maid']...>
+Dictionary<5 unique tokens: ['countrymen', 'disdain', 'her', 'safe', 'with']>
+Dictionary<10 unique tokens: ['and', 'but', 'do', 'eed', 'here']...>
+Dictionary<4 unique tokens: ['are', 'by', 'we', 'won']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['andronicus', 'marcus']>
+Dictionary<10 unique tokens: ['and', 'brothers', 'get', 'i', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'king', 'vi']>
+Dictionary<4 unique tokens: ['come', 'good', 'lord', 'my']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['rosaline']>
+Dictionary<10 unique tokens: ['again', 'be', 'behavior', 'do', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['tidings']>
+Dictionary<9 unique tokens: ['but', 'face', 'for', 'know', 'let']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['york']>
+Dictionary<6 unique tokens: ['come', 'i', 'ild', 'tell', 'thats']...>
+Dictionary<8 unique tokens: ['above', 'have', 'i', 'minding', 'peace']...>
+Dictionary<12 unique tokens: ['as', 'but', 'go', 'had', 'he']...>
+Dictionary<6 unique tokens: ['be', 'been', 'known', 'named', 'thus']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['kent']>
+Dictionary<10 unique tokens: ['and', 'but', 'changes', 'fown', 'he']...>
+Dictionary<5 unique tokens: ['i', 'me', 'on', 'today', 'was']>
+Dictionary<10 unique tokens: ['be', 'but', 'death', 'his', 'if']...>
+Dictionary<8 unique tokens: ['again', 'and', 'he', 'husband', 'mine']...>
+Dictionary<9 unique tokens: ['be', 'casted', 'guile', 'his', 'of']...>
+Dictionary<8 unique tokens: ['and', 'art', 'as', 'bloody', 'even']...>
+Dictionary<5 unique tokens: ['backs', 'handled', 'look', 'their', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['oswald']>
+Dictionary<11 unique tokens: ['and', 'art', 'die', 'fellow', 'i']...>
+Dictionary<6 unique tokens: ['but', 'desire', 'phulish', 'so', 'thee']...>
+Dictionary<9 unique tokens: ['a', 'and', 'dream', 'in', 'language']...>
+Dictionary<10 unique tokens: ['and', 'as', 'cur', 'for', 'have']...>
+Dictionary<8 unique tokens: ['arm', 'bruised', 'grace', 'in', 'of']...>
+Dictionary<7 unique tokens: ['about', 'be', 'might', 'most', 'of']...>
+Dictionary<7 unique tokens: ['appired', 'at', 'both', 'but', 'clouds']...>
+Dictionary<10 unique tokens: ['as', 'come', 'gentleman', 'here', 'i']...>
+Dictionary<11 unique tokens: ['but', 'contrue', 'first', 'get', 'me']...>
+Dictionary<8 unique tokens: ['are', 'by', 'dispositiond', 'end', 'my']...>
+Dictionary<8 unique tokens: ['claim', 'instrument', 'o', 'the', 'they']...>
+Dictionary<4 unique tokens: ['and', 'savage', 'there', 'was']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duke', 'of', 'york']>
+Dictionary<11 unique tokens: ['as', 'i', 'lady', 'most', 'other']...>
+Dictionary<7 unique tokens: ['deliver', 'it', 'leman', 'some', 'thee']...>
+Dictionary<2 unique tokens: ['ha', 'he']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['iii', 'king', 'richard']>
+Dictionary<8 unique tokens: ['charging', 'have', 'heard', 'i', 'lady']...>
+Dictionary<10 unique tokens: ['address', 'and', 'brains', 'his', 'of']...>
+Dictionary<9 unique tokens: ['and', 'behold', 'dunghill', 'i', 'so']...>
+Dictionary<5 unique tokens: ['death', 'elder', 'grace', 'mine', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['viola']>
+Dictionary<9 unique tokens: ['and', 'do', 'grant', 'him', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['troilus']>
+Dictionary<8 unique tokens: ['and', 'be', 'errand', 'i', 'must']...>
+Dictionary<9 unique tokens: ['a', 'abused', 'choice', 'give', 'had']...>
+Dictionary<8 unique tokens: ['a', 'choke', 'cort', 'makes', 'means']...>
+Dictionary<8 unique tokens: ['alarum', 'deputy', 'deserved', 'i', 'in']...>
+Dictionary<10 unique tokens: ['a', 'are', 'death', 'for', 'my']...>
+Dictionary<11 unique tokens: ['friend', 'his', 'lord', 'marry', 'meet']...>
+Dictionary<12 unique tokens: ['all', 'him', 'i', 'let', 'ran']...>
+Dictionary<9 unique tokens: ['an', 'be', 'confined', 'honesty', 'must']...>
+Dictionary<9 unique tokens: ['am', 'chiron', 'faith', 'i', 'not']...>
+Dictionary<8 unique tokens: ['are', 'coins', 'eyes', 'head', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duchess', 'of', 'york']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'orsino']>
+Dictionary<8 unique tokens: ['army', 'corrupt', 'me', 'point', 'sword']...>
+Dictionary<10 unique tokens: ['a', 'aim', 'an', 'and', 'are']...>
+Dictionary<11 unique tokens: ['but', 'discourser', 'drawn', 'i', 'is']...>
+Dictionary<7 unique tokens: ['and', 'go', 'majesty', 'please', 'shall']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duke', 'of', 'york']>
+Dictionary<10 unique tokens: ['a', 'dost', 'friendship', 'hope', 'i']...>
+Dictionary<13 unique tokens: ['all', 'and', 'good', 'have', 'hope']...>
+Dictionary<6 unique tokens: ['but', 'could', 'here', 'it', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
+Dictionary<7 unique tokens: ['bestowing', 'issue', 'more', 'of', 'stuff']...>
+Dictionary<6 unique tokens: ['as', 'be', 'medicined', 'so', 'would']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['diomedes']>
+Dictionary<4 unique tokens: ['deep', 'give', 'me', 'the']>
+Dictionary<11 unique tokens: ['and', 'any', 'by', 'deboth', 'for']...>
+Dictionary<10 unique tokens: ['apparition', 'but', 'do', 'look', 'mother']...>
+Dictionary<7 unique tokens: ['happy', 'i', 'itself', 'noble', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'gentleman']>
+Dictionary<8 unique tokens: ['away', 'bick', 'i', 'love', 'of']...>
+Dictionary<12 unique tokens: ['are', 'certain', 'death', 'here', 'if']...>
+Dictionary<10 unique tokens: ['a', 'all', 'fool', 'her', 'hours']...>
+Dictionary<9 unique tokens: ['and', 'conceit', 'me', 'of', 'rounded']...>
+Dictionary<10 unique tokens: ['and', 'are', 'bitter', 'fortune', 'often']...>
+Dictionary<9 unique tokens: ['abject', 'against', 'coming', 'fit', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['rosalind']>
+Dictionary<5 unique tokens: ['a', 'fault', 'publicly', 'shes', 'sir']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cardinal']>
+Dictionary<10 unique tokens: ['babe', 'but', 'enamoused', 'he', 'his']...>
+Dictionary<4 unique tokens: ['mettle', 'my', 'of', 'true']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['caesar', 'king', 'of']>
+Dictionary<8 unique tokens: ['a', 'blind', 'if', 'lords', 'not']...>
+Dictionary<14 unique tokens: ['a', 'doth', 'hair', 'hath', 'he']...>
+Dictionary<11 unique tokens: ['a', 'durish', 'for', 'grace', 'his']...>
+Dictionary<10 unique tokens: ['a', 'and', 'did', 'for', 'not']...>
+Dictionary<8 unique tokens: ['but', 'have', 'helens', 'him', 'name']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['provost']>
+Dictionary<8 unique tokens: ['are', 'heart', 'of', 'the', 'there']...>
+Dictionary<2 unique tokens: ['look', 'tot']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['poet']>
+Dictionary<9 unique tokens: ['brought', 'find', 'have', 'it', 'me']...>
+Dictionary<9 unique tokens: ['blessings', 'for', 'he', 'i', 'lay']...>
+Dictionary<7 unique tokens: ['call', 'fall', 'how', 'many', 'might']...>
+Dictionary<8 unique tokens: ['and', 'bodies', 'from', 'men', 'of']...>
+Dictionary<7 unique tokens: ['and', 'his', 'i', 'perform', 'perhaps']...>
+Dictionary<6 unique tokens: ['and', 'his', 'induced', 'is', 'nature']...>
+Dictionary<8 unique tokens: ['and', 'heros', 'love', 'of', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['john', 'king']>
+Dictionary<5 unique tokens: ['ear', 'is', 'it', 'shine', 'your']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['duchess']>
+Dictionary<6 unique tokens: ['crownhearted', 'happiers', 'have', 'heels', 'no']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['servingman', 'third']>
+Dictionary<10 unique tokens: ['a', 'and', 'brutus', 'drunken', 'he']...>
+Dictionary<9 unique tokens: ['and', 'bad', 'even', 'every', 'in']...>
+Dictionary<9 unique tokens: ['beggar', 'hath', 'none', 'shadow', 'the']...>
+Dictionary<11 unique tokens: ['and', 'be', 'but', 'falcon', 'it']...>
+Dictionary<10 unique tokens: ['and', 'any', 'as', 'be', 'germans']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['timon']>
+Dictionary<11 unique tokens: ['a', 'clap', 'decrees', 'him', 'i']...>
+Dictionary<12 unique tokens: ['as', 'dead', 'if', 'it', 'like']...>
+Dictionary<6 unique tokens: ['did', 'dream', 'ever', 'gloucesters', 'he']...>
+Dictionary<10 unique tokens: ['be', 'for', 'leging', 'mouths', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['aumerle', 'duke', 'of']>
+Dictionary<7 unique tokens: ['befall', 'call', 'me', 'nuptial', 'prince']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['joan', 'la', 'pucelle']>
+Dictionary<10 unique tokens: ['a', 'and', 'good', 'i', 'like']...>
+Dictionary<6 unique tokens: ['give', 'heart', 'him', 'my', 'thy']...>
+Dictionary<9 unique tokens: ['daughter', 'for', 'give', 'good', 'i']...>
+Dictionary<7 unique tokens: ['disable', 'gives', 'marriage', 'me', 'new']...>
+Dictionary<7 unique tokens: ['affected', 'does', 'grace', 'he', 'taperboard']...>
+Dictionary<8 unique tokens: ['along', 'came', 'chose', 'money', 'of']...>
+Dictionary<10 unique tokens: ['can', 'consliping', 'gentleman', 'i', 'longest']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['emilia']>
+Dictionary<10 unique tokens: ['a', 'and', 'away', 'begot', 'flight']...>
+Dictionary<7 unique tokens: ['at', 'blessing', 'judgment', 'looks', 'of']...>
+Dictionary<8 unique tokens: ['i', 'linger', 'means', 'old', 'see']...>
+Dictionary<8 unique tokens: ['and', 'by', 'disprezage', 'drug', 'from']...>
+Dictionary<10 unique tokens: ['arms', 'but', 'doth', 'i', 'mischance']...>
+Dictionary<3 unique tokens: ['bear', 'drum', 'thy']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['coriolanus']>
+Dictionary<7 unique tokens: ['afreed', 'am', 'at', 'i', 'majesty']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['proteus']>
+Dictionary<9 unique tokens: ['as', 'beholding', 'enemy', 'enraged', 'in']...>
+Dictionary<10 unique tokens: ['an', 'argo', 'deputy', 'in', 'labour']...>
+Dictionary<9 unique tokens: ['all', 'and', 'breathe', 'direct', 'ere']...>
+Dictionary<11 unique tokens: ['all', 'bear', 'but', 'heart', 'my']...>
+Dictionary<5 unique tokens: ['confirmable', 'disposition', 'have', 'so', 'you']>
+Dictionary<9 unique tokens: ['ambassadors', 'from', 'give', 'labour', 'many']...>
+Dictionary<8 unique tokens: ['all', 'blow', 'fortunes', 'in', 'king']...>
+Dictionary<4 unique tokens: ['an', 'and', 'eslace', 'not']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['malvolio']>
+Dictionary<5 unique tokens: ['i', 'say', 'sirrah', 'whither', 'will']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['othello']>
+Dictionary<8 unique tokens: ['give', 'head', 'in', 'lord', 'me']...>
+Dictionary<8 unique tokens: ['and', 'are', 'catch', 'heavy', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['iago']>
+Dictionary<3 unique tokens: ['a', 'fresh', 'philous']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'soldier']>
+Dictionary<2 unique tokens: ['peace', 'therefore']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['clown']>
+Dictionary<10 unique tokens: ['and', 'him', 'let', 'saw', 'stay']...>
+Dictionary<7 unique tokens: ['all', 'brave', 'of', 'powerful', 'vineyards']...>
+Dictionary<9 unique tokens: ['hold', 'john', 'me', 'must', 'sir']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['evans', 'hugh', 'sir']>
+Dictionary<11 unique tokens: ['ad', 'death', 'for', 'ill', 'is']...>
+Dictionary<8 unique tokens: ['at', 'binnam', 'cambrake', 'night', 'poor']...>
+Dictionary<11 unique tokens: ['doth', 'heaven', 'myself', 'nether', 'of']...>
+Dictionary<8 unique tokens: ['bear', 'company', 'condemn', 'heels', 'his']...>
+Dictionary<10 unique tokens: ['am', 'and', 'approach', 'are', 'demand']...>
+Dictionary<8 unique tokens: ['a', 'dream', 'fell', 'i', 'too']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'third']>
+Dictionary<9 unique tokens: ['be', 'dangerously', 'just', 'that', 'thou']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['andronicus', 'titus']>
+Dictionary<10 unique tokens: ['as', 'charge', 'for', 'have', 'inkly']...>
+Dictionary<7 unique tokens: ['him', 'i', 'obey', 'say', 'that']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'king', 'v']>
+Dictionary<10 unique tokens: ['age', 'be', 'enough', 'gone', 'hope']...>
+Dictionary<7 unique tokens: ['duke', 'jester', 'ladies', 'of', 'sunday']...>
+Dictionary<15 unique tokens: ['a', 'and', 'banished', 'beauty', 'execution']...>
+Dictionary<6 unique tokens: ['all', 'entertainment', 'in', 'lamentance', 'this']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['lovell']>
+Dictionary<8 unique tokens: ['a', 'for', 'is', 'service', 'these']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bawd']>
+Dictionary<8 unique tokens: ['be', 'i', 'is', 'must', 'not']...>
+Dictionary<9 unique tokens: ['am', 'and', 'book', 'fled', 'for']...>
+Dictionary<8 unique tokens: ['and', 'better', 'brightly', 'life', 'of']...>
+Dictionary<2 unique tokens: ['consign', 'together']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['alcibiades']>
+Dictionary<7 unique tokens: ['have', 'here', 'i', 'living', 'seldom']...>
+Dictionary<9 unique tokens: ['and', 'did', 'gathers', 'i', 'many']...>
+Dictionary<10 unique tokens: ['a', 'as', 'conquerer', 'daughter', 'from']...>
+Dictionary<7 unique tokens: ['drowsing', 'husband', 'kingdom', 'lysander', 'more']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['norfolk']>
+Dictionary<10 unique tokens: ['about', 'do', 'his', 'light', 'mother']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['portia']>
+Dictionary<10 unique tokens: ['disjack', 'enneared', 'in', 'loss', 'make']...>
+Dictionary<10 unique tokens: ['as', 'fair', 'grace', 'his', 'of']...>
+Dictionary<7 unique tokens: ['and', 'ears', 'flowering', 'ill', 'seem']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pisanio']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['speed']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['horatio']>
+Dictionary<10 unique tokens: ['all', 'change', 'doubt', 'england', 'for']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'gentleman']>
+Dictionary<6 unique tokens: ['courtiers', 'fair', 'gone', 'hast', 'thou']...>
+Dictionary<9 unique tokens: ['a', 'and', 'high', 'him', 'husband']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['scrand']>
+Dictionary<10 unique tokens: ['a', 'and', 'conquer', 'grace', 'knight']...>
+Dictionary<9 unique tokens: ['a', 'even', 'his', 'house', 'kingdom']...>
+Dictionary<8 unique tokens: ['a', 'and', 'break', 'like', 'needs']...>
+Dictionary<12 unique tokens: ['and', 'ends', 'hills', 'it', 'like']...>
+Dictionary<9 unique tokens: ['and', 'glove', 'go', 'his', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['porter']>
+Dictionary<7 unique tokens: ['a', 'beget', 'gold', 'master', 'robin']...>
+Dictionary<11 unique tokens: ['again', 'arm', 'be', 'fence', 'he']...>
+Dictionary<7 unique tokens: ['footing', 'forlorn', 'should', 'the', 'times']...>
+Dictionary<9 unique tokens: ['and', 'be', 'coming', 'countenance', 'her']...>
+Dictionary<7 unique tokens: ['all', 'morning', 'mutiny', 'of', 'ragged']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['salanio']>
+Dictionary<10 unique tokens: ['a', 'abuse', 'doth', 'foul', 'good']...>
+Dictionary<8 unique tokens: ['antony', 'come', 'order', 'peoples', 'that']...>
+Dictionary<12 unique tokens: ['a', 'and', 'art', 'been', 'have']...>
+Dictionary<10 unique tokens: ['a', 'ever', 'has', 'here', 'husband']...>
+Dictionary<9 unique tokens: ['entertainment', 'have', 'her', 'i', 'stood']...>
+Dictionary<8 unique tokens: ['gracious', 'he', 'lord', 'my', 'presently']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'vincentio']>
+Dictionary<12 unique tokens: ['ear', 'farewell', 'him', 'i', 'in']...>
+Dictionary<6 unique tokens: ['again', 'comes', 'here', 'men', 'shriety']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['lucio']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['dionyza']>
+Dictionary<9 unique tokens: ['a', 'after', 'another', 'did', 'harm']...>
+Dictionary<8 unique tokens: ['come', 'hand', 'is', 'me', 'messenger']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['luciana']>
+Dictionary<2 unique tokens: ['how', 'now']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['second', 'senator']>
+Dictionary<10 unique tokens: ['and', 'be', 'gone', 'her', 'is']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cinna']>
+Dictionary<7 unique tokens: ['him', 'hold', 'in', 'shell', 'sir']...>
+Dictionary<2 unique tokens: ['gold', 'to']>
+Dictionary<6 unique tokens: ['are', 'but', 'for', 'hers', 'thou']...>
+Dictionary<4 unique tokens: ['but', 'not', 'temples', 'your']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['anne', 'page']>
+Dictionary<4 unique tokens: ['sit', 'sovereign', 'sweet', 'widow']>
+Dictionary<7 unique tokens: ['bloods', 'brutus', 'fill', 'from', 'have']...>
+Dictionary<12 unique tokens: ['and', 'but', 'daylight', 'defend', 'do']...>
+Dictionary<7 unique tokens: ['dearest', 'hand', 'kills', 'prince', 'that']...>
+Dictionary<9 unique tokens: ['age', 'and', 'call', 'glad', 'ids']...>
+Dictionary<8 unique tokens: ['an', 'herself', 'injury', 'is', 'love']...>
+Dictionary<7 unique tokens: ['and', 'assurance', 'man', 'my', 'no']...>
+Dictionary<5 unique tokens: ['is', 'like', 'rue', 'to', 'wheats']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'second']>
+Dictionary<6 unique tokens: ['desires', 'ill', 'my', 'stain', 'therefore']...>
+Dictionary<11 unique tokens: ['and', 'bear', 'been', 'have', 'is']...>
+Dictionary<10 unique tokens: ['a', 'cheek', 'disclose', 'draught', 'for']...>
+Dictionary<9 unique tokens: ['but', 'death', 'gambon', 'grace', 'in']...>
+Dictionary<9 unique tokens: ['be', 'but', 'knows', 'murders', 'them']...>
+Dictionary<5 unique tokens: ['again', 'my', 'of', 'officers', 'throice']>
+Dictionary<10 unique tokens: ['a', 'be', 'i', 'in', 'knave']...>
+Dictionary<5 unique tokens: ['do', 'go', 'than', 'to', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cloten']>
+Dictionary<8 unique tokens: ['good', 'knowledge', 'leave', 'lord', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['apemantus']>
+Dictionary<9 unique tokens: ['appearance', 'be', 'i', 'made', 'make']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'lear']>
+Dictionary<9 unique tokens: ['am', 'deny', 'edwards', 'i', 'life']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antonio', 'first']>
+Dictionary<10 unique tokens: ['are', 'banish', 'but', 'fool', 'nay']...>
+Dictionary<9 unique tokens: ['a', 'i', 'kinder', 'never', 'sir']...>
+Dictionary<9 unique tokens: ['creatures', 'has', 'he', 'killst', 'privilege']...>
+Dictionary<9 unique tokens: ['a', 'citizens', 'cur', 'is', 'measure']...>
+Dictionary<8 unique tokens: ['a', 'doe', 'from', 'gods', 'goodness']...>
+Dictionary<5 unique tokens: ['breastbold', 'esemble', 'flatterers', 'his', 'to']>
+Dictionary<6 unique tokens: ['condemnd', 'his', 'in', 'myill', 'oclock']...>
+Dictionary<9 unique tokens: ['and', 'being', 'but', 'deep', 'easy']...>
+Dictionary<8 unique tokens: ['gloss', 'he', 'if', 'leaven', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'vincentio']>
+Dictionary<12 unique tokens: ['all', 'and', 'followo', 'friends', 'have']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['clother']>
+Dictionary<8 unique tokens: ['an', 'appear', 'i', 'it', 'now']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['henry', 'prince']>
+Dictionary<9 unique tokens: ['be', 'i', 'leisure', 'pray', 'resolute']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['warwick']>
+Dictionary<10 unique tokens: ['and', 'beggd', 'entreat', 'it', 'me']...>
+Dictionary<13 unique tokens: ['and', 'blame', 'boy', 'by', 'from']...>
+Dictionary<11 unique tokens: ['an', 'and', 'but', 'guilty', 'i']...>
+Dictionary<8 unique tokens: ['dinner', 'had', 'king', 'liest', 'the']...>
+Dictionary<4 unique tokens: ['art', 'faint', 'thou', 'what']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['troilus']>
+Dictionary<4 unique tokens: ['did', 'gods', 'i', 'the']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['officer']>
+Dictionary<12 unique tokens: ['device', 'first', 'how', 'made', 'now']...>
+Dictionary<13 unique tokens: ['and', 'fastst', 'in', 'meaner', 'my']...>
+Dictionary<9 unique tokens: ['affair', 'are', 'in', 'of', 'place']...>
+Dictionary<7 unique tokens: ['and', 'forswear', 'in', 'never', 'obtainment']...>
+Dictionary<10 unique tokens: ['and', 'brow', 'called', 'give', 'hive']...>
+Dictionary<2 unique tokens: ['ay', 'boy']>
+Dictionary<10 unique tokens: ['by', 'call', 'countrys', 'do', 'father']...>
+Dictionary<10 unique tokens: ['adverse', 'and', 'by', 'occasions', 'our']...>
+Dictionary<8 unique tokens: ['all', 'and', 'command', 'day', 'hands']...>
+Dictionary<7 unique tokens: ['i', 'lord', 'my', 'not', 'pray']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'second']>
+Dictionary<8 unique tokens: ['and', 'be', 'habitable', 'i', 'present']...>
+Dictionary<12 unique tokens: ['a', 'appear', 'being', 'down', 'friends']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['albany']>
+Dictionary<6 unique tokens: ['and', 'him', 'no', 'on', 'sir']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pandarus']>
+Dictionary<4 unique tokens: ['as', 'do', 'so', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['speed']>
+Dictionary<8 unique tokens: ['art', 'day', 'lord', 'more', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['imogen']>
+Dictionary<9 unique tokens: ['by', 'closes', 'haste', 'have', 'his']...>
+Dictionary<11 unique tokens: ['before', 'blessing', 'cry', 'did', 'he']...>
+Dictionary<11 unique tokens: ['a', 'and', 'for', 'from', 'grow']...>
+Dictionary<10 unique tokens: ['and', 'hand', 'hath', 'medry', 'milfords']...>
+Dictionary<8 unique tokens: ['a', 'and', 'are', 'mighty', 'peers']...>
+Dictionary<9 unique tokens: ['a', 'good', 'man', 'my', 'open']...>
+Dictionary<9 unique tokens: ['fierce', 'hold', 'it', 'moved', 'of']...>
+Dictionary<7 unique tokens: ['and', 'point', 'the', 'their', 'time']...>
+Dictionary<11 unique tokens: ['an', 'drink', 'entreat', 'his', 'impeopleness']...>
+Dictionary<7 unique tokens: ['contemplation', 'mocks', 'no', 'them', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pandarus']>
+Dictionary<4 unique tokens: ['chance', 'ill', 'prepare', 'your']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['hastings']>
+Dictionary<5 unique tokens: ['am', 'dead', 'i', 'this', 'why']>
+Dictionary<10 unique tokens: ['at', 'emblace', 'i', 'man', 'of']...>
+Dictionary<11 unique tokens: ['accept', 'against', 'at', 'be', 'by']...>
+Dictionary<10 unique tokens: ['and', 'for', 'great', 'hearts', 'herble']...>
+Dictionary<8 unique tokens: ['as', 'common', 'from', 'shake', 'tale']...>
+Dictionary<9 unique tokens: ['about', 'and', 'begun', 'enemies', 'every']...>
+Dictionary<9 unique tokens: ['and', 'colder', 'knits', 'lines', 'of']...>
+Dictionary<8 unique tokens: ['enough', 'it', 'not', 'now', 'was']...>
+Dictionary<9 unique tokens: ['but', 'i', 'in', 'man', 'proceed']...>
+Dictionary<10 unique tokens: ['a', 'between', 'breast', 'like', 'man']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<8 unique tokens: ['here', 'honourable', 'king', 'these', 'two']...>
+Dictionary<9 unique tokens: ['am', 'did', 'hope', 'i', 'matter']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['volumnia']>
+Dictionary<6 unique tokens: ['action', 'man', 'others', 'think', 'this']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['fluellen']>
+Dictionary<10 unique tokens: ['as', 'be', 'concluded', 'have', 'hopes']...>
+Dictionary<10 unique tokens: ['and', 'beyond', 'go', 'ground', 'heard']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['henry', 'prince']>
+Dictionary<12 unique tokens: ['at', 'be', 'by', 'hand', 'hearing']...>
+Dictionary<3 unique tokens: ['deed', 'great', 'of']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['claudio']>
+Dictionary<10 unique tokens: ['alas', 'and', 'commend', 'curse', 'me']...>
+Dictionary<11 unique tokens: ['be', 'brought', 'caius', 'have', 'i']...>
+Dictionary<9 unique tokens: ['bitter', 'diseased', 'everthrow', 'my', 'or']...>
+Dictionary<12 unique tokens: ['a', 'bid', 'leisure', 'might', 'shall']...>
+Dictionary<9 unique tokens: ['as', 'be', 'before', 'have', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['coriolanus']>
+Dictionary<2 unique tokens: ['volscous', 'wherefore']>
+Dictionary<11 unique tokens: ['a', 'bloody', 'cronk', 'hang', 'most']...>
+Dictionary<12 unique tokens: ['and', 'be', 'further', 'had', 'i']...>
+Dictionary<11 unique tokens: ['am', 'comes', 'consent', 'he', 'hear']...>
+Dictionary<10 unique tokens: ['all', 'behind', 'but', 'calld', 'directly']...>
+Dictionary<11 unique tokens: ['and', 'by', 'day', 'did', 'he']...>
+Dictionary<8 unique tokens: ['comest', 'it', 'like', 'our', 'promise']...>
+Dictionary<11 unique tokens: ['a', 'as', 'favour', 'it', 'steal']...>
+Dictionary<4 unique tokens: ['cherubidling', 'or', 'the', 'tuking']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pistol']>
+Dictionary<5 unique tokens: ['go', 'promises', 'satisfy', 'thrifty', 'thy']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['bolingbroke', 'henry']>
+Dictionary<2 unique tokens: ['me', 'to']>
+Dictionary<10 unique tokens: ['a', 'extreme', 'have', 'his', 'i']...>
+Dictionary<10 unique tokens: ['a', 'hand', 'nor', 'prove', 'shall']...>
+Dictionary<10 unique tokens: ['a', 'and', 'basers', 'i', 'in']...>
+Dictionary<7 unique tokens: ['arouse', 'as', 'deathlived', 'malvolios', 'minutes']...>
+Dictionary<7 unique tokens: ['a', 'arrayd', 'by', 'envy', 'foolish']...>
+Dictionary<8 unique tokens: ['all', 'and', 'be', 'come', 'quickly']...>
+Dictionary<10 unique tokens: ['all', 'constort', 'great', 'is', 'it']...>
+Dictionary<9 unique tokens: ['camp', 'my', 'often', 'or', 'out']...>
+Dictionary<10 unique tokens: ['and', 'appear', 'be', 'coming', 'him']...>
+Dictionary<13 unique tokens: ['aboand', 'consont', 'head', 'hear', 'i']...>
+Dictionary<8 unique tokens: ['and', 'angel', 'ctedious', 'from', 'make']...>
+Dictionary<8 unique tokens: ['and', 'compiction', 'cut', 'of', 'prate']...>
+Dictionary<7 unique tokens: ['barbarous', 'good', 'loves', 'of', 'sometimes']...>
+Dictionary<7 unique tokens: ['all', 'and', 'between', 'humours', 'so']...>
+Dictionary<12 unique tokens: ['a', 'and', 'arms', 'for', 'foul']...>
+Dictionary<10 unique tokens: ['and', 'care', 'i', 'make', 'no']...>
+Dictionary<8 unique tokens: ['age', 'an', 'citys', 'embrace', 'he']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['separator']>
+Dictionary<10 unique tokens: ['as', 'been', 'came', 'hast', 'he']...>
+Dictionary<9 unique tokens: ['and', 'fiend', 'good', 'heaged', 'in']...>
+Dictionary<7 unique tokens: ['body', 'fought', 'of', 'show', 'the']...>
+Dictionary<13 unique tokens: ['and', 'at', 'ax', 'determination', 'do']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<9 unique tokens: ['a', 'are', 'bald', 'cold', 'for']...>
+Dictionary<8 unique tokens: ['against', 'annoy', 'her', 'lustre', 'nor']...>
+Dictionary<10 unique tokens: ['am', 'and', 'i', 'luens', 'sons']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'philip']>
+Dictionary<2 unique tokens: ['lord', 'my']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['caius', 'doctor']>
+Dictionary<8 unique tokens: ['alack', 'all', 'and', 'desired', 'heavens']...>
+Dictionary<8 unique tokens: ['blasting', 'for', 'mountain', 'or', 'phrase']...>
+Dictionary<8 unique tokens: ['cousin', 'lobes', 'makes', 'or', 'plainly']...>
+Dictionary<8 unique tokens: ['against', 'black', 'effect', 'friend', 'our']...>
+Dictionary<8 unique tokens: ['airs', 'gathered', 'gift', 'given', 'my']...>
+Dictionary<8 unique tokens: ['and', 'but', 'life', 'man', 'mornal']...>
+Dictionary<11 unique tokens: ['a', 'and', 'are', 'begottingo', 'down']...>
+Dictionary<4 unique tokens: ['look', 'quit', 'safety', 'thee']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['duke']>
+Dictionary<12 unique tokens: ['ay', 'chamber', 'changed', 'choose', 'i']...>
+Dictionary<9 unique tokens: ['a', 'breath', 'crest', 'light', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['iii', 'king', 'richard']>
+Dictionary<4 unique tokens: ['it', 'rest', 'take', 'the']>
+Dictionary<7 unique tokens: ['and', 'behaviors', 'bloody', 'esteemed', 'let']...>
+Dictionary<6 unique tokens: ['abated', 'double', 'gaze', 'i', 'thus']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['sicinius']>
+Dictionary<9 unique tokens: ['a', 'answerd', 'dedication', 'have', 'how']...>
+Dictionary<11 unique tokens: ['brought', 'have', 'if', 'likewise', 'she']...>
+Dictionary<8 unique tokens: ['before', 'breaking', 'my', 'name', 'so']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['falstaff']>
+Dictionary<7 unique tokens: ['any', 'art', 'happiness', 'say', 'thou']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'murderer']>
+Dictionary<4 unique tokens: ['but', 'hot', 'some', 'theres']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['orlando']>
+Dictionary<10 unique tokens: ['a', 'basis', 'i', 'lord', 'love']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['puck']>
+Dictionary<4 unique tokens: ['are', 'cousin', 'that', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'servant']>
+Dictionary<9 unique tokens: ['battle', 'i', 'it', 'tell', 'there']...>
+Dictionary<5 unique tokens: ['excuse', 'me', 'must', 'needs', 'well']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['polixenes']>
+Dictionary<10 unique tokens: ['and', 'but', 'doubtful', 'heard', 'him']...>
+Dictionary<11 unique tokens: ['gentleman', 'it', 'lustre', 'makes', 'not']...>
+Dictionary<9 unique tokens: ['a', 'friends', 'hell', 'my', 'night']...>
+Dictionary<8 unique tokens: ['curser', 'i', 'late', 'my', 'on']...>
+Dictionary<13 unique tokens: ['a', 'by', 'him', 'i', 'lose']...>
+Dictionary<7 unique tokens: ['entertainment', 'even', 'execute', 'this', 'thy']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lady', 'macbeth']>
+Dictionary<8 unique tokens: ['be', 'bid', 'gallantly', 'him', 'i']...>
+Dictionary<9 unique tokens: ['alone', 'betimes', 'come', 'counsel', 'his']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['troilus']>
+Dictionary<8 unique tokens: ['always', 'be', 'find', 'have', 'i']...>
+Dictionary<12 unique tokens: ['a', 'in', 'my', 'not', 'of']...>
+Dictionary<8 unique tokens: ['a', 'an', 'day', 'for', 'have']...>
+Dictionary<6 unique tokens: ['consently', 'gold', 'in', 'majesty', 'my']...>
+Dictionary<10 unique tokens: ['bears', 'but', 'death', 'night', 'of']...>
+Dictionary<14 unique tokens: ['as', 'do', 'few', 'great', 'home']...>
+Dictionary<6 unique tokens: ['great', 'of', 'pisa', 'that', 'together']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['malvolio']>
+Dictionary<10 unique tokens: ['a', 'being', 'business', 'like', 'long']...>
+Dictionary<9 unique tokens: ['amity', 'and', 'good', 'his', 'is']...>
+Dictionary<9 unique tokens: ['answer', 'are', 'do', 'dried', 'him']...>
+Dictionary<8 unique tokens: ['down', 'her', 'it', 'pageant', 'secret']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['john', 'king']>
+Dictionary<4 unique tokens: ['come', 'not', 'tarsus', 'to']>
+Dictionary<6 unique tokens: ['as', 'come', 'on', 'sir', 'stayd']...>
+Dictionary<8 unique tokens: ['as', 'coat', 'ender', 'henrys', 'in']...>
+Dictionary<7 unique tokens: ['another', 'does', 'good', 'i', 'myself']...>
+Dictionary<9 unique tokens: ['all', 'appear', 'as', 'bed', 'copily']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['dolabella']>
+Dictionary<10 unique tokens: ['accuse', 'arder', 'is', 'me', 'of']...>
+Dictionary<10 unique tokens: ['answered', 'at', 'be', 'could', 'find']...>
+Dictionary<10 unique tokens: ['antony', 'come', 'for', 'gods', 'lady']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['coriolanus']>
+Dictionary<5 unique tokens: ['brother', 'him', 'it', 'let', 'wear']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['leonato']>
+Dictionary<4 unique tokens: ['him', 'i', 'run', 'wither']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['peter']>
+Dictionary<10 unique tokens: ['a', 'as', 'blest', 'have', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['me', 'show']>
+Dictionary<10 unique tokens: ['a', 'command', 'forfirm', 'his', 'if']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['launce']>
+Dictionary<3 unique tokens: ['is', 'it', 'soft']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<8 unique tokens: ['draw', 'falsehood', 'into', 'middle', 'the']...>
+Dictionary<13 unique tokens: ['another', 'curs', 'fair', 'in', 'iter']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cybbeline']>
+Dictionary<11 unique tokens: ['be', 'duke', 'forswear', 'give', 'him']...>
+Dictionary<8 unique tokens: ['and', 'courtier', 'knoplesoldiers', 'o', 'sooner']...>
+Dictionary<7 unique tokens: ['antipholus', 'confess', 'i', 'not', 'stays']...>
+Dictionary<9 unique tokens: ['a', 'and', 'brother', 'do', 'legs']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['ford', 'mistress']>
+Dictionary<7 unique tokens: ['gentle', 'lord', 'o', 'pity', 'speak']...>
+Dictionary<10 unique tokens: ['and', 'bear', 'children', 'couple', 'husbands']...>
+Dictionary<9 unique tokens: ['a', 'as', 'call', 'can', 'follow']...>
+Dictionary<8 unique tokens: ['and', 'bondmack', 'business', 'in', 'of']...>
+Dictionary<10 unique tokens: ['by', 'filth', 'heaven', 'him', 'of']...>
+Dictionary<8 unique tokens: ['army', 'arrived', 'art', 'of', 'some']...>
+Dictionary<9 unique tokens: ['man', 'my', 'not', 'peer', 'shall']...>
+Dictionary<9 unique tokens: ['his', 'killd', 'marry', 'master', 'now']...>
+Dictionary<5 unique tokens: ['him', 'lady', 'lead', 'might', 'sweet']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['second', 'senator']>
+Dictionary<9 unique tokens: ['ay', 'beauty', 'die', 'due', 'must']...>
+Dictionary<9 unique tokens: ['been', 'consent', 'ever', 'have', 'if']...>
+Dictionary<7 unique tokens: ['and', 'as', 'dish', 'doubtless', 'every']...>
+Dictionary<9 unique tokens: ['a', 'are', 'in', 'mischief', 'our']...>
+Dictionary<9 unique tokens: ['ay', 'bedrighteer', 'have', 'hearts', 'hes']...>
+Dictionary<9 unique tokens: ['a', 'and', 'doubtfully', 'fellow', 'inventance']...>
+Dictionary<5 unique tokens: ['as', 'heavenly', 'helf', 'here', 'threatened']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'witch']>
+Dictionary<2 unique tokens: ['all', 'at']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['falstaff']>
+Dictionary<13 unique tokens: ['all', 'be', 'by', 'days', 'fool']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['albany']>
+Dictionary<7 unique tokens: ['for', 'got', 'have', 'her', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['norfolk']>
+Dictionary<9 unique tokens: ['ashame', 'doth', 'from', 'he', 'it']...>
+Dictionary<5 unique tokens: ['ambassadors', 'and', 'by', 'his', 'lie']>
+Dictionary<7 unique tokens: ['and', 'desires', 'helling', 'new', 'stubborn']...>
+Dictionary<9 unique tokens: ['about', 'bear', 'fathers', 'friendly', 'hour']...>
+Dictionary<7 unique tokens: ['do', 'follow', 'i', 'may', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['hastings']>
+Dictionary<12 unique tokens: ['been', 'bloody', 'eyes', 'frame', 'had']...>
+Dictionary<10 unique tokens: ['base', 'be', 'by', 'day', 'desires']...>
+Dictionary<13 unique tokens: ['a', 'as', 'at', 'fall', 'had']...>
+Dictionary<9 unique tokens: ['alone', 'can', 'i', 'my', 'set']...>
+Dictionary<9 unique tokens: ['be', 'but', 'every', 'general', 'here']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['helena']>
+Dictionary<8 unique tokens: ['all', 'gied', 'have', 'ill', 'letter']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['talbot']>
+Dictionary<3 unique tokens: ['is', 'o', 'this']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'second']>
+Dictionary<9 unique tokens: ['but', 'cease', 'i', 'own', 'run']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ventidius']>
+Dictionary<9 unique tokens: ['he', 'i', 'lord', 'my', 'nor']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassius']>
+Dictionary<3 unique tokens: ['husband', 'i', 'say']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<7 unique tokens: ['additions', 'all', 'and', 'chase', 'lift']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ajax']>
+Dictionary<10 unique tokens: ['equinius', 'i', 'is', 'it', 'misled']...>
+Dictionary<7 unique tokens: ['affection', 'be', 'ill', 'our', 'rage']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['escalus']>
+Dictionary<10 unique tokens: ['a', 'alas', 'ever', 'heart', 'newhouses']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['thersites']>
+Dictionary<1 unique tokens: ['murder']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['trinculo']>
+Dictionary<10 unique tokens: ['am', 'be', 'have', 'here', 'i']...>
+Dictionary<7 unique tokens: ['a', 'further', 'i', 'in', 'pray']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<3 unique tokens: ['foreign', 'therefore', 'these']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['volumnia']>
+Dictionary<6 unique tokens: ['am', 'clifford', 'i', 'infusions', 'woman']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gadshill']>
+Dictionary<4 unique tokens: ['make', 'melancholy', 'no', 'very']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['viola']>
+Dictionary<7 unique tokens: ['all', 'are', 'guard', 'in', 'thanks']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['cardinal', 'wolsey']>
+Dictionary<12 unique tokens: ['be', 'had', 'hope', 'i', 'if']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassius']>
+Dictionary<11 unique tokens: ['a', 'dead', 'ever', 'goodness', 'i']...>
+Dictionary<9 unique tokens: ['back', 'be', 'can', 'for', 'kindred']...>
+Dictionary<5 unique tokens: ['and', 'are', 'down', 'so', 'substance']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['parolles']>
+Dictionary<13 unique tokens: ['but', 'call', 'do', 'down', 'fortune']...>
+Dictionary<7 unique tokens: ['and', 'courtesy', 'good', 'her', 'place']...>
+Dictionary<9 unique tokens: ['a', 'and', 'bed', 'begin', 'burnt']...>
+Dictionary<5 unique tokens: ['excepted', 'one', 'that', 'unground', 'vile']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
+Dictionary<10 unique tokens: ['a', 'albans', 'in', 'injury', 'knave']...>
+Dictionary<10 unique tokens: ['aspected', 'i', 'make', 'more', 'no']...>
+Dictionary<6 unique tokens: ['him', 'near', 'quickly', 'them', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['falstaff']>
+Dictionary<3 unique tokens: ['he', 'is', 'what']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duke', 'of', 'york']>
+Dictionary<9 unique tokens: ['desired', 'have', 'i', 'is', 'it']...>
+Dictionary<9 unique tokens: ['all', 'been', 'brother', 'dear', 'hath']...>
+Dictionary<12 unique tokens: ['bid', 'half', 'hear', 'it', 'kingdom']...>
+Dictionary<9 unique tokens: ['and', 'deed', 'else', 'my', 'or']...>
+Dictionary<10 unique tokens: ['a', 'and', 'by', 'did', 'gentle']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['citizen', 'second']>
+Dictionary<8 unique tokens: ['all', 'amorous', 'belly', 'men', 'more']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['anne', 'page']>
+Dictionary<14 unique tokens: ['ane', 'as', 'being', 'fair', 'hath']...>
+Dictionary<10 unique tokens: ['a', 'cause', 'make', 'of', 'or']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['holofernes']>
+Dictionary<8 unique tokens: ['and', 'as', 'be', 'cracked', 'foul']...>
+Dictionary<8 unique tokens: ['a', 'and', 'doth', 'drum', 'his']...>
+Dictionary<10 unique tokens: ['and', 'be', 'cleap', 'early', 'he']...>
+Dictionary<8 unique tokens: ['a', 'doth', 'ducats', 'evil', 'from']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'vincentio']>
+Dictionary<8 unique tokens: ['add', 'becomes', 'how', 'my', 'so']...>
+Dictionary<7 unique tokens: ['and', 'publius', 'sounds', 'swords', 'their']...>
+Dictionary<10 unique tokens: ['and', 'example', 'followd', 'his', 'in']...>
+Dictionary<10 unique tokens: ['banished', 'being', 'courage', 'even', 'for']...>
+Dictionary<9 unique tokens: ['and', 'cobweb', 'edmund', 'kill', 'me']...>
+Dictionary<7 unique tokens: ['and', 'dishonour', 'him', 'in', 'observation']...>
+Dictionary<9 unique tokens: ['and', 'be', 'befriends', 'does', 'he']...>
+Dictionary<9 unique tokens: ['and', 'as', 'but', 'first', 'greatness']...>
+Dictionary<10 unique tokens: ['back', 'from', 'ground', 'inly', 'it']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['warwick']>
+Dictionary<12 unique tokens: ['and', 'book', 'done', 'give', 'hence']...>
+Dictionary<8 unique tokens: ['days', 'expureacold', 'honour', 'mark', 'of']...>
+Dictionary<9 unique tokens: ['and', 'as', 'green', 'into', 'is']...>
+Dictionary<10 unique tokens: ['are', 'being', 'born', 'education', 'english']...>
+Dictionary<9 unique tokens: ['about', 'dearerstall', 'him', 'if', 'it']...>
+Dictionary<7 unique tokens: ['because', 'besides', 'fairnaked', 'falsehood', 'goes']...>
+Dictionary<11 unique tokens: ['and', 'do', 'i', 'make', 'name']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cymbeline']>
+Dictionary<11 unique tokens: ['but', 'earth', 'ever', 'forsake', 'gaunt']...>
+Dictionary<9 unique tokens: ['and', 'him', 'if', 'necessary', 'royal']...>
+Dictionary<8 unique tokens: ['all', 'ancestors', 'and', 'deliver', 'me']...>
+Dictionary<9 unique tokens: ['brutus', 'but', 'case', 'deep', 'it']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['boy']>
+Dictionary<9 unique tokens: ['draw', 'hasty', 'joy', 'lie', 'me']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cressida']>
+Dictionary<8 unique tokens: ['a', 'daughter', 'for', 'git', 'o']...>
+Dictionary<9 unique tokens: ['and', 'die', 'good', 'her', 'ill']...>
+Dictionary<11 unique tokens: ['a', 'but', 'did', 'drink', 'of']...>
+Dictionary<8 unique tokens: ['be', 'bewitchd', 'gives', 'her', 'me']...>
+Dictionary<9 unique tokens: ['and', 'by', 'desire', 'fair', 'good']...>
+Dictionary<8 unique tokens: ['be', 'days', 'partner', 'prays', 'she']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<8 unique tokens: ['are', 'as', 'boy', 'many', 'no']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cressida']>
+Dictionary<11 unique tokens: ['a', 'been', 'by', 'had', 'i']...>
+Dictionary<9 unique tokens: ['be', 'falstaff', 'for', 'he', 'john']...>
+Dictionary<11 unique tokens: ['chamber', 'follow', 'i', 'me', 'offend']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'hurder']>
+Dictionary<10 unique tokens: ['and', 'from', 'good', 'have', 'i']...>
+Dictionary<9 unique tokens: ['april', 'are', 'at', 'come', 'from']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bethemlo']>
+Dictionary<11 unique tokens: ['can', 'husband', 'ill', 'more', 'penny']...>
+Dictionary<10 unique tokens: ['as', 'bless', 'for', 'form', 'if']...>
+Dictionary<15 unique tokens: ['a', 'and', 'as', 'bardolph', 'conveyd']...>
+Dictionary<7 unique tokens: ['bloody', 'court', 'himself', 'of', 'that']...>
+Dictionary<10 unique tokens: ['and', 'any', 'boar', 'faults', 'giddy']...>
+Dictionary<11 unique tokens: ['an', 'and', 'by', 'enemy', 'heart']...>
+Dictionary<9 unique tokens: ['as', 'comfort', 'flowers', 'for', 'friends']...>
+Dictionary<12 unique tokens: ['a', 'enough', 'heart', 'lawful', 'might']...>
+Dictionary<9 unique tokens: ['am', 'discourse', 'done', 'having', 'i']...>
+Dictionary<10 unique tokens: ['and', 'bretagne', 'crowd', 'from', 'mortifies']...>
+Dictionary<10 unique tokens: ['and', 'as', 'birth', 'could', 'eye']...>
+Dictionary<11 unique tokens: ['and', 'conspired', 'eyes', 'for', 'have']...>
+Dictionary<12 unique tokens: ['and', 'arm', 'as', 'he', 'led']...>
+Dictionary<9 unique tokens: ['breath', 'fine', 'it', 'let', 'me']...>
+Dictionary<9 unique tokens: ['an', 'and', 'not', 'our', 'satisfaction']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['beatrice']>
+Dictionary<10 unique tokens: ['is', 'liege', 'my', 'not', 'pray']...>
+Dictionary<6 unique tokens: ['all', 'father', 'have', 'i', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['silence']>
+Dictionary<9 unique tokens: ['also', 'and', 'capons', 'ingenious', 'other']...>
+Dictionary<8 unique tokens: ['a', 'base', 'bringing', 'in', 'should']...>
+Dictionary<11 unique tokens: ['because', 'before', 'found', 'have', 'him']...>
+Dictionary<11 unique tokens: ['and', 'are', 'as', 'day', 'like']...>
+Dictionary<10 unique tokens: ['be', 'between', 'eyes', 'his', 'i']...>
+Dictionary<10 unique tokens: ['blue', 'earth', 'epithantic', 'giddy', 'is']...>
+Dictionary<9 unique tokens: ['a', 'blunting', 'born', 'by', 'men']...>
+Dictionary<8 unique tokens: ['again', 'chairs', 'could', 'in', 'part']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'murderer']>
+Dictionary<10 unique tokens: ['as', 'gold', 'late', 'may', 'of']...>
+Dictionary<7 unique tokens: ['enamounce', 'have', 'heads', 'proposed', 'should']...>
+Dictionary<10 unique tokens: ['but', 'can', 'he', 'here', 'is']...>
+Dictionary<0 unique tokens: []>
+Dictionary<4 unique tokens: ['costard', 'of', 'sir', 'syracuse']>
+Dictionary<12 unique tokens: ['can', 'i', 'is', 'opposite', 'should']...>
+Dictionary<11 unique tokens: ['as', 'chamber', 'eats', 'even', 'from']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pisanio']>
+Dictionary<7 unique tokens: ['a', 'coxcomb', 'hero', 'prove', 'shall']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['achilles']>
+Dictionary<8 unique tokens: ['a', 'give', 'i', 'mischief', 'o']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['countess']>
+Dictionary<6 unique tokens: ['am', 'i', 'lancaster', 'of', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['all']>
+Dictionary<10 unique tokens: ['bring', 'fight', 'her', 'live', 'service']...>
+Dictionary<9 unique tokens: ['a', 'be', 'but', 'garment', 'i']...>
+Dictionary<12 unique tokens: ['antony', 'as', 'countrys', 'for', 'from']...>
+Dictionary<11 unique tokens: ['air', 'beseeming', 'fumbled', 'i', 'meek']...>
+Dictionary<10 unique tokens: ['behind', 'but', 'down', 'her', 'rooms']...>
+Dictionary<9 unique tokens: ['any', 'borne', 'fair', 'from', 'have']...>
+Dictionary<9 unique tokens: ['full', 'how', 'numbers', 'of', 'on']...>
+Dictionary<8 unique tokens: ['all', 'antony', 'decrees', 'english', 'laughest']...>
+Dictionary<5 unique tokens: ['am', 'hark', 'i', 'quick', 'wherefore']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['john', 'king']>
+Dictionary<7 unique tokens: ['chamber', 'good', 'him', 'parted', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bertram']>
+Dictionary<7 unique tokens: ['fellow', 'have', 'i', 'pregnant', 'the']...>
+Dictionary<7 unique tokens: ['and', 'good', 'hath', 'he', 'kisses']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['angelo']>
+Dictionary<11 unique tokens: ['brutus', 'em', 'heart', 'hold', 'moment']...>
+Dictionary<10 unique tokens: ['and', 'marriage', 'more', 'no', 'on']...>
+Dictionary<13 unique tokens: ['a', 'action', 'am', 'as', 'born']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bawd']>
+Dictionary<3 unique tokens: ['lord', 'my', 'o']>
+Dictionary<11 unique tokens: ['ages', 'courage', 'face', 'guiltless', 'he']...>
+Dictionary<6 unique tokens: ['dear', 'is', 'it', 'more', 'sirs']...>
+Dictionary<8 unique tokens: ['acide', 'as', 'have', 'her', 'loss']...>
+Dictionary<11 unique tokens: ['caesar', 'did', 'he', 'i', 'if']...>
+Dictionary<7 unique tokens: ['brother', 'examine', 'i', 'lie', 'myself']...>
+Dictionary<9 unique tokens: ['all', 'brain', 'grapple', 'hath', 'if']...>
+Dictionary<8 unique tokens: ['and', 'as', 'brought', 'it', 'march']...>
+Dictionary<8 unique tokens: ['advantage', 'better', 'good', 'in', 'much']...>
+Dictionary<10 unique tokens: ['breaking', 'father', 'her', 'how', 'of']...>
+Dictionary<9 unique tokens: ['buy', 'from', 'if', 'the', 'thee']...>
+Dictionary<7 unique tokens: ['amplement', 'and', 'bocks', 'flittery', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
+Dictionary<8 unique tokens: ['antonius', 'come', 'lord', 'make', 'my']...>
+Dictionary<5 unique tokens: ['entreat', 'i', 'man', 'thee', 'whilst']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['juliet']>
+Dictionary<11 unique tokens: ['but', 'day', 'do', 'doth', 'have']...>
+Dictionary<8 unique tokens: ['act', 'domething', 'himself', 'his', 'hunting']...>
+Dictionary<8 unique tokens: ['and', 'be', 'found', 'overpreseld', 'performance']...>
+Dictionary<9 unique tokens: ['be', 'can', 'him', 'i', 'not']...>
+Dictionary<10 unique tokens: ['a', 'beximpt', 'first', 'hid', 'me']...>
+Dictionary<7 unique tokens: ['dream', 'farther', 'for', 'purposes', 'so']...>
+Dictionary<8 unique tokens: ['all', 'as', 'distractions', 'let', 'life']...>
+Dictionary<5 unique tokens: ['applement', 'armardos', 'john', 'sir', 'true']>
+Dictionary<8 unique tokens: ['accountance', 'barren', 'besome', 'but', 'fresh']...>
+Dictionary<10 unique tokens: ['all', 'and', 'ask', 'did', 'her']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['troilus']>
+Dictionary<11 unique tokens: ['earth', 'every', 'give', 'his', 'in']...>
+Dictionary<9 unique tokens: ['and', 'ask', 'glove', 'home', 'i']...>
+Dictionary<7 unique tokens: ['all', 'in', 'of', 'rudesty', 'spirits']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cressida']>
+Dictionary<14 unique tokens: ['am', 'and', 'at', 'grace', 'i']...>
+Dictionary<8 unique tokens: ['air', 'all', 'ambitious', 'and', 'he']...>
+Dictionary<7 unique tokens: ['bawd', 'had', 'i', 'if', 'lord']...>
+Dictionary<10 unique tokens: ['all', 'boy', 'have', 'heard', 'holy']...>
+Dictionary<7 unique tokens: ['all', 'are', 'bloody', 'but', 'by']...>
+Dictionary<8 unique tokens: ['as', 'break', 'for', 'greater', 'renown']...>
+Dictionary<9 unique tokens: ['a', 'and', 'kings', 'lets', 'make']...>
+Dictionary<8 unique tokens: ['ammition', 'annointd', 'break', 'comes', 'his']...>
+Dictionary<5 unique tokens: ['distance', 'into', 'love', 'malicious', 'the']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['laertes']>
+Dictionary<1 unique tokens: ['tot']>
+Dictionary<5 unique tokens: ['all', 'appears', 'cease', 'her', 'who']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['fluellen']>
+Dictionary<8 unique tokens: ['and', 'are', 'departures', 'hear', 'her']...>
+Dictionary<10 unique tokens: ['all', 'and', 'callst', 'if', 'me']...>
+Dictionary<11 unique tokens: ['a', 'an', 'fall', 'love', 'music']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['bardolph', 'lord']>
+Dictionary<9 unique tokens: ['before', 'both', 'cap', 'fie', 'int']...>
+Dictionary<6 unique tokens: ['a', 'by', 'fatenot', 'hundred', 'kingdom']...>
+Dictionary<9 unique tokens: ['come', 'lords', 'messala', 'poor', 'precedent']...>
+Dictionary<8 unique tokens: ['avoided', 'dares', 'my', 'that', 'the']...>
+Dictionary<12 unique tokens: ['a', 'break', 'but', 'content', 'forswear']...>
+Dictionary<3 unique tokens: ['glory', 'wheres', 'your']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['margaret', 'queen']>
+Dictionary<4 unique tokens: ['as', 'nay', 'scorn', 'theres']>
+Dictionary<5 unique tokens: ['again', 'her', 'i', 'see', 'stale']>
+Dictionary<10 unique tokens: ['as', 'but', 'minute', 'of', 'on']...>
+Dictionary<8 unique tokens: ['a', 'another', 'from', 'had', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['speed']>
+Dictionary<10 unique tokens: ['go', 'has', 'her', 'i', 'not']...>
+Dictionary<9 unique tokens: ['for', 'he', 'hers', 'is', 'lather']...>
+Dictionary<9 unique tokens: ['be', 'his', 'i', 'love', 'rememberd']...>
+Dictionary<8 unique tokens: ['death', 'dotas', 'foots', 'freely', 'on']...>
+Dictionary<7 unique tokens: ['desert', 'fault', 'handkerchief', 'is', 'that']...>
+Dictionary<12 unique tokens: ['am', 'her', 'highness', 'hold', 'i']...>
+Dictionary<9 unique tokens: ['a', 'against', 'dismercise', 'gilties', 'in']...>
+Dictionary<6 unique tokens: ['but', 'days', 'humours', 'little', 'other']...>
+Dictionary<11 unique tokens: ['and', 'craveth', 'doth', 'his', 'i']...>
+Dictionary<7 unique tokens: ['be', 'children', 'dreadfully', 'fair', 'still']...>
+Dictionary<8 unique tokens: ['and', 'conveyd', 'hung', 'is', 'it']...>
+Dictionary<9 unique tokens: ['by', 'cur', 'his', 'in', 'lo']...>
+Dictionary<4 unique tokens: ['be', 'let', 'me', 'past']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['leonine']>
+Dictionary<10 unique tokens: ['a', 'at', 'frailty', 'hand', 'have']...>
+Dictionary<8 unique tokens: ['and', 'banish', 'costly', 'danger', 'doth']...>
+Dictionary<8 unique tokens: ['day', 'hands', 'i', 'my', 'o']...>
+Dictionary<10 unique tokens: ['and', 'blessed', 'his', 'name', 'our']...>
+Dictionary<9 unique tokens: ['alexander', 'an', 'good', 'in', 'morrow']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['leonato']>
+Dictionary<12 unique tokens: ['a', 'brave', 'good', 'had', 'if']...>
+Dictionary<4 unique tokens: ['act', 'maids', 'that', 'the']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'gentleman']>
+Dictionary<6 unique tokens: ['against', 'her', 'like', 'pleasure', 'power']...>
+Dictionary<1 unique tokens: ['with']>
+Dictionary<2 unique tokens: ['heap', 'her']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['claudio']>
+Dictionary<9 unique tokens: ['evenged', 'fortune', 'has', 'i', 'most']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'king', 'v']>
+Dictionary<10 unique tokens: ['em', 'general', 'i', 'jews', 'on']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'king', 'v']>
+Dictionary<10 unique tokens: ['a', 'but', 'do', 'gold', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['taller']>
+Dictionary<13 unique tokens: ['alas', 'for', 'good', 'heavens', 'lord']...>
+Dictionary<7 unique tokens: ['ade', 'countly', 'gladly', 'have', 'may']...>
+Dictionary<8 unique tokens: ['but', 'death', 'he', 'met', 'poisons']...>
+Dictionary<9 unique tokens: ['as', 'do', 'hands', 'hardly', 'i']...>
+Dictionary<9 unique tokens: ['and', 'burn', 'feed', 'fire', 'of']...>
+Dictionary<7 unique tokens: ['against', 'and', 'consulblesd', 'forty', 'him']...>
+Dictionary<8 unique tokens: ['but', 'cromwell', 'death', 'for', 'kill']...>
+Dictionary<8 unique tokens: ['battle', 'but', 'from', 'further', 'honour']...>
+Dictionary<9 unique tokens: ['beard', 'does', 'he', 'icade', 'married']...>
+Dictionary<6 unique tokens: ['and', 'awhile', 'ceremony', 'dat', 'desires']...>
+Dictionary<5 unique tokens: ['and', 'in', 'intermy', 'party', 'the']>
+Dictionary<8 unique tokens: ['again', 'base', 'do', 'from', 'ill']...>
+Dictionary<7 unique tokens: ['be', 'extreme', 'good', 'shall', 'stretched']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['antonio']>
+Dictionary<9 unique tokens: ['bears', 'cause', 'fathers', 'his', 'look']...>
+Dictionary<9 unique tokens: ['and', 'anne', 'but', 'great', 'i']...>
+Dictionary<12 unique tokens: ['all', 'and', 'dispatch', 'fever', 'for']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ophelia']>
+Dictionary<11 unique tokens: ['and', 'beseeming', 'entrances', 'had', 'have']...>
+Dictionary<5 unique tokens: ['her', 'peasy', 'terror', 'to', 'with']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['claudius', 'king']>
+Dictionary<6 unique tokens: ['a', 'caesars', 'can', 'haste', 'remember']...>
+Dictionary<9 unique tokens: ['cholers', 'judgment', 'made', 'meed', 'my']...>
+Dictionary<5 unique tokens: ['cressids', 'fortune', 'from', 'look', 'some']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['coriolanus']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['hostess']>
+Dictionary<7 unique tokens: ['are', 'beat', 'first', 'the', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['rosalind']>
+Dictionary<11 unique tokens: ['be', 'ended', 'ground', 'have', 'i']...>
+Dictionary<7 unique tokens: ['die', 'in', 'must', 'shower', 'so']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['othello']>
+Dictionary<12 unique tokens: ['a', 'but', 'can', 'certain', 'do']...>
+Dictionary<7 unique tokens: ['and', 'disgrace', 'firmlyrots', 'my', 'off']...>
+Dictionary<13 unique tokens: ['as', 'bawdy', 'die', 'doubt', 'each']...>
+Dictionary<4 unique tokens: ['brets', 'in', 'it', 'their']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['iago']>
+Dictionary<5 unique tokens: ['a', 'conquests', 'face', 'in', 'thy']>
+Dictionary<9 unique tokens: ['a', 'and', 'but', 'good', 'helicanus']...>
+Dictionary<9 unique tokens: ['bed', 'less', 'lives', 'oerwake', 'or']...>
+Dictionary<10 unique tokens: ['but', 'him', 'ill', 'it', 'lay']...>
+Dictionary<9 unique tokens: ['dares', 'else', 'further', 'it', 'loss']...>
+Dictionary<8 unique tokens: ['by', 'degree', 'if', 'not', 'nothing']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['stephano']>
+Dictionary<11 unique tokens: ['a', 'as', 'could', 'craft', 'green']...>
+Dictionary<7 unique tokens: ['discredit', 'for', 'hither', 'let', 'the']...>
+Dictionary<8 unique tokens: ['action', 'and', 'beguiled', 'bound', 'over']...>
+Dictionary<5 unique tokens: ['certainry', 'fasting', 'that', 'to', 'us']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lady', 'macbeth']>
+Dictionary<6 unique tokens: ['dost', 'have', 'here', 'then', 'thou']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['page']>
+Dictionary<8 unique tokens: ['are', 'duty', 'eye', 'for', 'intapercavale']...>
+Dictionary<9 unique tokens: ['and', 'hands', 'of', 'out', 'soldiers']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['banquo']>
+Dictionary<4 unique tokens: ['good', 'lord', 'my', 'well']>
+Dictionary<4 unique tokens: ['him', 'hold', 'not', 'strike']>
+Dictionary<5 unique tokens: ['a', 'brutus', 'how', 'now', 'smile']>
+Dictionary<10 unique tokens: ['alone', 'and', 'heed', 'learned', 'of']...>
+Dictionary<11 unique tokens: ['and', 'bedick', 'born', 'crosses', 'do']...>
+Dictionary<8 unique tokens: ['all', 'already', 'but', 'have', 'instrument']...>
+Dictionary<10 unique tokens: ['am', 'for', 'heart', 'her', 'i']...>
+Dictionary<8 unique tokens: ['awe', 'i', 'least', 'my', 'or']...>
+Dictionary<4 unique tokens: ['breathes', 'it', 'me', 'of']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cymbeline']>
+Dictionary<10 unique tokens: ['and', 'bad', 'be', 'death', 'england']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['flavius']>
+Dictionary<7 unique tokens: ['a', 'and', 'farewell', 'him', 'morsel']...>
+Dictionary<6 unique tokens: ['a', 'ample', 'eyes', 'not', 'thine']...>
+Dictionary<9 unique tokens: ['a', 'be', 'i', 'lady', 'mercy']...>
+Dictionary<7 unique tokens: ['action', 'earthlygrudging', 'in', 'not', 'these']...>
+Dictionary<9 unique tokens: ['but', 'by', 'keep', 'of', 'painting']...>
+Dictionary<8 unique tokens: ['abuses', 'all', 'by', 'land', 'provided']...>
+Dictionary<10 unique tokens: ['are', 'my', 'or', 'outlaw', 'possessd']...>
+Dictionary<11 unique tokens: ['and', 'are', 'burning', 'chreeks', 'from']...>
+Dictionary<8 unique tokens: ['but', 'from', 'guardman', 'hew', 'him']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['lovell']>
+Dictionary<10 unique tokens: ['belong', 'come', 'here', 'love', 'seek']...>
+Dictionary<7 unique tokens: ['consul', 'her', 'let', 'life', 'neer']...>
+Dictionary<8 unique tokens: ['agent', 'by', 'marcius', 'nor', 'struck']...>
+Dictionary<10 unique tokens: ['and', 'he', 'hell', 'his', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'king', 'v']>
+Dictionary<10 unique tokens: ['add', 'breast', 'did', 'he', 'if']...>
+Dictionary<9 unique tokens: ['begin', 'dead', 'dost', 'more', 'tell']...>
+Dictionary<8 unique tokens: ['affection', 'answer', 'her', 'lord', 'me']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['trinculo']>
+Dictionary<7 unique tokens: ['lord', 'my', 'see', 'thats', 'thee']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['slender']>
+Dictionary<9 unique tokens: ['brittiness', 'consumption', 'i', 'lullaby', 'no']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['wolcester']>
+Dictionary<8 unique tokens: ['a', 'and', 'circumstance', 'i', 'no']...>
+Dictionary<9 unique tokens: ['again', 'caret', 'died', 'not', 'our']...>
+Dictionary<4 unique tokens: ['do', 'even', 'thou', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['douglas', 'earl', 'of']>
+Dictionary<7 unique tokens: ['face', 'her', 'my', 'of', 'out']...>
+Dictionary<7 unique tokens: ['are', 'entreated', 'her', 'in', 'ingratitudes']...>
+Dictionary<7 unique tokens: ['by', 'gentle', 'master', 'my', 'opinion']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ariel']>
+Dictionary<12 unique tokens: ['all', 'be', 'done', 'grace', 'have']...>
+Dictionary<9 unique tokens: ['a', 'do', 'entreat', 'life', 'may']...>
+Dictionary<9 unique tokens: ['delivered', 'i', 'is', 'know', 'stephano']...>
+Dictionary<10 unique tokens: ['a', 'follow', 'for', 'good', 'guard']...>
+Dictionary<10 unique tokens: ['am', 'and', 'barren', 'best', 'full']...>
+Dictionary<8 unique tokens: ['departs', 'for', 'grove', 'men', 'of']...>
+Dictionary<10 unique tokens: ['a', 'all', 'and', 'fair', 'have']...>
+Dictionary<9 unique tokens: ['at', 'bring', 'it', 'let', 'mritages']...>
+Dictionary<7 unique tokens: ['calls', 'despite', 'gates', 'ingled', 'ins']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'polonius']>
+Dictionary<6 unique tokens: ['him', 'ill', 'lord', 'my', 'speak']...>
+Dictionary<11 unique tokens: ['and', 'be', 'believe', 'blood', 'do']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['kent']>
+Dictionary<8 unique tokens: ['fields', 'i', 'not', 'on', 'take']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
+Dictionary<6 unique tokens: ['dangerously', 'else', 'then', 'was', 'well']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['hamlet']>
+Dictionary<6 unique tokens: ['head', 'makes', 'my', 'not', 'what']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['murderer', 'second']>
+Dictionary<8 unique tokens: ['and', 'been', 'body', 'have', 'her']...>
+Dictionary<10 unique tokens: ['deserts', 'died', 'he', 'of', 'our']...>
+Dictionary<12 unique tokens: ['and', 'by', 'cause', 'day', 'god']...>
+Dictionary<8 unique tokens: ['army', 'contrary', 'each', 'in', 'kept']...>
+Dictionary<4 unique tokens: ['and', 'might', 'prepare', 'today']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bertram']>
+Dictionary<10 unique tokens: ['asdeemd', 'basket', 'be', 'go', 'indignity']...>
+Dictionary<11 unique tokens: ['by', 'dreamd', 'have', 'in', 'me']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['provost']>
+Dictionary<7 unique tokens: ['aros', 'him', 'i', 'say', 'view']...>
+Dictionary<13 unique tokens: ['are', 'base', 'deeds', 'ever', 'foul']...>
+Dictionary<10 unique tokens: ['as', 'do', 'i', 'my', 'promised']...>
+Dictionary<8 unique tokens: ['before', 'correction', 'have', 'lustre', 'my']...>
+Dictionary<5 unique tokens: ['a', 'as', 'aunt', 'bruissed', 'was']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['servant']>
+Dictionary<9 unique tokens: ['dieted', 'ear', 'is', 'men', 'mighty']...>
+Dictionary<8 unique tokens: ['ambidius', 'concealed', 'fling', 'go', 'her']...>
+Dictionary<10 unique tokens: ['at', 'but', 'go', 'leads', 'minds']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['maria']>
+Dictionary<6 unique tokens: ['and', 'i', 'lie', 'look', 'will']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['don', 'john']>
+Dictionary<11 unique tokens: ['dies', 'different', 'eye', 'fair', 'for']...>
+Dictionary<8 unique tokens: ['claudio', 'cousin', 'hat', 'in', 'of']...>
+Dictionary<7 unique tokens: ['bupty', 'charm', 'in', 'peers', 'poison']...>
+Dictionary<9 unique tokens: ['an', 'anointed', 'day', 'meaning', 'such']...>
+Dictionary<10 unique tokens: ['and', 'be', 'confident', 'do', 'hot']...>
+Dictionary<10 unique tokens: ['a', 'himself', 'i', 'speech', 'stains']...>
+Dictionary<7 unique tokens: ['follow', 'him', 'in', 'shall', 'slumber']...>
+Dictionary<6 unique tokens: ['a', 'it', 'little', 'outward', 'pleaseth']...>
+Dictionary<11 unique tokens: ['aunt', 'bame', 'go', 'i', 'lord']...>
+Dictionary<7 unique tokens: ['alexander', 'and', 'give', 'ill', 'lives']...>
+Dictionary<8 unique tokens: ['and', 'being', 'bondle', 'fair', 'grey']...>
+Dictionary<6 unique tokens: ['in', 'me', 'my', 'robe', 'sent']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gonzalo']>
+Dictionary<8 unique tokens: ['is', 'me', 'of', 'seald', 'she']...>
+Dictionary<9 unique tokens: ['are', 'as', 'because', 'bravely', 'general']...>
+Dictionary<9 unique tokens: ['greater', 'had', 'hires', 'is', 'it']...>
+Dictionary<5 unique tokens: ['a', 'enter', 'in', 'subjects', 'twill']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'turn']>
+Dictionary<13 unique tokens: ['and', 'down', 'fall', 'feed', 'greater']...>
+Dictionary<9 unique tokens: ['friendly', 'his', 'hollow', 'implandage', 'is']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['romeo']>
+Dictionary<2 unique tokens: ['ay', 'speak']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['speed']>
+Dictionary<11 unique tokens: ['be', 'caesar', 'from', 'hangd', 'it']...>
+Dictionary<7 unique tokens: ['and', 'learning', 'no', 'praised', 'spent']...>
+Dictionary<8 unique tokens: ['awaked', 'in', 'pray', 'rich', 'song']...>
+Dictionary<3 unique tokens: ['i', 'madam', 'will']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['laurence', 'thomas']>
+Dictionary<5 unique tokens: ['let', 'lord', 'me', 'my', 'see']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['inus', 'sir']>
+Dictionary<1 unique tokens: ['hark']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['murderer', 'third']>
+Dictionary<3 unique tokens: ['nominable', 'theres', 'view']>
+Dictionary<9 unique tokens: ['do', 'heed', 'her', 'mother', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['poins']>
+Dictionary<10 unique tokens: ['are', 'have', 'i', 'lord', 'my']...>
+Dictionary<7 unique tokens: ['another', 'are', 'been', 'enemies', 'lost']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ulysses']>
+Dictionary<13 unique tokens: ['and', 'cost', 'have', 'how', 'i']...>
+Dictionary<10 unique tokens: ['a', 'and', 'but', 'deputy', 'hang']...>
+Dictionary<8 unique tokens: ['dot', 'enough', 'eyes', 'my', 'upon']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['brutus', 'decius']>
+Dictionary<10 unique tokens: ['faith', 'ho', 'lackd', 'motion', 'noble']...>
+Dictionary<12 unique tokens: ['beauty', 'day', 'enemy', 'falln', 'have']...>
+Dictionary<5 unique tokens: ['expressments', 'in', 'so', 'some', 'themselves']>
+Dictionary<8 unique tokens: ['and', 'in', 'it', 'least', 'of']...>
+Dictionary<10 unique tokens: ['and', 'can', 'entertain', 'ere', 'he']...>
+Dictionary<11 unique tokens: ['almost', 'could', 'doth', 'he', 'it']...>
+Dictionary<10 unique tokens: ['and', 'be', 'content', 'forsworn', 'lady']...>
+Dictionary<10 unique tokens: ['are', 'as', 'by', 'every', 'man']...>
+Dictionary<10 unique tokens: ['alone', 'flung', 'good', 'hath', 'have']...>
+Dictionary<8 unique tokens: ['crying', 'dog', 'for', 'love', 'out']...>
+Dictionary<7 unique tokens: ['beat', 'boys', 'graces', 'pestilent', 'these']...>
+Dictionary<6 unique tokens: ['forbear', 'infurnish', 'manners', 'more', 'to']...>
+Dictionary<6 unique tokens: ['for', 'heavenly', 'heiring', 'her', 'peace']...>
+Dictionary<9 unique tokens: ['be', 'bond', 'he', 'i', 'meet']...>
+Dictionary<9 unique tokens: ['and', 'are', 'ever', 'is', 'rather']...>
+Dictionary<9 unique tokens: ['against', 'had', 'say', 'some', 'straight']...>
+Dictionary<7 unique tokens: ['after', 'eyes', 'for', 'hair', 'imperial']...>
+Dictionary<5 unique tokens: ['but', 'husband', 'keep', 'my', 'upon']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<4 unique tokens: ['a', 'heavens', 'prove', 'soul']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['citizen', 'first']>
+Dictionary<6 unique tokens: ['by', 'heaven', 'i', 'lord', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['kent']>
+Dictionary<9 unique tokens: ['bastard', 'but', 'couchd', 'hence', 'is']...>
+Dictionary<9 unique tokens: ['but', 'fear', 'from', 'household', 'i']...>
+Dictionary<8 unique tokens: ['her', 'importune', 'language', 'me', 'of']...>
+Dictionary<7 unique tokens: ['and', 'daughter', 'fathers', 'me', 'stackd']...>
+Dictionary<9 unique tokens: ['all', 'either', 'here', 'how', 'it']...>
+Dictionary<11 unique tokens: ['ages', 'beauty', 'cabrous', 'cold', 'funtle']...>
+Dictionary<9 unique tokens: ['all', 'are', 'death', 'grazms', 'knifes']...>
+Dictionary<6 unique tokens: ['ill', 'our', 'prayer', 'struck', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<12 unique tokens: ['and', 'in', 'loll', 'make', 'me']...>
+Dictionary<8 unique tokens: ['as', 'at', 'her', 'his', 'kneels']...>
+Dictionary<8 unique tokens: ['age', 'agree', 'ground', 'if', 'it']...>
+Dictionary<9 unique tokens: ['bosom', 'dearly', 'have', 'of', 'performd']...>
+Dictionary<10 unique tokens: ['but', 'come', 'cressid', 'set', 'sitting']...>
+Dictionary<13 unique tokens: ['comes', 'fellow', 'here', 'honour', 'make']...>
+Dictionary<1 unique tokens: ['air']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['timon']>
+Dictionary<8 unique tokens: ['a', 'and', 'break', 'merry', 'my']...>
+Dictionary<13 unique tokens: ['a', 'favour', 'good', 'in', 'lightpouched']...>
+Dictionary<6 unique tokens: ['cast', 'courtesies', 'heed', 'of', 'out']...>
+Dictionary<7 unique tokens: ['an', 'execute', 'grace', 'still', 'with']...>
+Dictionary<10 unique tokens: ['at', 'be', 'hairkills', 'like', 'never']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['troilus']>
+Dictionary<7 unique tokens: ['apparel', 'bodies', 'gentlenesso', 'have', 'heavens']...>
+Dictionary<7 unique tokens: ['about', 'come', 'desire', 'had', 'me']...>
+Dictionary<9 unique tokens: ['fouthful', 'his', 'i', 'if', 'in']...>
+Dictionary<7 unique tokens: ['action', 'do', 'harmless', 'horsessweet', 'on']...>
+Dictionary<10 unique tokens: ['be', 'but', 'i', 'in', 'of']...>
+Dictionary<12 unique tokens: ['a', 'and', 'for', 'gone', 'have']...>
+Dictionary<10 unique tokens: ['at', 'brother', 'france', 'his', 'in']...>
+Dictionary<8 unique tokens: ['a', 'faced', 'fearful', 'lusty', 'near']...>
+Dictionary<9 unique tokens: ['child', 'convrities', 'in', 'not', 'potent']...>
+Dictionary<11 unique tokens: ['and', 'at', 'beauty', 'bloody', 'court']...>
+Dictionary<8 unique tokens: ['and', 'come', 'not', 'restrain', 'saying']...>
+Dictionary<7 unique tokens: ['for', 'gallant', 'ground', 'much', 'murder']...>
+Dictionary<9 unique tokens: ['all', 'atch', 'contempt', 'fair', 'from']...>
+Dictionary<11 unique tokens: ['branches', 'butt', 'came', 'have', 'here']...>
+Dictionary<7 unique tokens: ['a', 'by', 'mantle', 'one', 'such']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lady', 'macbeth']>
+Dictionary<4 unique tokens: ['camest', 'course', 'thou', 'to']>
+Dictionary<9 unique tokens: ['before', 'far', 'hand', 'hath', 'her']...>
+Dictionary<7 unique tokens: ['did', 'hath', 'here', 'of', 'quickly']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['clown']>
+Dictionary<9 unique tokens: ['go', 'husbands', 'i', 'say', 'thy']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'philip']>
+Dictionary<8 unique tokens: ['a', 'abide', 'can', 'fourth', 'it']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['angelo']>
+Dictionary<10 unique tokens: ['a', 'art', 'bent', 'fort', 'hath']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassius']>
+Dictionary<5 unique tokens: ['all', 'come', 'lets', 'my', 'queen']>
+Dictionary<10 unique tokens: ['a', 'and', 'eat', 'halfkind', 'hast']...>
+Dictionary<8 unique tokens: ['be', 'i', 'rather', 'satisfied', 'take']...>
+Dictionary<8 unique tokens: ['everish', 'face', 'her', 'in', 'our']...>
+Dictionary<10 unique tokens: ['and', 'for', 'from', 'give', 'salt']...>
+Dictionary<7 unique tokens: ['all', 'bow', 'et', 'names', 'of']...>
+Dictionary<7 unique tokens: ['as', 'beautify', 'did', 'i', 'it']...>
+Dictionary<5 unique tokens: ['flame', 'motion', 'of', 'the', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cressida']>
+Dictionary<3 unique tokens: ['ah', 'brotherous', 'spirit']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cnrimon']>
+Dictionary<8 unique tokens: ['and', 'fall', 'gold', 'houses', 'loyaltys']...>
+Dictionary<10 unique tokens: ['am', 'behind', 'brought', 'grace', 'head']...>
+Dictionary<9 unique tokens: ['as', 'by', 'course', 'entertain', 'greatly']...>
+Dictionary<10 unique tokens: ['at', 'hemn', 'of', 'the', 'them']...>
+Dictionary<8 unique tokens: ['a', 'and', 'consent', 'gentleman', 'in']...>
+Dictionary<10 unique tokens: ['a', 'absent', 'chide', 'had', 'hold']...>
+Dictionary<6 unique tokens: ['fad', 'having', 'love', 'upon', 'your']...>
+Dictionary<7 unique tokens: ['all', 'guiding', 'now', 'orland', 'peaces']...>
+Dictionary<7 unique tokens: ['degrees', 'i', 'men', 'scant', 'to']...>
+Dictionary<8 unique tokens: ['and', 'harmborne', 'have', 'never', 'thy']...>
+Dictionary<11 unique tokens: ['add', 'address', 'and', 'as', 'do']...>
+Dictionary<8 unique tokens: ['am', 'but', 'dead', 'entertaind', 'every']...>
+Dictionary<10 unique tokens: ['brow', 'close', 'ever', 'him', 'in']...>
+Dictionary<9 unique tokens: ['between', 'blood', 'come', 'i', 'lord']...>
+Dictionary<8 unique tokens: ['again', 'be', 'breedingry', 'house', 'no']...>
+Dictionary<8 unique tokens: ['art', 'devise', 'heart', 'here', 'in']...>
+Dictionary<8 unique tokens: ['be', 'daughter', 'deliver', 'not', 'shall']...>
+Dictionary<7 unique tokens: ['absence', 'allowance', 'are', 'laugh', 'so']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['citizen', 'second']>
+Dictionary<2 unique tokens: ['heres', 'savantry']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['petruchio']>
+Dictionary<4 unique tokens: ['nay', 'peace', 'sit', 'you']>
+Dictionary<6 unique tokens: ['at', 'deraim', 'simplicity', 'the', 'to']...>
+Dictionary<9 unique tokens: ['and', 'me', 'noticily', 'rather', 'shall']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['margaret', 'queen']>
+Dictionary<5 unique tokens: ['awhile', 'came', 'how', 'they', 'well']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bassanio']>
+Dictionary<8 unique tokens: ['but', 'he', 'knows', 'no', 'prophet']...>
+Dictionary<7 unique tokens: ['a', 'folly', 'liar', 'sleep', 'take']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<4 unique tokens: ['backward', 'eat', 'hath', 'he']>
+Dictionary<9 unique tokens: ['and', 'be', 'exceeding', 'in', 'may']...>
+Dictionary<6 unique tokens: ['all', 'my', 'of', 'peace', 'sister']...>
+Dictionary<9 unique tokens: ['day', 'example', 'general', 'hero', 'how']...>
+Dictionary<5 unique tokens: ['beseech', 'do', 'grace', 'you', 'your']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['shallow']>
+Dictionary<7 unique tokens: ['awhile', 'descript', 'i', 'name', 'sir']...>
+Dictionary<11 unique tokens: ['any', 'assist', 'be', 'called', 'civil']...>
+Dictionary<11 unique tokens: ['a', 'and', 'conspect', 'france', 'in']...>
+Dictionary<8 unique tokens: ['bloody', 'but', 'heard', 'measure', 'was']...>
+Dictionary<8 unique tokens: ['a', 'for', 'of', 'pair', 'that']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<9 unique tokens: ['ay', 'bill', 'of', 'our', 'persons']...>
+Dictionary<7 unique tokens: ['a', 'earnest', 'for', 'in', 'little']...>
+Dictionary<10 unique tokens: ['and', 'bitterly', 'eyes', 'head', 'my']...>
+Dictionary<12 unique tokens: ['assure', 'do', 'found', 'go', 'have']...>
+Dictionary<12 unique tokens: ['be', 'chafe', 'gesty', 'i', 'it']...>
+Dictionary<7 unique tokens: ['all', 'born', 'did', 'for', 'my']...>
+Dictionary<9 unique tokens: ['a', 'and', 'be', 'brow', 'but']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['jessica']>
+Dictionary<9 unique tokens: ['all', 'am', 'follow', 'glad', 'honour']...>
+Dictionary<9 unique tokens: ['and', 'father', 'his', 'in', 'on']...>
+Dictionary<10 unique tokens: ['damnd', 'fear', 'have', 'her', 'mind']...>
+Dictionary<7 unique tokens: ['a', 'as', 'but', 'did', 'fever']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pericles']>
+Dictionary<12 unique tokens: ['a', 'for', 'hands', 'high', 'in']...>
+Dictionary<10 unique tokens: ['again', 'and', 'between', 'it', 'lays']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bevis']>
+Dictionary<6 unique tokens: ['and', 'can', 'here', 'kings', 'lives']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<5 unique tokens: ['dear', 'he', 'left', 'not', 'valentine']>
+Dictionary<11 unique tokens: ['adventure', 'command', 'fond', 'from', 'ground']...>
+Dictionary<9 unique tokens: ['fury', 'his', 'live', 'out', 'requests']...>
+Dictionary<10 unique tokens: ['are', 'exception', 'for', 'going', 'in']...>
+Dictionary<4 unique tokens: ['in', 'naples', 'of', 'wheat']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<10 unique tokens: ['as', 'do', 'gently', 'heard', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ford']>
+Dictionary<9 unique tokens: ['follow', 'he', 'hell', 'seem', 'shall']...>
+Dictionary<11 unique tokens: ['but', 'conscience', 'hath', 'he', 'heart']...>
+Dictionary<7 unique tokens: ['dearly', 'fathers', 'how', 'open', 'treachery']...>
+Dictionary<5 unique tokens: ['and', 'as', 'fly', 'inkind', 'trueh']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['edgar']>
+Dictionary<8 unique tokens: ['a', 'but', 'chain', 'hark', 'suffer']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['iago']>
+Dictionary<3 unique tokens: ['fair', 'steal', 'weep']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['emilia']>
+Dictionary<6 unique tokens: ['affrighted', 'an', 'eyes', 'nickly', 'shes']...>
+Dictionary<9 unique tokens: ['did', 'for', 'husband', 'modest', 'monarch']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['anne', 'page']>
+Dictionary<6 unique tokens: ['and', 'ay', 'in', 'one', 'sirrah']...>
+Dictionary<6 unique tokens: ['fents', 'have', 'more', 'offence', 'that']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['jessica']>
+Dictionary<10 unique tokens: ['am', 'as', 'be', 'better', 'do']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['angelo']>
+Dictionary<10 unique tokens: ['decised', 'he', 'help', 'is', 'pleasure']...>
+Dictionary<10 unique tokens: ['are', 'i', 'know', 'lords', 'moved']...>
+Dictionary<8 unique tokens: ['but', 'by', 'executes', 'man', 'more']...>
+Dictionary<6 unique tokens: ['i', 'might', 'not', 'seat', 'sir']...>
+Dictionary<11 unique tokens: ['all', 'can', 'duke', 'norfolk', 'of']...>
+Dictionary<8 unique tokens: ['be', 'he', 'in', 'much', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['princess']>
+Dictionary<6 unique tokens: ['a', 'decuse', 'doth', 'master', 'me']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassius']>
+Dictionary<9 unique tokens: ['but', 'hear', 'i', 'me', 'practise']...>
+Dictionary<10 unique tokens: ['a', 'above', 'boy', 'good', 'her']...>
+Dictionary<9 unique tokens: ['hear', 'if', 'tell', 'that', 'they']...>
+Dictionary<8 unique tokens: ['day', 'first', 'friends', 'his', 'now']...>
+Dictionary<10 unique tokens: ['and', 'beggd', 'did', 'for', 'from']...>
+Dictionary<8 unique tokens: ['but', 'can', 'characters', 'joyful', 'so']...>
+Dictionary<8 unique tokens: ['as', 'die', 'last', 'lief', 'shortest']...>
+Dictionary<11 unique tokens: ['and', 'as', 'bait', 'deep', 'do']...>
+Dictionary<9 unique tokens: ['for', 'his', 'hold', 'love', 'power']...>
+Dictionary<11 unique tokens: ['a', 'and', 'does', 'girland', 'he']...>
+Dictionary<10 unique tokens: ['been', 'being', 'could', 'hast', 'if']...>
+Dictionary<6 unique tokens: ['achilles', 'as', 'brawls', 'myself', 'only']...>
+Dictionary<8 unique tokens: ['and', 'as', 'away', 'ever', 'i']...>
+Dictionary<10 unique tokens: ['at', 'for', 'hand', 'it', 'likes']...>
+Dictionary<12 unique tokens: ['and', 'could', 'having', 'not', 'observe']...>
+Dictionary<8 unique tokens: ['and', 'is', 'joys', 'simples', 'this']...>
+Dictionary<9 unique tokens: ['and', 'he', 'letters', 'no', 'of']...>
+Dictionary<10 unique tokens: ['as', 'england', 'first', 'in', 'kings']...>
+Dictionary<8 unique tokens: ['art', 'begins', 'ere', 'injury', 'proud']...>
+Dictionary<16 unique tokens: ['alone', 'and', 'but', 'children', 'done']...>
+Dictionary<8 unique tokens: ['a', 'at', 'daughter', 'familiars', 'in']...>
+Dictionary<7 unique tokens: ['found', 'hands', 'his', 'i', 'it']...>
+Dictionary<13 unique tokens: ['accise', 'and', 'bid', 'doth', 'fortune']...>
+Dictionary<8 unique tokens: ['and', 'every', 'is', 'little', 'music']...>
+Dictionary<12 unique tokens: ['and', 'at', 'blush', 'for', 'haste']...>
+Dictionary<10 unique tokens: ['and', 'calld', 'grief', 'he', 'if']...>
+Dictionary<9 unique tokens: ['bait', 'better', 'dost', 'it', 'then']...>
+Dictionary<7 unique tokens: ['a', 'against', 'dry', 'moonshine', 'noble']...>
+Dictionary<9 unique tokens: ['a', 'affections', 'great', 'know', 'like']...>
+Dictionary<10 unique tokens: ['and', 'any', 'browly', 'have', 'leaved']...>
+Dictionary<8 unique tokens: ['clock', 'have', 'julius', 'of', 'shall']...>
+Dictionary<11 unique tokens: ['have', 'i', 'my', 'not', 'power']...>
+Dictionary<9 unique tokens: ['a', 'hundred', 'i', 'know', 'life']...>
+Dictionary<8 unique tokens: ['bountys', 'into', 'of', 'say', 'teeth']...>
+Dictionary<8 unique tokens: ['a', 'be', 'eyes', 'full', 'of']...>
+Dictionary<7 unique tokens: ['by', 'coldbelly', 'from', 'him', 'lendle']...>
+Dictionary<9 unique tokens: ['a', 'and', 'by', 'clamour', 'feet']...>
+Dictionary<9 unique tokens: ['as', 'cheering', 'lord', 'much', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['second', 'senator']>
+Dictionary<9 unique tokens: ['fair', 'fall', 'has', 'he', 'mates']...>
+Dictionary<8 unique tokens: ['are', 'band', 'go', 'his', 'nun']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['valentine']>
+Dictionary<3 unique tokens: ['ay', 'being', 'quarrel']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['auvergne', 'countess', 'of']>
+Dictionary<8 unique tokens: ['give', 'him', 'in', 'passion', 'their']...>
+Dictionary<8 unique tokens: ['days', 'ensue', 'every', 'he', 'is']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['caesar', 'octavius']>
+Dictionary<1 unique tokens: ['why']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['emilia']>
+Dictionary<5 unique tokens: ['are', 'friend', 'losta', 'you', 'young']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['salarino']>
+Dictionary<9 unique tokens: ['are', 'at', 'edgar', 'i', 'marcius']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['york']>
+Dictionary<9 unique tokens: ['death', 'die', 'fair', 'fellow', 'guest']...>
+Dictionary<10 unique tokens: ['and', 'demetrius', 'it', 'make', 'my']...>
+Dictionary<3 unique tokens: ['devils', 'falls', 'young']>
+Dictionary<9 unique tokens: ['a', 'door', 'happy', 'of', 'own']...>
+Dictionary<11 unique tokens: ['and', 'break', 'gone', 'make', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'vincentio']>
+Dictionary<6 unique tokens: ['dot', 'hail', 'it', 'pardon', 'receive']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['benedick']>
+Dictionary<8 unique tokens: ['hath', 'hour', 'in', 'no', 'shake']...>
+Dictionary<11 unique tokens: ['fit', 'fliest', 'hopes', 'of', 'our']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['srancester']>
+Dictionary<6 unique tokens: ['and', 'commandment', 'hand', 'hath', 'merily']...>
+Dictionary<9 unique tokens: ['another', 'butchers', 'in', 'lord', 'none']...>
+Dictionary<8 unique tokens: ['myself', 'need', 'prodigious', 'so', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['trinculo']>
+Dictionary<10 unique tokens: ['and', 'cunnings', 'her', 'ill', 'in']...>
+Dictionary<9 unique tokens: ['beauty', 'could', 'diunders', 'do', 'my']...>
+Dictionary<9 unique tokens: ['caesar', 'does', 'he', 'her', 'here']...>
+Dictionary<4 unique tokens: ['are', 'poor', 'till', 'we']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'lord']>
+Dictionary<11 unique tokens: ['and', 'are', 'breaks', 'good', 'lord']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['beatrice']>
+Dictionary<7 unique tokens: ['beggd', 'fie', 'he', 'hes', 'hours']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'vincentio']>
+Dictionary<5 unique tokens: ['lord', 'my', 'shall', 'what', 'you']>
+Dictionary<10 unique tokens: ['a', 'and', 'have', 'him', 'indeed']...>
+Dictionary<10 unique tokens: ['and', 'despised', 'guard', 'is', 'most']...>
+Dictionary<10 unique tokens: ['and', 'at', 'cause', 'grump', 'impart']...>
+Dictionary<10 unique tokens: ['blame', 'eye', 'have', 'is', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['reynaldo']>
+Dictionary<9 unique tokens: ['a', 'ay', 'can', 'doublet', 'lodging']...>
+Dictionary<4 unique tokens: ['bid', 'him', 'thee', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['evans', 'hugh', 'sir']>
+Dictionary<10 unique tokens: ['cares', 'fairest', 'hell', 'not', 'power']...>
+Dictionary<10 unique tokens: ['and', 'her', 'him', 'our', 'poison']...>
+Dictionary<5 unique tokens: ['breast', 'my', 'oer', 'of', 'riches']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['oonzalo']>
+Dictionary<7 unique tokens: ['as', 'come', 'father', 'hither', 'jealous']...>
+Dictionary<11 unique tokens: ['as', 'got', 'hack', 'hath', 'he']...>
+Dictionary<5 unique tokens: ['as', 'come', 'feasted', 'gentlemen', 'would']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['messenger']>
+Dictionary<7 unique tokens: ['ay', 'gone', 'it', 'me', 'saw']...>
+Dictionary<9 unique tokens: ['against', 'came', 'men', 'now', 'tell']...>
+Dictionary<1 unique tokens: ['corn']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'lear']>
+Dictionary<8 unique tokens: ['my', 'of', 'old', 'power', 'pride']...>
+Dictionary<9 unique tokens: ['all', 'and', 'call', 'heart', 'his']...>
+Dictionary<10 unique tokens: ['as', 'father', 'have', 'i', 'me']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<8 unique tokens: ['contracted', 'i', 'lord', 'of', 'payment']...>
+Dictionary<9 unique tokens: ['a', 'as', 'father', 'good', 'have']...>
+Dictionary<9 unique tokens: ['a', 'envy', 'imagination', 'little', 'loud']...>
+Dictionary<7 unique tokens: ['any', 'but', 'fights', 'find', 'gict']...>
+Dictionary<11 unique tokens: ['and', 'detection', 'great', 'have', 'hear']...>
+Dictionary<5 unique tokens: ['an', 'elder', 'of', 'paragon', 'suit']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'servingman']>
+Dictionary<7 unique tokens: ['by', 'doubled', 'fire', 'he', 'sir']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['puck']>
+Dictionary<10 unique tokens: ['but', 'excused', 'fair', 'for', 'have']...>
+Dictionary<10 unique tokens: ['a', 'blood', 'both', 'committed', 'harm']...>
+Dictionary<7 unique tokens: ['and', 'dismal', 'loud', 'son', 'sons']...>
+Dictionary<11 unique tokens: ['but', 'he', 'i', 'lose', 'me']...>
+Dictionary<9 unique tokens: ['could', 'crack', 'estate', 'fury', 'like']...>
+Dictionary<10 unique tokens: ['by', 'for', 'hes', 'live', 'man']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['salisbury']>
+Dictionary<7 unique tokens: ['art', 'ear', 'goths', 'my', 'remember']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['petruchio']>
+Dictionary<8 unique tokens: ['act', 'am', 'but', 'i', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['menenius']>
+Dictionary<10 unique tokens: ['be', 'go', 'must', 'of', 'out']...>
+Dictionary<10 unique tokens: ['are', 'as', 'hum', 'i', 'if']...>
+Dictionary<11 unique tokens: ['as', 'but', 'grow', 'hath', 'no']...>
+Dictionary<10 unique tokens: ['bequeathd', 'fathers', 'i', 'my', 'none']...>
+Dictionary<8 unique tokens: ['fierce', 'hamlet', 'i', 'love', 'no']...>
+Dictionary<10 unique tokens: ['and', 'another', 'fear', 'guide', 'of']...>
+Dictionary<7 unique tokens: ['can', 'days', 'flatter', 'his', 'ned']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'lord']>
+Dictionary<9 unique tokens: ['be', 'father', 'makes', 'me', 'my']...>
+Dictionary<8 unique tokens: ['and', 'given', 'great', 'is', 'much']...>
+Dictionary<9 unique tokens: ['brought', 'hypouses', 'large', 'me', 'pieces']...>
+Dictionary<2 unique tokens: ['attention', 'the']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'lear']>
+Dictionary<8 unique tokens: ['eloquent', 'fight', 'lets', 'life', 'my']...>
+Dictionary<11 unique tokens: ['a', 'done', 'is', 'lord', 'must']...>
+Dictionary<11 unique tokens: ['all', 'and', 'brows', 'did', 'martial']...>
+Dictionary<9 unique tokens: ['beguiled', 'being', 'faults', 'lions', 'no']...>
+Dictionary<11 unique tokens: ['a', 'absence', 'day', 'good', 'if']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<9 unique tokens: ['how', 'i', 'long', 'make', 'no']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['siana']>
+Dictionary<7 unique tokens: ['and', 'down', 'go', 'madam', 'man']...>
+Dictionary<9 unique tokens: ['brow', 'fault', 'in', 'keep', 'me']...>
+Dictionary<8 unique tokens: ['anger', 'but', 'changeable', 'my', 'nation']...>
+Dictionary<12 unique tokens: ['aloud', 'counsellors', 'doctors', 'for', 'in']...>
+Dictionary<7 unique tokens: ['at', 'ay', 'fancy', 'terman', 'to']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['angelo']>
+Dictionary<10 unique tokens: ['a', 'bring', 'came', 'case', 'ere']...>
+Dictionary<11 unique tokens: ['aims', 'and', 'field', 'for', 'he']...>
+Dictionary<10 unique tokens: ['about', 'and', 'black', 'flier', 'frosty']...>
+Dictionary<11 unique tokens: ['all', 'calls', 'even', 'me', 'noses']...>
+Dictionary<9 unique tokens: ['am', 'and', 'crown', 'foolish', 'i']...>
+Dictionary<5 unique tokens: ['for', 'it', 'renewing', 'seems', 'steel']>
+Dictionary<9 unique tokens: ['and', 'four', 'most', 'short', 'sweetlike']...>
+Dictionary<8 unique tokens: ['a', 'and', 'few', 'flower', 'gallant']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['thaisa']>
+Dictionary<3 unique tokens: ['disfair', 'is', 'this']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['simple']>
+Dictionary<9 unique tokens: ['are', 'foe', 'my', 'possessd', 'that']...>
+Dictionary<8 unique tokens: ['advised', 'but', 'eye', 'his', 'is']...>
+Dictionary<7 unique tokens: ['a', 'from', 'grieved', 'sorrow', 'that']...>
+Dictionary<7 unique tokens: ['from', 'instruction', 'juliets', 'man', 'tarriaging']...>
+Dictionary<6 unique tokens: ['give', 'god', 'life', 'my', 'now']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['angelo']>
+Dictionary<13 unique tokens: ['be', 'duppd', 'even', 'forth', 'in']...>
+Dictionary<9 unique tokens: ['and', 'arms', 'flesh', 'fly', 'in']...>
+Dictionary<11 unique tokens: ['chronic', 'die', 'enemy', 'of', 'practise']...>
+Dictionary<7 unique tokens: ['church', 'company', 'glorious', 'inlaw', 'is']...>
+Dictionary<9 unique tokens: ['back', 'dower', 'i', 'lifted', 'met']...>
+Dictionary<9 unique tokens: ['do', 'effect', 'foined', 'not', 'some']...>
+Dictionary<9 unique tokens: ['and', 'but', 'charge', 'cry', 'i']...>
+Dictionary<8 unique tokens: ['behold', 'fortunes', 'in', 'my', 'soul']...>
+Dictionary<11 unique tokens: ['doth', 'hath', 'he', 'language', 'not']...>
+Dictionary<6 unique tokens: ['by', 'cold', 'gallant', 'honours', 'in']...>
+Dictionary<6 unique tokens: ['against', 'cause', 'defends', 'fortunes', 'sit']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bassianus']>
+Dictionary<9 unique tokens: ['as', 'enough', 'first', 'forsooth', 'o']...>
+Dictionary<10 unique tokens: ['a', 'as', 'barbarous', 'if', 'not']...>
+Dictionary<9 unique tokens: ['all', 'and', 'brought', 'for', 'it']...>
+Dictionary<7 unique tokens: ['and', 'expression', 'for', 'gold', 'great']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<9 unique tokens: ['brutus', 'have', 'him', 'is', 'made']...>
+Dictionary<2 unique tokens: ['good', 'thomas']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['albany']>
+Dictionary<7 unique tokens: ['alas', 'from', 'have', 'house', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['tamora']>
+Dictionary<9 unique tokens: ['and', 'bloody', 'curse', 'house', 'i']...>
+Dictionary<6 unique tokens: ['if', 'know', 'sight', 'us', 'well']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['countess']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['malvolio']>
+Dictionary<11 unique tokens: ['am', 'and', 'fe', 'i', 'jove']...>
+Dictionary<10 unique tokens: ['a', 'and', 'be', 'credit', 'lordship']...>
+Dictionary<9 unique tokens: ['action', 'as', 'moved', 'my', 'profess']...>
+Dictionary<7 unique tokens: ['before', 'confess', 'do', 'duke', 'quench']...>
+Dictionary<10 unique tokens: ['befeen', 'for', 'holes', 'in', 'kings']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['rosaline']>
+Dictionary<9 unique tokens: ['call', 'dishonour', 'fault', 'if', 'is']...>
+Dictionary<13 unique tokens: ['defile', 'ere', 'every', 'gives', 'his']...>
+Dictionary<3 unique tokens: ['desired', 'dust', 'was']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'vincentio']>
+Dictionary<11 unique tokens: ['a', 'and', 'bed', 'fast', 'great']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ferdinand']>
+Dictionary<10 unique tokens: ['and', 'defend', 'fell', 'heads', 'i']...>
+Dictionary<11 unique tokens: ['as', 'brought', 'hath', 'he', 'it']...>
+Dictionary<8 unique tokens: ['but', 'given', 'i', 'judgment', 'made']...>
+Dictionary<9 unique tokens: ['and', 'death', 'forbid', 'i', 'in']...>
+Dictionary<9 unique tokens: ['and', 'brother', 'head', 'his', 'honours']...>
+Dictionary<11 unique tokens: ['and', 'broke', 'gate', 'had', 'much']...>
+Dictionary<11 unique tokens: ['and', 'sgrieve', 'take', 'the', 'thrice']...>
+Dictionary<10 unique tokens: ['by', 'heaven', 'lie', 'lord', 'my']...>
+Dictionary<9 unique tokens: ['and', 'are', 'cassius', 'mad', 'maiden']...>
+Dictionary<7 unique tokens: ['and', 'bended', 'heralds', 'in', 'is']...>
+Dictionary<13 unique tokens: ['a', 'affords', 'and', 'but', 'gone']...>
+Dictionary<11 unique tokens: ['dish', 'flint', 'give', 'her', 'ill']...>
+Dictionary<11 unique tokens: ['and', 'arms', 'can', 'distinct', 'herself']...>
+Dictionary<8 unique tokens: ['been', 'done', 'for', 'give', 'induct']...>
+Dictionary<11 unique tokens: ['because', 'gentle', 'i', 'made', 'music']...>
+Dictionary<2 unique tokens: ['thee', 'upon']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassius']>
+Dictionary<3 unique tokens: ['iago', 'murderer', 'on']>
+Dictionary<4 unique tokens: ['cry', 'gone', 'ill', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cleopatra']>
+Dictionary<11 unique tokens: ['a', 'i', 'like', 'pursue', 'shall']...>
+Dictionary<8 unique tokens: ['and', 'fawnings', 'love', 'my', 'now']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['sly']>
+Dictionary<6 unique tokens: ['grant', 'more', 'or', 'people', 'will']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lady', 'macbeth']>
+Dictionary<13 unique tokens: ['dost', 'duke', 'i', 'lose', 'o']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<9 unique tokens: ['as', 'be', 'brothers', 'hammers', 'iron']...>
+Dictionary<10 unique tokens: ['at', 'did', 'every', 'her', 'in']...>
+Dictionary<7 unique tokens: ['commendable', 'from', 'justice', 'she', 'the']...>
+Dictionary<10 unique tokens: ['are', 'armys', 'born', 'but', 'ferend']...>
+Dictionary<11 unique tokens: ['could', 'dowry', 'have', 'in', 'lost']...>
+Dictionary<7 unique tokens: ['affection', 'again', 'as', 'good', 'lies']...>
+Dictionary<9 unique tokens: ['a', 'at', 'be', 'characters', 'gelding']...>
+Dictionary<8 unique tokens: ['bear', 'hence', 'in', 'more', 'of']...>
+Dictionary<7 unique tokens: ['but', 'caught', 'from', 'have', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['isabella']>
+Dictionary<5 unique tokens: ['and', 'not', 'so', 'stayd', 'why']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pistol']>
+Dictionary<8 unique tokens: ['be', 'expired', 'full', 'of', 'out']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['falstaff']>
+Dictionary<10 unique tokens: ['and', 'break', 'challenge', 'creature', 'good']...>
+Dictionary<10 unique tokens: ['a', 'an', 'but', 'come', 'excellent']...>
+Dictionary<10 unique tokens: ['all', 'and', 'bekon', 'but', 'head']...>
+Dictionary<11 unique tokens: ['a', 'be', 'court', 'creatures', 'deadly']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['douglas', 'earl', 'of']>
+Dictionary<5 unique tokens: ['break', 'shall', 'sun', 'the', 'we']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bactista']>
+Dictionary<9 unique tokens: ['and', 'ay', 'could', 'frenchman', 'not']...>
+Dictionary<10 unique tokens: ['alone', 'did', 'feel', 'i', 'let']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['catesby']>
+Dictionary<11 unique tokens: ['fellow', 'full', 'hast', 'i', 'me']...>
+Dictionary<6 unique tokens: ['i', 'it', 'now', 'pageant', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['buckingham']>
+Dictionary<9 unique tokens: ['all', 'arms', 'half', 'have', 'landed']...>
+Dictionary<9 unique tokens: ['hearts', 'i', 'in', 'many', 'observe']...>
+Dictionary<12 unique tokens: ['and', 'another', 'body', 'have', 'heaven']...>
+Dictionary<8 unique tokens: ['and', 'cousin', 'daughter', 'our', 'preserved']...>
+Dictionary<14 unique tokens: ['ambition', 'and', 'but', 'can', 'finger']...>
+Dictionary<13 unique tokens: ['by', 'dinner', 'go', 'have', 'i']...>
+Dictionary<3 unique tokens: ['bed', 'speak', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['anne']>
+Dictionary<8 unique tokens: ['a', 'alexas', 'grace', 'of', 'party']...>
+Dictionary<10 unique tokens: ['and', 'but', 'displaced', 'have', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['dauglas', 'of', 'sir']>
+Dictionary<9 unique tokens: ['better', 'dependent', 'faith', 'have', 'i']...>
+Dictionary<8 unique tokens: ['contain', 'iware', 'lucius', 'sale', 'that']...>
+Dictionary<5 unique tokens: ['angry', 'five', 'seet', 'to', 'were']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['claudio']>
+Dictionary<7 unique tokens: ['arms', 'art', 'here', 'my', 'taste']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['host']>
+Dictionary<6 unique tokens: ['art', 'commend', 'it', 'put', 'thou']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duchess', 'of', 'york']>
+Dictionary<9 unique tokens: ['and', 'i', 'look', 'no', 'out']...>
+Dictionary<8 unique tokens: ['a', 'consequence', 'inquire', 'not', 'she']...>
+Dictionary<7 unique tokens: ['and', 'borne', 'dear', 'her', 'his']...>
+Dictionary<10 unique tokens: ['a', 'be', 'but', 'done', 'ere']...>
+Dictionary<9 unique tokens: ['have', 'his', 'in', 'must', 'my']...>
+Dictionary<10 unique tokens: ['a', 'arms', 'been', 'holds', 'london']...>
+Dictionary<7 unique tokens: ['a', 'as', 'finger', 'in', 'many']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['charmian']>
+Dictionary<9 unique tokens: ['and', 'as', 'do', 'greatness', 'like']...>
+Dictionary<9 unique tokens: ['and', 'army', 'finds', 'it', 'mercutio']...>
+Dictionary<9 unique tokens: ['at', 'blunt', 'is', 'live', 'mouths']...>
+Dictionary<6 unique tokens: ['be', 'but', 'her', 'kingdom', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['charmian']>
+Dictionary<4 unique tokens: ['a', 'master', 'stay', 'why']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'second']>
+Dictionary<6 unique tokens: ['bassanios', 'creature', 'head', 'lord', 'sirrah']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['evans', 'hugh', 'sir']>
+Dictionary<11 unique tokens: ['all', 'and', 'in', 'ist', 'so']...>
+Dictionary<8 unique tokens: ['am', 'as', 'brutus', 'but', 'entirely']...>
+Dictionary<8 unique tokens: ['a', 'bald', 'correct', 'heaven', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['claudius', 'king']>
+Dictionary<1 unique tokens: ['forbear']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['iii', 'king', 'richard']>
+Dictionary<10 unique tokens: ['and', 'hope', 'i', 'love', 'most']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['timon']>
+Dictionary<6 unique tokens: ['ages', 'help', 'is', 'many', 'only']...>
+Dictionary<14 unique tokens: ['a', 'and', 'bares', 'fellows', 'friends']...>
+Dictionary<7 unique tokens: ['antony', 'as', 'betray', 'keepers', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bottom']>
+Dictionary<5 unique tokens: ['matter', 'same', 'that', 'this', 'what']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['charmian']>
+Dictionary<8 unique tokens: ['a', 'cirrolus', 'cloak', 'even', 'now']...>
+Dictionary<7 unique tokens: ['and', 'dissenture', 'force', 'pricketh', 'shadows']...>
+Dictionary<5 unique tokens: ['be', 'could', 'he', 'safe', 'until']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'huntingman']>
+Dictionary<8 unique tokens: ['am', 'and', 'i', 'mardy', 'of']...>
+Dictionary<8 unique tokens: ['he', 'help', 'mercy', 'not', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassius']>
+Dictionary<4 unique tokens: ['have', 'something', 'stoln', 'we']>
+Dictionary<5 unique tokens: ['but', 'for', 'not', 'seen', 'tis']>
+Dictionary<11 unique tokens: ['a', 'backs', 'bleed', 'cease', 'hand']...>
+Dictionary<10 unique tokens: ['and', 'are', 'enough', 'ill', 'it']...>
+Dictionary<8 unique tokens: ['and', 'father', 'gentlemen', 'here', 'is']...>
+Dictionary<7 unique tokens: ['and', 'but', 'court', 'fair', 'never']...>
+Dictionary<8 unique tokens: ['and', 'eilded', 'i', 'my', 'part']...>
+Dictionary<9 unique tokens: ['as', 'believe', 'elderkin', 'he', 'i']...>
+Dictionary<8 unique tokens: ['as', 'have', 'honour', 'now', 'sets']...>
+Dictionary<8 unique tokens: ['flesh', 'i', 'narrow', 'of', 'terror']...>
+Dictionary<3 unique tokens: ['cassius', 'dews', 'lady']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['edgar']>
+Dictionary<3 unique tokens: ['so', 'valiant', 'wheres']>
+Dictionary<7 unique tokens: ['and', 'brutus', 'catch', 'estiff', 'intended']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['bolingbroke', 'henry']>
+Dictionary<8 unique tokens: ['and', 'art', 'beaten', 'deceived', 'gold']...>
+Dictionary<9 unique tokens: ['a', 'and', 'earth', 'gods', 'half']...>
+Dictionary<9 unique tokens: ['as', 'cry', 'not', 'she', 'should']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['vernon']>
+Dictionary<7 unique tokens: ['be', 'copperd', 'must', 'my', 'sovereign']...>
+Dictionary<11 unique tokens: ['by', 'dish', 'followd', 'hath', 'he']...>
+Dictionary<6 unique tokens: ['feast', 'forsooth', 'harmony', 'his', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<11 unique tokens: ['goodness', 'hear', 'object', 'of', 'prove']...>
+Dictionary<5 unique tokens: ['and', 'like', 'sometimes', 'time', 'warrant']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'second']>
+Dictionary<11 unique tokens: ['and', 'but', 'highness', 'him', 'leave']...>
+Dictionary<8 unique tokens: ['a', 'and', 'be', 'hoes', 'of']...>
+Dictionary<8 unique tokens: ['and', 'as', 'carved', 'have', 'i']...>
+Dictionary<8 unique tokens: ['an', 'and', 'fair', 'hour', 'known']...>
+Dictionary<8 unique tokens: ['day', 'follows', 'love', 'that', 'the']...>
+Dictionary<11 unique tokens: ['conceited', 'for', 'in', 'look', 'or']...>
+Dictionary<10 unique tokens: ['as', 'fail', 'heels', 'it', 'o']...>
+Dictionary<9 unique tokens: ['and', 'by', 'distribute', 'ravish', 'should']...>
+Dictionary<8 unique tokens: ['but', 'contempture', 'give', 'his', 'in']...>
+Dictionary<13 unique tokens: ['and', 'as', 'easest', 'him', 'it']...>
+Dictionary<9 unique tokens: ['a', 'heart', 'heat', 'i', 'my']...>
+Dictionary<8 unique tokens: ['a', 'brother', 'helens', 'lockd', 'sister']...>
+Dictionary<9 unique tokens: ['but', 'friends', 'in', 'it', 'look']...>
+Dictionary<10 unique tokens: ['and', 'crowns', 'for', 'forth', 'grudge']...>
+Dictionary<3 unique tokens: ['again', 'come', 'or']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['claudius', 'king']>
+Dictionary<8 unique tokens: ['are', 'forbear', 'offence', 'poet', 'suit']...>
+Dictionary<9 unique tokens: ['be', 'faint', 'fit', 'for', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['caesar', 'octavius']>
+Dictionary<9 unique tokens: ['cupboser', 'of', 'plant', 'prepare', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'king', 'v']>
+Dictionary<6 unique tokens: ['am', 'die', 'i', 'no', 'right']...>
+Dictionary<10 unique tokens: ['cross', 'dearest', 'for', 'it', 'lucius']...>
+Dictionary<13 unique tokens: ['duty', 'fire', 'hate', 'hold', 'ill']...>
+Dictionary<9 unique tokens: ['and', 'counsel', 'fallend', 'have', 'here']...>
+Dictionary<9 unique tokens: ['and', 'by', 'i', 'it', 'might']...>
+Dictionary<10 unique tokens: ['fetch', 'fruitful', 'head', 'in', 'little']...>
+Dictionary<10 unique tokens: ['and', 'believe', 'but', 'does', 'for']...>
+Dictionary<10 unique tokens: ['armd', 'brother', 'came', 'his', 'is']...>
+Dictionary<11 unique tokens: ['can', 'come', 'darest', 'graceful', 'if']...>
+Dictionary<9 unique tokens: ['him', 'i', 'left', 'me', 'think']...>
+Dictionary<8 unique tokens: ['and', 'be', 'could', 'deliverance', 'say']...>
+Dictionary<11 unique tokens: ['and', 'at', 'forehead', 'live', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['duke']>
+Dictionary<14 unique tokens: ['borrow', 'but', 'free', 'hollow', 'how']...>
+Dictionary<8 unique tokens: ['all', 'eeard', 'know', 'say', 'what']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['petruchio']>
+Dictionary<7 unique tokens: ['alas', 'go', 'part', 'ratcliff', 'to']...>
+Dictionary<9 unique tokens: ['but', 'hated', 'hot', 'king', 'leave']...>
+Dictionary<10 unique tokens: ['and', 'find', 'i', 'perchance', 'see']...>
+Dictionary<9 unique tokens: ['and', 'are', 'did', 'for', 'houdly']...>
+Dictionary<7 unique tokens: ['a', 'knowest', 'loss', 'nursed', 'passion']...>
+Dictionary<5 unique tokens: ['ake', 'and', 'every', 'place', 'presumely']>
+Dictionary<6 unique tokens: ['and', 'another', 'beggar', 'goble', 'one']...>
+Dictionary<13 unique tokens: ['and', 'bait', 'be', 'canst', 'for']...>
+Dictionary<15 unique tokens: ['all', 'as', 'but', 'gabes', 'in']...>
+Dictionary<7 unique tokens: ['at', 'conflunction', 'endure', 'hamper', 'their']...>
+Dictionary<12 unique tokens: ['a', 'father', 'for', 'had', 'hath']...>
+Dictionary<6 unique tokens: ['keep', 'me', 'of', 'that', 'which']...>
+Dictionary<10 unique tokens: ['and', 'but', 'displeasure', 'mine', 'of']...>
+Dictionary<8 unique tokens: ['and', 'got', 'have', 'heads', 'his']...>
+Dictionary<12 unique tokens: ['base', 'be', 'fall', 'halt', 'how']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['coriolanus']>
+Dictionary<10 unique tokens: ['be', 'come', 'done', 'else', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'servingman']>
+Dictionary<9 unique tokens: ['at', 'both', 'by', 'even', 'five']...>
+Dictionary<10 unique tokens: ['arming', 'as', 'from', 'i', 'if']...>
+Dictionary<2 unique tokens: ['come', 'ill']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'second']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<5 unique tokens: ['are', 'howsoeer', 'long', 'too', 'we']>
+Dictionary<8 unique tokens: ['an', 'farewell', 'had', 'i', 'it']...>
+Dictionary<10 unique tokens: ['by', 'command', 'do', 'doth', 'me']...>
+Dictionary<8 unique tokens: ['against', 'and', 'face', 'my', 'seize']...>
+Dictionary<3 unique tokens: ['is', 'not', 'undirected']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
+Dictionary<8 unique tokens: ['and', 'before', 'ground', 'have', 'through']...>
+Dictionary<9 unique tokens: ['didst', 'feeding', 'from', 'me', 'praise']...>
+Dictionary<4 unique tokens: ['lack', 'me', 'oerpeach', 'ports']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<7 unique tokens: ['bed', 'blue', 'drinks', 'godly', 'his']...>
+Dictionary<11 unique tokens: ['a', 'as', 'averch', 'fellows', 'heart']...>
+Dictionary<10 unique tokens: ['a', 'as', 'awhile', 'city', 'falsely']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cressida']>
+Dictionary<8 unique tokens: ['bill', 'do', 'duty', 'in', 'sequellous']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['antipholus', 'of', 'syracuse']>
+Dictionary<12 unique tokens: ['all', 'be', 'but', 'i', 'in']...>
+Dictionary<6 unique tokens: ['give', 'it', 'pirate', 'pray', 'you']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['horatio']>
+Dictionary<9 unique tokens: ['are', 'i', 'know', 'now', 'thee']...>
+Dictionary<10 unique tokens: ['as', 'health', 'heaven', 'his', 'nut']...>
+Dictionary<6 unique tokens: ['about', 'elessing', 'grave', 'spirit', 'tarry']...>
+Dictionary<9 unique tokens: ['are', 'as', 'cheeks', 'her', 'of']...>
+Dictionary<8 unique tokens: ['all', 'and', 'hath', 'heart', 'my']...>
+Dictionary<10 unique tokens: ['all', 'and', 'as', 'drunk', 'half']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gremio']>
+Dictionary<9 unique tokens: ['down', 'epithee', 'in', 'is', 'methought']...>
+Dictionary<11 unique tokens: ['a', 'amongst', 'and', 'by', 'good']...>
+Dictionary<6 unique tokens: ['go', 'he', 'thee', 'what', 'will']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['citizen', 'third']>
+Dictionary<3 unique tokens: ['mine', 'own', 'prevail']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ajax']>
+Dictionary<8 unique tokens: ['and', 'asugnable', 'fairly', 'i', 'not']...>
+Dictionary<7 unique tokens: ['as', 'bosom', 'every', 'for', 'one']...>
+Dictionary<8 unique tokens: ['encounter', 'me', 'on', 'pay', 'should']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['silvius']>
+Dictionary<7 unique tokens: ['all', 'any', 'are', 'the', 'thing']...>
+Dictionary<3 unique tokens: ['keep', 'thus', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['second', 'servingman']>
+Dictionary<10 unique tokens: ['go', 'pray', 'shall', 'she', 'that']...>
+Dictionary<11 unique tokens: ['all', 'and', 'hast', 'i', 'it']...>
+Dictionary<11 unique tokens: ['a', 'appears', 'as', 'but', 'eyes']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['margaret', 'queen']>
+Dictionary<11 unique tokens: ['are', 'expose', 'if', 'it', 'my']...>
+Dictionary<10 unique tokens: ['aloft', 'and', 'ards', 'are', 'done']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<9 unique tokens: ['be', 'before', 'done', 'either', 'he']...>
+Dictionary<9 unique tokens: ['and', 'be', 'from', 'graciously', 'me']...>
+Dictionary<6 unique tokens: ['for', 'is', 'it', 'power', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['roderigo']>
+Dictionary<8 unique tokens: ['andronicus', 'i', 'know', 'o', 'place']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['margaret', 'queen']>
+Dictionary<11 unique tokens: ['a', 'day', 'fares', 'how', 'it']...>
+Dictionary<9 unique tokens: ['all', 'be', 'friends', 'give', 'his']...>
+Dictionary<9 unique tokens: ['hielding', 'him', 'in', 'other', 'some']...>
+Dictionary<10 unique tokens: ['and', 'good', 'not', 'on', 'sight']...>
+Dictionary<8 unique tokens: ['and', 'dignity', 'grief', 'in', 'save']...>
+Dictionary<7 unique tokens: ['and', 'gainst', 'i', 'love', 'ones']...>
+Dictionary<7 unique tokens: ['come', 'his', 'i', 'ill', 'majesty']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['antonio']>
+Dictionary<1 unique tokens: ['ha']>
+Dictionary<8 unique tokens: ['bowl', 'executioners', 'in', 'of', 'should']...>
+Dictionary<9 unique tokens: ['go', 'man', 'of', 'ring', 'so']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['sicinius']>
+Dictionary<2 unique tokens: ['we', 'will']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['salarino']>
+Dictionary<11 unique tokens: ['bell', 'haps', 'how', 'lurk', 'me']...>
+Dictionary<7 unique tokens: ['hath', 'he', 'nobles', 'not', 'omnon']...>
+Dictionary<4 unique tokens: ['ended', 'envy', 'her', 'huge']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ventidius']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['caesar', 'octavius']>
+Dictionary<10 unique tokens: ['doctor', 'english', 'great', 'i', 'qualified']...>
+Dictionary<8 unique tokens: ['bear', 'find', 'good', 'i', 'more']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['shepherd']>
+Dictionary<11 unique tokens: ['ears', 'grace', 'his', 'if', 'lord']...>
+Dictionary<10 unique tokens: ['heav', 'her', 'i', 'indeed', 'knees']...>
+Dictionary<11 unique tokens: ['all', 'fortune', 'from', 'good', 'on']...>
+Dictionary<10 unique tokens: ['a', 'and', 'fellows', 'from', 'go']...>
+Dictionary<9 unique tokens: ['a', 'ever', 'gains', 'how', 'it']...>
+Dictionary<9 unique tokens: ['and', 'beggd', 'it', 'jade', 'mothers']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['elvina']>
+Dictionary<10 unique tokens: ['both', 'for', 'in', 'men', 'mouth']...>
+Dictionary<8 unique tokens: ['and', 'as', 'courtfrails', 'hearted', 'highness']...>
+Dictionary<9 unique tokens: ['at', 'i', 'if', 'instruct', 'look']...>
+Dictionary<4 unique tokens: ['her', 'it', 'took', 'why']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['iago']>
+Dictionary<4 unique tokens: ['the', 'was', 'what', 'world']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['charmian']>
+Dictionary<9 unique tokens: ['and', 'he', 'her', 'his', 'marriage']...>
+Dictionary<10 unique tokens: ['before', 'fancy', 'grace', 'lie', 'my']...>
+Dictionary<7 unique tokens: ['as', 'if', 'is', 'of', 'revenge']...>
+Dictionary<8 unique tokens: ['and', 'destroy', 'me', 'measure', 'paris']...>
+Dictionary<5 unique tokens: ['and', 'encounters', 'industry', 'of', 'those']>
+Dictionary<11 unique tokens: ['as', 'be', 'captain', 'cuckold', 'for']...>
+Dictionary<10 unique tokens: ['but', 'did', 'gone', 'hers', 'is']...>
+Dictionary<10 unique tokens: ['be', 'friend', 'much', 'my', 'neer']...>
+Dictionary<9 unique tokens: ['a', 'countenanced', 'deliver', 'fool', 'hath']...>
+Dictionary<7 unique tokens: ['am', 'have', 'i', 'longed', 'so']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['suffolk']>
+Dictionary<7 unique tokens: ['and', 'excellent', 'fifth', 'give', 'success']...>
+Dictionary<10 unique tokens: ['but', 'doth', 'go', 'good', 'heres']...>
+Dictionary<7 unique tokens: ['a', 'acquainted', 'being', 'breathure', 'deer']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['shepherd']>
+Dictionary<11 unique tokens: ['are', 'articles', 'bastard', 'how', 'love']...>
+Dictionary<7 unique tokens: ['and', 'not', 'overfoold', 'pain', 'since']...>
+Dictionary<9 unique tokens: ['before', 'chafe', 'fear', 'hand', 'horse']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['buckingham']>
+Dictionary<9 unique tokens: ['affairs', 'and', 'are', 'cowardy', 'great']...>
+Dictionary<6 unique tokens: ['banquet', 'more', 'of', 'several', 'than']...>
+Dictionary<8 unique tokens: ['be', 'dream', 'from', 'outraged', 'the']...>
+Dictionary<6 unique tokens: ['bring', 'do', 'hands', 'i', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['falstaff']>
+Dictionary<10 unique tokens: ['am', 'and', 'fathers', 'husband', 'i']...>
+Dictionary<9 unique tokens: ['back', 'begins', 'her', 'is', 'my']...>
+Dictionary<8 unique tokens: ['are', 'climb', 'proved', 'several', 'that']...>
+Dictionary<3 unique tokens: ['an', 'untelling', 'up']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['suffolk']>
+Dictionary<12 unique tokens: ['did', 'free', 'hath', 'he', 'his']...>
+Dictionary<2 unique tokens: ['cleopatra', 'good']>
+Dictionary<5 unique tokens: ['froze', 'me', 'pardon', 'thee', 'yourself']>
+Dictionary<10 unique tokens: ['amazed', 'blush', 'cities', 'drops', 'first']...>
+Dictionary<8 unique tokens: ['as', 'astempt', 'but', 'diseases', 'every']...>
+Dictionary<9 unique tokens: ['and', 'cheeks', 'fine', 'for', 'head']...>
+Dictionary<8 unique tokens: ['fearful', 'in', 'lady', 'nod', 'nouse']...>
+Dictionary<11 unique tokens: ['am', 'angelo', 'how', 'i', 'left']...>
+Dictionary<7 unique tokens: ['city', 'did', 'henceforth', 'it', 'the']...>
+Dictionary<8 unique tokens: ['a', 'and', 'for', 'hath', 'love']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['sebastian']>
+Dictionary<7 unique tokens: ['advices', 'i', 'master', 'my', 'say']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['biron']>
+Dictionary<3 unique tokens: ['lord', 'my', 'why']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['outlaw', 'second']>
+Dictionary<11 unique tokens: ['are', 'as', 'myself', 'see', 'sir']...>
+Dictionary<5 unique tokens: ['common', 'of', 'sword', 'wife', 'your']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['paulina']>
+Dictionary<5 unique tokens: ['incense', 'me', 'tell', 'that', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['ophelia']>
+Dictionary<2 unique tokens: ['sir', 'yea']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['guisture', 'sixs']>
+Dictionary<10 unique tokens: ['a', 'but', 'disobdering', 'i', 'is']...>
+Dictionary<3 unique tokens: ['nine', 'sickly', 'stiff']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['agamemnon']>
+Dictionary<8 unique tokens: ['a', 'come', 'first', 'is', 'longer']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['denilo', 'second']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['romeo']>
+Dictionary<4 unique tokens: ['peace', 'that', 'too', 'whos']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['falstaff']>
+Dictionary<7 unique tokens: ['i', 'indeed', 'malvolio', 'mistress', 'sir']...>
+Dictionary<11 unique tokens: ['and', 'as', 'could', 'do', 'every']...>
+Dictionary<6 unique tokens: ['be', 'if', 'mayst', 'or', 'so']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['timon']>
+Dictionary<8 unique tokens: ['a', 'daughter', 'hast', 'hath', 'old']...>
+Dictionary<2 unique tokens: ['conduct', 'snown']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['messenger']>
+Dictionary<9 unique tokens: ['and', 'avoid', 'confess', 'lord', 'must']...>
+Dictionary<11 unique tokens: ['away', 'but', 'expose', 'him', 'his']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['belch', 'sir', 'toby']>
+Dictionary<8 unique tokens: ['and', 'fellow', 'half', 'kingdom', 'mighty']...>
+Dictionary<5 unique tokens: ['for', 'rutland', 'shrewsbury', 'smiles', 'to']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['rosalind']>
+Dictionary<11 unique tokens: ['gracious', 'heared', 'i', 'infant', 'lady']...>
+Dictionary<4 unique tokens: ['come', 'correction', 'shalt', 'thou']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['lord', 'second']>
+Dictionary<6 unique tokens: ['came', 'down', 'it', 'marry', 'well']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['katharina']>
+Dictionary<9 unique tokens: ['art', 'duching', 'full', 'hotspur', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['aeneas']>
+Dictionary<10 unique tokens: ['any', 'come', 'court', 'fat', 'in']...>
+Dictionary<7 unique tokens: ['able', 'being', 'consequence', 'here', 'i']...>
+Dictionary<10 unique tokens: ['all', 'and', 'flesh', 'for', 'gainst']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
+Dictionary<7 unique tokens: ['army', 'back', 'go', 'so', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['king', 'philip']>
+Dictionary<7 unique tokens: ['almost', 'hears', 'i', 'is', 'meet']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'lady']>
+Dictionary<6 unique tokens: ['call', 'flower', 'gallant', 'him', 'the']...>
+Dictionary<10 unique tokens: ['and', 'has', 'i', 'it', 'men']...>
+Dictionary<10 unique tokens: ['and', 'become', 'ill', 'it', 'of']...>
+Dictionary<8 unique tokens: ['a', 'basely', 'child', 'fleety', 'him']...>
+Dictionary<11 unique tokens: ['are', 'but', 'hence', 'of', 'required']...>
+Dictionary<11 unique tokens: ['air', 'all', 'and', 'be', 'born']...>
+Dictionary<7 unique tokens: ['at', 'he', 'past', 'purged', 'therefore']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pandarus']>
+Dictionary<11 unique tokens: ['a', 'by', 'day', 'for', 'good']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duke', 'of', 'york']>
+Dictionary<10 unique tokens: ['child', 'damnd', 'honour', 'ill', 'out']...>
+Dictionary<9 unique tokens: ['a', 'compare', 'death', 'if', 'my']...>
+Dictionary<9 unique tokens: ['choice', 'foolish', 'her', 'indeed', 'is']...>
+Dictionary<8 unique tokens: ['absolutes', 'famous', 'lunacy', 'make', 'of']...>
+Dictionary<8 unique tokens: ['a', 'and', 'being', 'bloody', 'destruction']...>
+Dictionary<6 unique tokens: ['are', 'brinding', 'cotmusion', 'done', 'present']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['tranio']>
+Dictionary<5 unique tokens: ['a', 'beggar', 'gentlemen', 'what', 'your']>
+Dictionary<12 unique tokens: ['a', 'comprevent', 'fence', 'gallant', 'her']...>
+Dictionary<7 unique tokens: ['command', 'edges', 'of', 'our', 'point']...>
+Dictionary<4 unique tokens: ['of', 'stone', 'this', 'wines']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['oswald']>
+Dictionary<12 unique tokens: ['are', 'come', 'loath', 'more', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['belarius']>
+Dictionary<7 unique tokens: ['and', 'ay', 'mortaly', 'our', 'set']...>
+Dictionary<8 unique tokens: ['answer', 'assemble', 'can', 'fair', 'glass']...>
+Dictionary<10 unique tokens: ['a', 'between', 'her', 'i', 'new']...>
+Dictionary<8 unique tokens: ['die', 'do', 'halfherbiting', 'he', 'i']...>
+Dictionary<11 unique tokens: ['do', 'if', 'it', 'mood', 'of']...>
+Dictionary<8 unique tokens: ['blabbing', 'call', 'enterprise', 'on', 'people']...>
+Dictionary<9 unique tokens: ['after', 'and', 'do', 'ill', 'name']...>
+Dictionary<8 unique tokens: ['adam', 'as', 'at', 'ever', 'fixed']...>
+Dictionary<8 unique tokens: ['and', 'by', 'is', 'it', 'known']...>
+Dictionary<6 unique tokens: ['all', 'court', 'infurnity', 'of', 'the']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['anmonio']>
+Dictionary<9 unique tokens: ['a', 'enough', 'for', 'him', 'i']...>
+Dictionary<8 unique tokens: ['about', 'am', 'citys', 'current', 'household']...>
+Dictionary<11 unique tokens: ['a', 'air', 'drop', 'fell', 'it']...>
+Dictionary<10 unique tokens: ['a', 'as', 'at', 'chamber', 'i']...>
+Dictionary<11 unique tokens: ['and', 'as', 'doth', 'get', 'head']...>
+Dictionary<10 unique tokens: ['banishd', 'boy', 'but', 'health', 'it']...>
+Dictionary<3 unique tokens: ['have', 'not', 'spurnd']>
+Dictionary<9 unique tokens: ['could', 'edges', 'holds', 'my', 'pompey']...>
+Dictionary<5 unique tokens: ['happy', 'heavens', 'our', 'say', 'then']>
+Dictionary<10 unique tokens: ['am', 'despised', 'down', 'i', 'passion']...>
+Dictionary<8 unique tokens: ['discharge', 'int', 'is', 'itself', 'my']...>
+Dictionary<9 unique tokens: ['am', 'gone', 'i', 'me', 'not']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['bertram']>
+Dictionary<11 unique tokens: ['a', 'and', 'box', 'is', 'not']...>
+Dictionary<12 unique tokens: ['am', 'be', 'his', 'i', 'if']...>
+Dictionary<8 unique tokens: ['conjured', 'have', 'inclination', 'my', 'that']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['caius', 'doctor']>
+Dictionary<9 unique tokens: ['and', 'blood', 'chance', 'gods', 'of']...>
+Dictionary<10 unique tokens: ['another', 'belly', 'chaste', 'he', 'in']...>
+Dictionary<6 unique tokens: ['and', 'corage', 'his', 'is', 'it']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['shallow']>
+Dictionary<9 unique tokens: ['and', 'brows', 'from', 'if', 'measure']...>
+Dictionary<7 unique tokens: ['and', 'close', 'from', 'grey', 'him']...>
+Dictionary<8 unique tokens: ['a', 'as', 'company', 'doting', 'eat']...>
+Dictionary<7 unique tokens: ['athenian', 'is', 'nature', 'the', 'then']...>
+Dictionary<8 unique tokens: ['added', 'made', 'my', 'not', 'only']...>
+Dictionary<11 unique tokens: ['bullset', 'command', 'for', 'good', 'his']...>
+Dictionary<4 unique tokens: ['dost', 'go', 'if', 'thou']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['valentine']>
+Dictionary<6 unique tokens: ['be', 'called', 'chiefest', 'deserved', 'hath']...>
+Dictionary<7 unique tokens: ['almost', 'effected', 'fland', 'in', 'suit']...>
+Dictionary<8 unique tokens: ['again', 'cains', 'colour', 'golden', 'grass']...>
+Dictionary<5 unique tokens: ['business', 'head', 'must', 'pursue', 'the']>
+Dictionary<7 unique tokens: ['all', 'basket', 'body', 'growthed', 'mans']...>
+Dictionary<9 unique tokens: ['and', 'hill', 'party', 'sight', 'slews']...>
+Dictionary<11 unique tokens: ['abhorrd', 'be', 'face', 'her', 'his']...>
+Dictionary<10 unique tokens: ['and', 'ere', 'her', 'spirits', 'that']...>
+Dictionary<7 unique tokens: ['absent', 'and', 'at', 'doing', 'man']...>
+Dictionary<9 unique tokens: ['and', 'fear', 'hands', 'in', 'means']...>
+Dictionary<11 unique tokens: ['doings', 'friends', 'i', 'lose', 'state']...>
+Dictionary<9 unique tokens: ['and', 'before', 'filthy', 'husbands', 'is']...>
+Dictionary<9 unique tokens: ['be', 'folly', 'have', 'he', 'i']...>
+Dictionary<10 unique tokens: ['as', 'bosom', 'court', 'jolt', 'leave']...>
+Dictionary<9 unique tokens: ['corrupt', 'in', 'is', 'it', 'noble']...>
+Dictionary<10 unique tokens: ['and', 'between', 'break', 'gentleman', 'horse']...>
+Dictionary<3 unique tokens: ['and', 'burgundy', 'princely']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['pompey']>
+Dictionary<10 unique tokens: ['a', 'but', 'euphin', 'frosty', 'give']...>
+Dictionary<9 unique tokens: ['beggar', 'speak', 'tame', 'that', 'the']...>
+Dictionary<10 unique tokens: ['and', 'blunt', 'hour', 'i', 'loved']...>
+Dictionary<12 unique tokens: ['a', 'abated', 'be', 'boy', 'great']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['lucius']>
+Dictionary<4 unique tokens: ['ah', 'by', 'my', 'soul']>
+Dictionary<10 unique tokens: ['die', 'durst', 'have', 'hear', 'i']...>
+Dictionary<5 unique tokens: ['can', 'cool', 'not', 'rather', 'see']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['gloucester']>
+Dictionary<5 unique tokens: ['gludge', 'i', 'in', 'sir', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['antony', 'mark']>
+Dictionary<8 unique tokens: ['accident', 'digest', 'dost', 'doth', 'if']...>
+Dictionary<8 unique tokens: ['and', 'george', 'know', 'me', 'old']...>
+Dictionary<10 unique tokens: ['even', 'he', 'in', 'it', 'praise']...>
+Dictionary<6 unique tokens: ['be', 'black', 'could', 'received', 'scurvy']...>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['duke', 'of', 'york']>
+Dictionary<6 unique tokens: ['ha', 'hold', 'i', 'serve', 'thee']...>
+Dictionary<7 unique tokens: ['command', 'his', 'in', 'joy', 'of']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['rosalind']>
+Dictionary<1 unique tokens: ['edward']>
+Dictionary<15 unique tokens: ['are', 'be', 'boys', 'do', 'here']...>
+Dictionary<7 unique tokens: ['and', 'breedingwomen', 'brought', 'eight', 'in']...>
+Dictionary<10 unique tokens: ['caesar', 'conduct', 'down', 'have', 'now']...>
+Dictionary<3 unique tokens: ['dead', 'hast', 'thou']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['escalus']>
+Dictionary<9 unique tokens: ['all', 'but', 'have', 'hew', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['second', 'soldier']>
+Dictionary<9 unique tokens: ['a', 'and', 'bed', 'breathinggilded', 'false']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['second', 'servingman']>
+Dictionary<11 unique tokens: ['a', 'day', 'every', 'grace', 'hear']...>
+Dictionary<11 unique tokens: ['at', 'cause', 'false', 'leaden', 'o']...>
+Dictionary<7 unique tokens: ['beyond', 'desdemona', 'ears', 'had', 'himself']...>
+Dictionary<8 unique tokens: ['and', 'daughter', 'fathers', 'good', 'my']...>
+Dictionary<7 unique tokens: ['advantage', 'and', 'france', 'motion', 'of']...>
+Dictionary<7 unique tokens: ['holy', 'in', 'reasonable', 'these', 'unthankfulness']...>
+Dictionary<8 unique tokens: ['a', 'certain', 'heaven', 'ill', 'praise']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['rosalind']>
+Dictionary<11 unique tokens: ['a', 'bird', 'i', 'in', 'is']...>
+Dictionary<11 unique tokens: ['and', 'crown', 'france', 'go', 'peace']...>
+Dictionary<8 unique tokens: ['about', 'and', 'grief', 'husband', 'overnend']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['norfolk']>
+Dictionary<4 unique tokens: ['provost', 'stir', 'the', 'up']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['andronicus', 'marcus']>
+Dictionary<8 unique tokens: ['a', 'dead', 'errlight', 'is', 'it']...>
+Dictionary<10 unique tokens: ['beam', 'but', 'his', 'i', 'of']...>
+Dictionary<8 unique tokens: ['and', 'driving', 'famous', 'groans', 'incurable']...>
+Dictionary<10 unique tokens: ['a', 'an', 'brabble', 'envious', 'freebookboy']...>
+Dictionary<7 unique tokens: ['and', 'king', 'my', 'sisters', 'the']...>
+Dictionary<6 unique tokens: ['are', 'enforced', 'expires', 'fair', 'patiently']...>
+Dictionary<12 unique tokens: ['bring', 'fool', 'forth', 'i', 'lands']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['albany']>
+Dictionary<11 unique tokens: ['a', 'did', 'he', 'here', 'of']...>
+Dictionary<11 unique tokens: ['a', 'be', 'but', 'like', 'man']...>
+Dictionary<4 unique tokens: ['i', 'not', 'speak', 'would']>
+Dictionary<0 unique tokens: []>
+Dictionary<3 unique tokens: ['henry', 'iv', 'king']>
+Dictionary<10 unique tokens: ['have', 'his', 'i', 'never', 'not']...>
+Dictionary<6 unique tokens: ['answers', 'as', 'he', 'i', 'when']...>
+Dictionary<10 unique tokens: ['be', 'has', 'he', 'it', 'lief']...>
+Dictionary<9 unique tokens: ['and', 'be', 'but', 'calld', 'did']...>
+Dictionary<7 unique tokens: ['death', 'didst', 'have', 'heaven', 'speak']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['anne', 'page']>
+Dictionary<9 unique tokens: ['by', 'fight', 'i', 'other', 'prayers']...>
+Dictionary<9 unique tokens: ['billows', 'follow', 'him', 'i', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['clown']>
+Dictionary<10 unique tokens: ['as', 'day', 'did', 'do', 'go']...>
+Dictionary<9 unique tokens: ['a', 'by', 'fellows', 'full', 'gentlemen']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['first', 'murderer']>
+Dictionary<5 unique tokens: ['not', 'of', 'villain', 'what', 'would']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['anne', 'lord']>
+Dictionary<10 unique tokens: ['be', 'dead', 'he', 'here', 'i']...>
+Dictionary<11 unique tokens: ['a', 'deed', 'down', 'eightingly', 'foul']...>
+Dictionary<9 unique tokens: ['beget', 'do', 'forbid', 'life', 'of']...>
+Dictionary<11 unique tokens: ['by', 'gold', 'good', 'have', 'him']...>
+Dictionary<8 unique tokens: ['causes', 'have', 'i', 'my', 'on']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['horatio']>
+Dictionary<11 unique tokens: ['hear', 'him', 'hour', 'in', 'me']...>
+Dictionary<3 unique tokens: ['ill', 'warrant', 'you']>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['john', 'king']>
+Dictionary<12 unique tokens: ['her', 'i', 'john', 'pleasure', 'think']...>
+Dictionary<8 unique tokens: ['am', 'behind', 'hern', 'hours', 'i']...>
+Dictionary<7 unique tokens: ['as', 'at', 'both', 'even', 'i']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['lady']>
+Dictionary<11 unique tokens: ['been', 'day', 'defund', 'hast', 'how']...>
+Dictionary<5 unique tokens: ['a', 'arms', 'determine', 'dozen', 'shall']>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['cassio']>
+Dictionary<2 unique tokens: ['i', 'not']>
+Dictionary<10 unique tokens: ['do', 'down', 'fort', 'how', 'i']...>
+Dictionary<8 unique tokens: ['a', 'below', 'defend', 'idleness', 'in']...>
+Dictionary<6 unique tokens: ['bad', 'boy', 'cheerly', 'end', 'lethus']...>
+Dictionary<9 unique tokens: ['a', 'fool', 'hundred', 'known', 'made']...>
+Dictionary<9 unique tokens: ['above', 'been', 'by', 'have', 'head']...>
+Dictionary<10 unique tokens: ['and', 'can', 'go', 'i', 'not']...>
+Dictionary<9 unique tokens: ['and', 'before', 'crownd', 'fire', 'fought']...>
+Dictionary<12 unique tokens: ['a', 'being', 'foes', 'for', 'great']...>
+Dictionary<10 unique tokens: ['all', 'and', 'either', 'have', 'in']...>
+Dictionary<0 unique tokens: []>
+Dictionary<2 unique tokens: ['duke', 'senior']>
+Dictionary<13 unique tokens: ['a', 'and', 'but', 'custom', 'in']...>
+Dictionary<8 unique tokens: ['and', 'being', 'coated', 'giving', 'his']...>
+Dictionary<8 unique tokens: ['and', 'father', 'his', 'pride', 'same']...>
+Dictionary<8 unique tokens: ['benefits', 'death', 'she', 'speak', 'takes']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['buckingham']>
+Dictionary<7 unique tokens: ['back', 'bloody', 'guess', 'ill', 'my']...>
+Dictionary<0 unique tokens: []>
+Dictionary<1 unique tokens: ['brutus']>
