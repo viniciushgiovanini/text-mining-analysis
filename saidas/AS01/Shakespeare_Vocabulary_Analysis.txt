@@ -1,13 +1,13 @@
-Vocabulary size Lemmatizer: 3103
-Average Number of Occurrences Lemmatizer: 3.0670319046084433
-Average Number of Token Length Lemmatizer: 6.264260393167902
+Tamanho Lemmatizador: 3103
+Media de aparicoes Lemmatizer: 3.0670319046084433
+Media da qtd de Letras Lemmatizer: 6.264260393167902
 
 ----
-Vocabulary size Porter: 2842
-Average Number of Occurrences Porter: 3.348698099929627
-Average Number of Token Length Porter: 5.650246305418719
+Tamanho Porter: 2842
+Media de aparicoes Porter: 3.348698099929627
+Media da qtd de Letras Porter: 5.650246305418719
 
 ----
-Vocabulary size Snowball: 2814
-Average Number of Occurrences Snowball: 3.3820184790334045
-Average Number of Token Length Snowball: 5.654228855721393
+Tamanho Snowball: 2814
+Media de aparicoes Snowball: 3.3820184790334045
+Média da qtd de Letras Snowball: 5.654228855721393
